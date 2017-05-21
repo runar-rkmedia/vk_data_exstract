@@ -10,11 +10,6 @@ from config import configure_app
 from models import (db, Manufacturor, Product,
                     ProductType)
 from flask import Flask
-app = Flask(__name__, instance_relative_config=True)
-configure_app(app)
-db.init_app(app)
-print('Setup')
-print(app.config['SQLALCHEMY_DATABASE_URI'])
 
 
 def pop_key_from_dict_with_default(dictionary, key, default=None):
@@ -119,24 +114,43 @@ def csv_parse_multiple_files(path, **kwargs):
     return data
 
 
+def populate_db():
+    """Description."""
+    app = Flask(__name__, instance_relative_config=True)
+    configure_app(app)
+    db.init_app(app)
+    print('Setup')
+    print(app.config['SQLALCHEMY_DATABASE_URI'])
+    with app.app_context():
+
+        db.drop_all()
+        db.create_all()
+        Nexans = Manufacturor(name='Nexans', description="It's nexans")
+        db.session.add(Nexans)
+        øglænd = Manufacturor(name='Øglænd', description="It's øglænd")
+        db.session.add(øglænd)
+
+        setup_products(øglænd_kabler, 2, øglænd)
+        setup_products(øglænd_matter, 2, øglænd)
+        setup_products(nexans_kabler, 2, Nexans)
+
+
 øglænd_kabler_headers = ['Elnr', 'Effekt', 'Lengde', 'Resistans_min',
                          'Resistans_max', 'Driftstrøm', 'Vekt']
 øglænd_matter_headers = ['Elnr', 'Effekt', 'Bredde', 'Lengde', 'Areal',
                          'Resistans_min',
                          'Resistans_max', 'Driftstrøm', 'Vekt']
+nexnans_kabler_headers = ['Betegnelse',
+                          'Effekt', 'Lengde', 'Nominell elementmotstand',
+                          'Ytre dimensjoner', 'Vekt', 'Elnr',
+                          'Nexans art. nr.', 'GTIN']
 øglænd_kabler = csv_parse_multiple_files('data_extracts/øglænd/kabler',
                                          fieldnames=øglænd_kabler_headers)
 øglænd_matter = csv_parse_multiple_files('data_extracts/øglænd/matter',
                                          fieldnames=øglænd_matter_headers)
+nexans_kabler = csv_parse_multiple_files('data_extracts/nexans/',
+                                         fieldnames=nexnans_kabler_headers,
+                                         delimiter=';')
 
-with app.app_context():
 
-    db.drop_all()
-    db.create_all()
-    Nexans = Manufacturor(name='Nexans', description="It's nexans")
-    db.session.add(Nexans)
-    øglænd = Manufacturor(name='Øglænd', description="It's øglænd")
-    db.session.add(øglænd)
-
-    setup_products(øglænd_kabler, 2, øglænd)
-    setup_products(øglænd_matter, 2, øglænd)
+populate_db()
