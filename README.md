@@ -17,3 +17,13 @@ Bruk tabular, velg enkelt-tabeller, bruk metoden Lettuce, og eksporter. Navnet p
 
 
  utelatte data blir ikke tatt med i parseren.
+
+## Dumping local database to heroku
+
+Reset the database (not destroy) on heroku.com
+
+run locally:
+```
+pg_dump varmekabler > db.sql
+cat db.sql | heroku pg:psql
+```
