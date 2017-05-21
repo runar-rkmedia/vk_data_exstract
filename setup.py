@@ -1,62 +1,78 @@
+"""Part of pdf_form_fill. Fills the database with data."""
 
-
-from pprint import pprint
+# pylama:ignore=E402,C0413,E0611
 import sys
 import os
-
 sys.path.append('../pdf_form_fill')
-os.chdir('../pdf_form_fill/')
+
+from helpers import commafloat
+from config import configure_app
+from models import (db, Manufacturor, Product,
+                    ProductType)
+from flask import Flask
+app = Flask(__name__, instance_relative_config=True)
+configure_app(app)
+db.init_app(app)
+print('Setup')
+print(app.config['SQLALCHEMY_DATABASE_URI'])
 
 
+def pop_key_from_dict_with_default(dictionary, key, default=None):
+    """Pop a key from a dictionary, return it and dictionary."""
+    try:
+        var = dictionary.pop(key)
+    except KeyError:
+        var = default
+    return dictionary, var
 
-def setup_products():
-    """Fill the database with products, types and specs from csv."""
-    print(os.getcwd())
-    from config import configure_app
-    from models import (db, Manufacturor, Product,
-                        ProductSpec, ProductType, lookup_vk)
-    from flask import Flask
-    app = Flask(__name__, instance_relative_config=True)
-    configure_app(app)
-    db.init_app(app)
-    print('Setup')
-    print(app.config['SQLALCHEMY_DATABASE_URI'])
-    with app.app_context():
-        db.drop_all()
-        db.create_all()
-        Nexans = Manufacturor(name='Nexans', description="It's nexans")
-        db.session.add(Nexans)
-        øglænd = Manufacturor(name='Øglænd', description="It's øglænd")
-        db.session.add(øglænd)
-        txlp17 = ProductType(name='TXLP/2R/17',
-                             mainSpec='TXLP',
-                             watt_per_meter=17,
-                             ledere=2,
-                             manufacturor=Nexans)
-        db.session.add(txlp17)
-        txlp10 = ProductType(name='TXLP/2R/10',
-                                  mainSpec='TXLP',
-                                  watt_per_meter=10,
-                                  ledere=2,
-                                  manufacturor=Nexans)
-        db.session.add(txlp10)
-        import Nexans_TXLP
-        for vk in Nexans_TXLP.vks:
-            name = vk.pop('Betegnelse')
-            effekt = vk.pop('Effekt ved 230V')
-            if name[-2:] == '17':
-                product_type = txlp17
-            else:
-                product_type = txlp10
-            if name:
-                new_vk = Product(
-                    name=name, product_type=product_type, effekt=effekt)
-                new_vk.add_keys_from_dict(vk)
-                db.session.add(new_vk)
-        db.session.commit()
-        print("Database tables created")
 
-setup_products()
+def create_products_from_list_with_product_type(products_list, product_type):
+    """Create a product from list with product type."""
+    for product in products_list:
+        try:
+            effekt = commafloat(product.pop('Effekt'))
+        except KeyError as e:
+            print(e)
+            raise KeyError("Did not find key in {}".name)
+        # Pop name of product, default to name of product_type + effekt
+        product, p_name = pop_key_from_dict_with_default(
+            product,
+            'Betegnelse',
+            default="{}-{:.0f}"
+            .format(product_type.name, effekt))
+
+        new_vk = Product(
+            name=p_name,
+            product_type=product_type,
+            effekt=effekt)
+        new_vk.add_keys_from_dict(product)
+
+
+def setup_products(dictionary, ledere, manufacturor):
+    """Fill the database with products, types and specs from a dictionary."""
+    for name, val in dictionary.items():
+        # Exstract some values from dictionary, to use for filling product_type
+        val, watt_per_meter = pop_key_from_dict_with_default(
+            val, 'watt_per_meter')
+        val, watt_per_square_meter = pop_key_from_dict_with_default(
+            val, 'watt_per_square_meter')
+        val, products = pop_key_from_dict_with_default(
+            val, 'products')
+
+        # Create a ProductType
+        pt = ProductType(
+            name=name,
+            mainSpec='TADA',
+            watt_per_meter=watt_per_meter,
+            watt_per_square_meter=watt_per_square_meter,
+            ledere=ledere,
+            manufacturor=manufacturor
+        )
+        # Create products with this product_type
+        create_products_from_list_with_product_type(products, pt)
+
+    db.session.commit()
+    print("Database tables created")
 
 
 def csv_reader(file_name, **kwargs):
@@ -76,12 +92,11 @@ def csv_reader(file_name, **kwargs):
 
 def csv_parse_multiple_files(path, **kwargs):
     """Parse multiple csv-files into valid data."""
-    import os
     import re
     data = {}
     csv_files = []
     files = os.walk(path)
-    for root, dirs, files in files:
+    for root, dirs, files in files: # noqa
         for file in files:
             if file.endswith(".csv"):
                 csv_files.append(os.path.join(root, file))
@@ -89,17 +104,18 @@ def csv_parse_multiple_files(path, **kwargs):
         basename = os.path.splitext(os.path.basename(file_name))[0]
         data[basename] = {}
         data[basename]['products'] = csv_reader(file_name, **kwargs)
-        keys = {}
-        wm = re.search("(\d+)Wm", basename)
-        voltage = re.search("(\d+)V", basename)
-        watt_per_square_meter = re.search("(\d+)Wkvm", basename)
+        wm = re.search(r"(\d+)Wm", basename)
+        voltage = re.search(r"(\d+)V", basename)
+        watt_per_square_meter = re.search(r"(\d+)Wkvm", basename)
         if wm:
             data[basename]['watt_per_meter'] = float(wm.groups()[0])
+        if voltage:
+            data[basename]['voltage'] = float(voltage.groups()[0])
         else:
             data[basename]['voltage'] = 230.0
         if watt_per_square_meter:
-            data[basename]\
-                ['watt_per_square_meter'] = float(watt_per_square_meter.groups()[0])
+            data[basename]['watt_per_square_meter'] = float(
+                watt_per_square_meter.groups()[0])
     return data
 
 
@@ -113,39 +129,14 @@ def csv_parse_multiple_files(path, **kwargs):
 øglænd_matter = csv_parse_multiple_files('data_extracts/øglænd/matter',
                                          fieldnames=øglænd_matter_headers)
 
+with app.app_context():
 
-# print(len(øglænd_kabler))
-# for table in øglænd_kabler:
+    db.drop_all()
+    db.create_all()
+    Nexans = Manufacturor(name='Nexans', description="It's nexans")
+    db.session.add(Nexans)
+    øglænd = Manufacturor(name='Øglænd', description="It's øglænd")
+    db.session.add(øglænd)
 
-# pprint(øglænd_matter)
-
-
-# print(files)
-
-
-for key, val in øglænd_kabler.items():
-    name = key
-    try:
-        watt_per_meter = val.pop('watt_per_meter')
-    except KeyError:
-        watt_per_meter = None
-    try:
-        voltage = val.pop('voltage', 230)
-    except KeyError:
-        voltage = 230
-    try:
-        watt_per_square_meter = val.pop('watt_per_square_meter')
-    except KeyError:
-        watt_per_square_meter = None
-    try:
-        products = val.pop('products')
-    except KeyError:
-        products = None
-
-    print(name, watt_per_meter, voltage, watt_per_square_meter)
-    # pt = ProductType(name='key',
-    #                      mainSpec='TXLP',
-    #                      watt_per_meter=17,
-    #                      ledere=2,
-    #                      manufacturor=Nexans)
-    # pprint(key)
+    setup_products(øglænd_kabler, 2, øglænd)
+    setup_products(øglænd_matter, 2, øglænd)
