@@ -1,15 +1,16 @@
 """Part of pdf_form_fill. Fills the database with data."""
-
+#!venv/bin/python
 # pylama:ignore=E402,C0413,E0611
 import sys
 import os
 from pprint import pprint  # noqa
 sys.path.append('../pdf_form_fill')
 
-from helpers import commafloat
+from field_dicts.helpers import commafloat
 from config import configure_app
 from models import (db, Manufacturor, Product,
-                    ProductType)
+                    ProductType, Company, User, Address, ContactType,
+                    Invite)
 from flask import Flask
 
 
@@ -26,22 +27,22 @@ def create_products_from_list_with_product_type(products_list, product_type):
     """Create a product from list with product type."""
     for product in products_list:
         try:
-            effekt = commafloat(product.pop('Effekt'))
+            effect = commafloat(product.pop('Effekt'))
         except KeyError as e:
             print(e)
             raise KeyError("Did not find key in {}".name)
-        # Pop name of product, default to name of product_type + effekt
+        # Pop name of product, default to name of product_type + effect
         product, p_name = pop_key_from_dict_with_default(
             product,
             'Betegnelse',
             default="{}-{:.0f}"
-            .format(product_type.name, effekt))
-
+            .format(product_type.name, effect))
         new_vk = Product(
             name=p_name,
             product_type=product_type,
-            effekt=effekt)
-        new_vk.add_keys_from_dict(product)
+            effect=effect,
+            specs=product)
+        db.session.add(new_vk)
 
 
 def setup_products(dictionary, ledere, manufacturor):
@@ -61,7 +62,7 @@ def setup_products(dictionary, ledere, manufacturor):
             mainSpec='TADA',
             watt_per_meter=watt_per_meter,
             watt_per_square_meter=watt_per_square_meter,
-            ledere=ledere,
+            secondSpec=ledere,
             manufacturor=manufacturor
         )
         # Create products with this product_type
@@ -122,10 +123,44 @@ def populate_db():
     db.init_app(app)
     print('Setup')
     print(app.config['SQLALCHEMY_DATABASE_URI'])
+    print(app.config['SQLALCHEMY_BINDS'])
     with app.app_context():
 
         db.drop_all()
+        # db.drop_all(bind=['products'])
         db.create_all()
+        rige3 = Address(
+            line1='Rigetjønnveien 3',
+            postnumber=4626,
+            postal='Kristiansand S'
+        )
+        db.session.add(rige3)
+        keas = Company(
+            name='Kristiansand Elektro AS',
+            description='en lokal elektriker',
+            orgnumber=980489590,
+            address=rige3
+        )
+        db.session.add(keas)
+        testUser = User(
+            given_name='Test',
+            role='companyAdmin',
+            family_name='Testson',
+            email='TestyTestson@test.com',
+            title='King',
+            company=keas
+        )
+        db.session.add(testUser)
+        testUser.addContact(
+            contact_type=ContactType.phone,
+            contact_value='980489590'
+        )
+        invite = Invite(
+            id=Invite.get_random_unique_invite_id(),
+            company=keas,
+            inviter=testUser)
+        print('invite:', invite.id)
+        db.session.add(invite)
         Nexans = Manufacturor(name='Nexans', description="It's nexans")
         db.session.add(Nexans)
         øglænd = Manufacturor(name='Øglænd', description="It's øglænd")

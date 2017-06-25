@@ -24,6 +24,6 @@ Reset the database (not destroy) on heroku.com
 
 run locally:
 ```
-pg_dump varmekabler > db.sql
-cat db.sql | heroku pg:psql
+pg_dump vk_products > vk_products.sql
+cat vk_products.sql | heroku pg:psql varmekabler-products
 ```
