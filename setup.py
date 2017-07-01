@@ -129,38 +129,46 @@ def populate_db():
         db.drop_all()
         # db.drop_all(bind=['products'])
         db.create_all()
-        rige3 = Address(
-            line1='Rigetjønnveien 3',
-            postnumber=4626,
-            postal='Kristiansand S'
+        test_adresse = Address(
+            line1='Testeveien',
+            postnumber=0000,
+            postal='Testestedet'
         )
-        db.session.add(rige3)
-        keas = Company(
-            name='Kristiansand Elektro AS',
-            description='en lokal elektriker',
-            orgnumber=980489590,
-            address=rige3
+        db.session.add(test_adresse)
+        teste_firma = Company(
+            name='Testing company',
+            description='testefirma',
+            orgnumber=980980980,
+            address=test_adresse
         )
-        db.session.add(keas)
+        db.session.add(teste_firma)
         testUser = User(
             given_name='Test',
             role='companyAdmin',
             family_name='Testson',
             email='TestyTestson@test.com',
             title='King',
-            company=keas
+            company=teste_firma
         )
         db.session.add(testUser)
-        testUser.addContact(
-            contact_type=ContactType.phone,
-            contact_value='980489590'
+        testUser.add_contact(
+            type=ContactType.phone,
+            value='980489590',
+            description='test'
         )
-        invite = Invite(
+        inviteCompany = Invite(
             id=Invite.get_random_unique_invite_id(),
-            company=keas,
+            company=teste_firma,
+            type='company',
             inviter=testUser)
-        print('invite:', invite.id)
-        db.session.add(invite)
+        inviteCreate = Invite(
+            id=Invite.get_random_unique_invite_id(),
+            type='create_company',
+            inviter=testUser)
+        print('inviteCompany:', inviteCompany.id)
+        print('inviteCreate:', inviteCreate.id)
+        db.session.add(inviteCompany)
+        db.session.add(inviteCreate)
         Nexans = Manufacturor(name='Nexans', description="It's nexans")
         db.session.add(Nexans)
         øglænd = Manufacturor(name='Øglænd', description="It's øglænd")
