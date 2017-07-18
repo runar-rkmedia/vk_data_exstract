@@ -6,7 +6,7 @@ import os
 from pprint import pprint  # noqa
 sys.path.append('../pdf_form_fill')
 
-from field_dicts.helpers import commafloat
+from field_dicts.helpers import commafloat, dictionary_subset
 from config import configure_app
 from models import (db, Manufacturor, Product,
                     ProductType, Company, User, Address, ContactType,
@@ -52,9 +52,9 @@ def setup_products(dictionary, ledere, manufacturor):
     for name, val in dictionary.items():
         # Create a ProductType
         pt = ProductType(
-            name=name,
+            name=val.get('Type'),
             description=val.get('Description'),
-            mainSpec=val['MainSpec'],
+            mainSpec=val.get('MainSpec'),
             secondarySpec=val['Voltage'],
             catagory=val['catagory'],
             manufacturor=manufacturor
@@ -64,11 +64,6 @@ def setup_products(dictionary, ledere, manufacturor):
 
     db.session.commit()
     print("Database tables created")
-
-
-def dictionary_subset(dictionary, list_of_keys):
-    """Only return the data we want from a dictionary."""
-    return {k: dictionary[k] for k in dictionary.keys() & list_of_keys if dictionary[k] is not ""}
 
 
 def csv_reader(file_name, **kwargs):
@@ -111,12 +106,17 @@ def csv_parse_multiple_files(path, **kwargs):
     for file_name in csv_files:
         csv_dictionary = csv_reader(file_name, **kwargs)
         for row in csv_dictionary:
-            this_name = row['Type']
-            if not data.get(this_name):
+            this_name = "{}{}{}".format(
+                row.get('Type'),
+                row.get('MainSpec'),
+                row.get('Voltage')
+            )
+            if not data.get(this_name ):
                 data[this_name] = dictionary_subset(
                     row,
                     {
                         'Voltage',
+                        'Type',
                         'MainSpec',
                         'isMat',
                         'outside',
@@ -155,11 +155,7 @@ def populate_db():
     print(app.config['SQLALCHEMY_DATABASE_URI'])
     print(app.config['SQLALCHEMY_BINDS'])
     with app.app_context():
-
-        # db.drop_all()
-        # db.create_all()
-        db.drop_all(bind=['products'])
-        db.create_all(bind=['products'])
+        print('Please make sure the database is empty first.')
         test_adresse = Address(
             line1='Testeveien',
             postnumber=0000,
@@ -183,7 +179,7 @@ def populate_db():
         )
         db.session.add(testUser)
         testUser.add_contact(
-            type=ContactType.phone,
+            c_type=ContactType.phone,
             value='980489590',
             description='test'
         )
