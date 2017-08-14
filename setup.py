@@ -14,6 +14,11 @@ from models import (db, Manufacturor, Product,
 from flask import Flask
 
 
+def commafloat(string_as_number):
+    """Return a float from string with comma as decimal-seperator."""
+    return float(string_as_number.replace(',', '.'))
+
+
 def pop_key_from_dict_with_default(dictionary, key, default=None):
     """Pop a key from a dictionary, return it and dictionary."""
     try:
@@ -31,11 +36,12 @@ def create_products_from_list_with_product_type(products_list, product_type):
         # Pop name of product, default to name of product_type + effect
         restrictions = {}
         if product.get('R_min'):
-            restrictions['R_min'] = product.pop('R_min')
+            restrictions['R_min'] = commafloat(
+                product.pop('R_min'))
         if product.get('R_max'):
-            restrictions['R_max'] = product.pop('R_max')
+            restrictions['R_max'] = commafloat(product.pop('R_max'))
         if product.get('R_nom'):
-            restrictions['R_nom'] = product.pop('R_nom')
+            restrictions['R_nom'] = commafloat(product.pop('R_nom'))
         new_vk = Product(
             id=product.pop('El-number'),
             name=product.pop('Name'),
@@ -157,9 +163,9 @@ def populate_db():
     with app.app_context():
         print('Please make sure the database is empty first.')
         test_adresse = Address(
-            line1='Testeveien',
-            postnumber=0000,
-            postal='Testestedet'
+            address1='Testeveien',
+            post_code=0000,
+            post_area='Testestedet'
         )
         db.session.add(test_adresse)
         teste_firma = Company(
