@@ -1,22 +1,44 @@
 """Part of pdf_form_fill. Fills the database with data."""
-#!venv/bin/python
+# !venv/bin/python
 # pylama:ignore=E402,C0413,E0611
 import sys
 import os
 from pprint import pprint  # noqa
 sys.path.append('../pdf_form_fill')
 
-from field_dicts.helpers import commafloat, dictionary_subset
+from pdf_filler.helpers import commafloat
 from config import configure_app
-from models import (db, Manufacturor, Product,
-                    ProductType, Company, User, Address, ContactType,
-                    Invite, ProductCatagory)
+from models import db
+from models_product import (
+    Manufacturor,
+    Product,
+    ProductType,
+    ProductCatagory
+    )
+from models_credentials import (
+    Company,
+    User,
+    Address,
+    ContactType,
+    Invite,
+    )
 from flask import Flask
 
 
-def commafloat(string_as_number):
-    """Return a float from string with comma as decimal-seperator."""
-    return float(string_as_number.replace(',', '.'))
+def dictionary_subset(dictionary, list_of_keys):
+    """Only return the data we want from a dictionary."""
+    d = {}
+    for key, value in dictionary.items():
+        if key not in list_of_keys:
+            continue
+        if value is not "":
+            try:
+                if value is not float:
+                    value = commafloat(value)
+            except (AttributeError, ValueError) as e:
+                pass
+            d.update({key: value})
+    return d
 
 
 def pop_key_from_dict_with_default(dictionary, key, default=None):
@@ -49,7 +71,7 @@ def create_products_from_list_with_product_type(products_list, product_type):
             effect=effect,
             restrictions=restrictions,
             specs=product,
-            )
+        )
         db.session.add(new_vk)
 
 
@@ -101,7 +123,6 @@ def get_product_catagory(outside, mat):
 
 def csv_parse_multiple_files(path, **kwargs):
     """Parse multiple csv-files into valid data."""
-    import re
     data = {}
     csv_files = []
     files = os.walk(path)
@@ -117,7 +138,7 @@ def csv_parse_multiple_files(path, **kwargs):
                 row.get('MainSpec'),
                 row.get('Voltage')
             )
-            if not data.get(this_name ):
+            if not data.get(this_name):
                 data[this_name] = dictionary_subset(
                     row,
                     {
@@ -162,46 +183,48 @@ def populate_db():
     print(app.config['SQLALCHEMY_BINDS'])
     with app.app_context():
         print('Please make sure the database is empty first.')
-        test_adresse = Address(
-            address1='Testeveien',
-            post_code=0000,
-            post_area='Testestedet'
-        )
-        db.session.add(test_adresse)
-        teste_firma = Company(
-            name='Testing company',
-            description='testefirma',
-            orgnumber=980980980,
-            address=test_adresse
-        )
-        db.session.add(teste_firma)
-        testUser = User(
-            given_name='Test',
-            role='companyAdmin',
-            family_name='Testson',
-            email='TestyTestson@test.com',
-            title='King',
-            company=teste_firma
-        )
-        db.session.add(testUser)
-        testUser.add_contact(
-            c_type=ContactType.phone,
-            value='980489590',
-            description='test'
-        )
-        inviteCompany = Invite(
-            id=Invite.get_random_unique_invite_id(),
-            company=teste_firma,
-            type='company',
-            inviter=testUser)
-        inviteCreate = Invite(
-            id=Invite.get_random_unique_invite_id(),
-            type='create_company',
-            inviter=testUser)
-        print('inviteCompany:', inviteCompany.id)
-        print('inviteCreate:', inviteCreate.id)
-        db.session.add(inviteCompany)
-        db.session.add(inviteCreate)
+        teste_firma = Company.query.filter_by(name='Testing company').first()
+        if not teste_firma:
+            test_adresse = Address(
+                address1='Testeveien',
+                post_code=0000,
+                post_area='Testestedet'
+            )
+            db.session.add(test_adresse)
+            teste_firma = Company(
+                name='Testing company',
+                description='testefirma',
+                orgnumber=980980980,
+                address=test_adresse
+            )
+            db.session.add(teste_firma)
+            testUser = User(
+                given_name='Test',
+                role='companyAdmin',
+                family_name='Testson',
+                email='TestyTestson@test.com',
+                title='King',
+                company=teste_firma
+            )
+            db.session.add(testUser)
+            testUser.add_contact(
+                c_type=ContactType.phone,
+                value='980489590',
+                description='test'
+            )
+            inviteCompany = Invite(
+                id=Invite.get_random_unique_invite_id(),
+                company=teste_firma,
+                type='company',
+                inviter=testUser)
+            inviteCreate = Invite(
+                id=Invite.get_random_unique_invite_id(),
+                type='create_company',
+                inviter=testUser)
+            print('inviteCompany:', inviteCompany.id)
+            print('inviteCreate:', inviteCreate.id)
+            db.session.add(inviteCompany)
+            db.session.add(inviteCreate)
         Nexans = Manufacturor(name='Nexans', description="Inn i varmen")
         db.session.add(Nexans)
         Thermofloor = Manufacturor(name='Thermofloor', description="")
