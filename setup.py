@@ -14,15 +14,17 @@ from models_product import (
     Product,
     ProductType,
     ProductCatagory
-    )
+)
 from models_credentials import (
     Company,
     User,
     Address,
     ContactType,
     Invite,
-    )
+    RoomTypesInfo
+)
 from flask import Flask
+from rooms import rooom_info_list
 
 
 def dictionary_subset(dictionary, list_of_keys):
@@ -173,14 +175,16 @@ def csv_parse_multiple_files(path, **kwargs):
     return data
 
 
+app = Flask(__name__, instance_relative_config=True)
+configure_app(app)
+db.init_app(app)
+print('Setup')
+print(app.config['SQLALCHEMY_DATABASE_URI'])
+print(app.config['SQLALCHEMY_BINDS'])
+
+
 def populate_db():
     """Description."""
-    app = Flask(__name__, instance_relative_config=True)
-    configure_app(app)
-    db.init_app(app)
-    print('Setup')
-    print(app.config['SQLALCHEMY_DATABASE_URI'])
-    print(app.config['SQLALCHEMY_BINDS'])
     with app.app_context():
         print('Please make sure the database is empty first.')
         teste_firma = Company.query.filter_by(name='Testing company').first()
@@ -251,4 +255,32 @@ nexans_kabler = csv_parse_multiple_files('data_extracts/nexans/')
 thermofloor_kabler = csv_parse_multiple_files('data_extracts/thermofloor/')
 
 
-populate_db()
+def create_rooms():
+    """Create info for rooms."""
+    with app.app_context():
+        if 'empty' in sys.argv:
+            RoomTypesInfo.query.delete()
+            print('Emptied table RoomTypesInfo')
+        count = RoomTypesInfo.query.count()
+        if count > 0:
+            print('Table is not empty., quitting. Append "empty" to empty it.')
+            return
+        for room in rooom_info_list:
+            print(room)
+            db.session.add(RoomTypesInfo(
+                names=room['names'],
+                maxEffect=room['maxEffect'],
+                normalEffect=room['normalEffect'],
+                outside=room.get('outside', False)
+            ))
+
+        db.session.commit()
+        print('Added all rooms')
+
+
+# hook up extensions to app
+if __name__ == "__main__":
+    if 'products' in sys.argv:
+        populate_db()
+    if 'rooms' in sys.argv:
+        create_rooms()
