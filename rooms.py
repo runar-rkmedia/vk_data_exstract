@@ -7,7 +7,7 @@ rooom_info_list = [{
     {
     'names': [
         'Badegulv', 'Vaskerom', 'Hall', 'Bad', 'WC', 'Toalett', 'Gang',
-        'Vindfang', 'Baderom'],
+        'Vindfang', 'Baderom', 'Loftstue'],
     'maxEffect': 160,
     'normalEffect': 135
 },
@@ -36,7 +36,7 @@ rooom_info_list = [{
     'normalEffect': 12.5
 },
     {
-    'names': ['Betongherding'],
+    'names': ['Betongherding', 'Kjeller', 'Kjellerstue'],
     'maxEffect': 1000,
     'normalEffect': 110
 },

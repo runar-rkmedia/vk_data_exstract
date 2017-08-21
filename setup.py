@@ -21,7 +21,7 @@ from models_credentials import (
     Address,
     ContactType,
     Invite,
-    RoomTypesInfo
+    RoomTypeInfo
 )
 from flask import Flask
 from rooms import rooom_info_list
@@ -259,15 +259,15 @@ def create_rooms():
     """Create info for rooms."""
     with app.app_context():
         if 'empty' in sys.argv:
-            RoomTypesInfo.query.delete()
-            print('Emptied table RoomTypesInfo')
-        count = RoomTypesInfo.query.count()
+            RoomTypeInfo.query.delete()
+            print('Emptied table RoomTypeInfo')
+        count = RoomTypeInfo.query.count()
         if count > 0:
             print('Table is not empty., quitting. Append "empty" to empty it.')
             return
         for room in rooom_info_list:
             print(room)
-            db.session.add(RoomTypesInfo(
+            db.session.add(RoomTypeInfo(
                 names=room['names'],
                 maxEffect=room['maxEffect'],
                 normalEffect=room['normalEffect'],
