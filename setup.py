@@ -3,8 +3,10 @@
 # pylama:ignore=E402,C0413,E0611
 import sys
 import os
-from pprint import pprint  # noqa
-sys.path.append('../pdf_form_fill')
+import inspect
+currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
+parentdir = os.path.dirname(currentdir)
+sys.path.insert(0,parentdir)
 
 from pdf_filler.helpers import commafloat
 from config import configure_app
@@ -132,9 +134,12 @@ def csv_parse_multiple_files(path, **kwargs):
         for file in files:
             if file.endswith(".csv"):
                 csv_files.append(os.path.join(root, file))
+    print(csv_files)
     for file_name in csv_files:
         csv_dictionary = csv_reader(file_name, **kwargs)
+        print('reading ', file_name)
         for row in csv_dictionary:
+
             this_name = "{}{}{}".format(
                 row.get('Type'),
                 row.get('MainSpec'),
@@ -186,7 +191,20 @@ print(app.config['SQLALCHEMY_BINDS'])
 def populate_db():
     """Description."""
     with app.app_context():
-        print('Please make sure the database is empty first.')
+        if 'empty' in sys.argv:
+            Product.query.delete()
+            ProductType.query.delete()
+            Manufacturor.query.delete()
+            db.session.commit()
+            print('Emptied table Product')
+            print('Emptied table ProductType')
+            print('Emptied table Manufacturor')
+        count = Product.query.count()
+        count += ProductType.query.count()
+        count += Manufacturor.query.count()
+        if count > 0:
+            print('Table is not empty., quitting. Append "empty" to empty it.')
+            return
         teste_firma = Company.query.filter_by(name='Testing company').first()
         if not teste_firma:
             test_adresse = Address(
@@ -199,7 +217,10 @@ def populate_db():
                 name='Testing company',
                 description='testefirma',
                 orgnumber=980980980,
-                address=test_adresse
+                address=test_adresse,
+                contact_name="John Doe",
+                contact_email="john@doe.com",
+                contact_phone=12312312
             )
             db.session.add(teste_firma)
             testUser = User(
@@ -211,11 +232,6 @@ def populate_db():
                 company=teste_firma
             )
             db.session.add(testUser)
-            testUser.add_contact(
-                c_type=ContactType.phone,
-                value='980489590',
-                description='test'
-            )
             inviteCompany = Invite(
                 id=Invite.get_random_unique_invite_id(),
                 company=teste_firma,
@@ -280,6 +296,9 @@ def create_rooms():
 
 # hook up extensions to app
 if __name__ == "__main__":
+    if 'create' in sys.argv:
+        with app.app_context():
+            db.create_all()
     if 'products' in sys.argv:
         populate_db()
     if 'rooms' in sys.argv:

@@ -1,323 +1,323 @@
-El-number,Name,Description,Art_nr,EAN_Tekst,Type,Effect,Area,Width,Length,MainSpec,Voltage,isMat,outside,effekt_mod,wm_mod,lengde_mod,type_mod
-1011430,"TF Stretch 170W/1,0m2 0,5x2m Blå",Elastisk varmekabelmatte for nedstøping,7071236001300,"TF Stretch 170W/1,0m2 0,5x2m",TF Stretch, 170,"1,0","0,5",2,170,230,TRUE,FALSE,1,3,1,2
-1011431,"TF Stretch 170W/1,5m2 0,5x3m Blå",Elastisk varmekabelmatte for nedstøping,7071236001317,"TF Stretch 255W/1,5m2 0,5x3m",TF Stretch, 255,"1,5","0,5",3,170,230,TRUE,FALSE,1,3,1,2
-1011432,"TF Stretch 170W/2m2 0,5x4m Blå",Elastisk varmekabelmatte for nedstøping,7071236001324,"TF Stretch 340W/2m2 0,5x4m",TF Stretch, 340,2,"0,5",4,170,230,TRUE,FALSE,1,3,1,2
-1011433,"TF Stretch 170W/2,5m2 0,5x5m Blå",Elastisk varmekabelmatte for nedstøping,7071236001331,"TF Stretch 425W/2,5m2 0,5x5m",TF Stretch, 425,"2,5","0,5",5,170,230,TRUE,FALSE,1,3,1,2
-1011434,"TF Stretch 170W/3m2 0,5x6m Blå",Elastisk varmekabelmatte for nedstøping,7071236001348,"TF Stretch 510W/3m2 0,5x6m",TF Stretch, 510,3,"0,5",6,170,230,TRUE,FALSE,1,3,1,2
-1011435,"TF Stretch 170W/3,5m2 0,5x7m Blå",Elastisk varmekabelmatte for nedstøping,7071236001355,"TF Stretch 595W/3,5m2 0,5x7m",TF Stretch, 595,"3,5","0,5",7,170,230,TRUE,FALSE,1,3,1,2
-1011436,"TF Stretch 170W/4m2 0,5x8m Blå",Elastisk varmekabelmatte for nedstøping,7071236001362,"TF Stretch 680W/4m2 0,5x8m",TF Stretch, 680,4,"0,5",8,170,230,TRUE,FALSE,1,3,1,2
-1011437,"TF Stretch 765W/4,5m2 0,5x9m",Varmekabelmatte for nedstøping,7071236001379,"TF Stretch 765W/4,5m2 0,5x9m",TF Stretch, 765,"4,5","0,5",9,170,230,TRUE,FALSE,1,3,1,2
-1011438,"TF Stretch 170W/5m2 0,5x10m Blå",Elastisk varmekabelmatte for nedstøping,7071236001386,"TF Stretch 850W/5m2 0,5x10m",TF Stretch, 850,5,"0,5",10,170,230,TRUE,FALSE,1,3,1,2
-1011440,"TF Stretch 170W/6m2 0,5x12m Blå",Elastisk varmekabelmatte for nedstøping,7071236001393,"TF Stretch 1020W/6m2 0,5x12m",TF Stretch, 1020,6,"0,5",12,170,230,TRUE,FALSE,1,3,1,2
-1011442,"TF Stretch 170W/7m2 0,5x14m Blå",Elastisk varmekabelmatte for nedstøping,7071236001409,"TF Stretch 1190W/7m2 0,5x14m",TF Stretch, 1190,7,"0,5",14,170,230,TRUE,FALSE,1,3,1,2
-1011444,"TF Stretch 170W/8m2 0,5x16m Blå",Elastisk varmekabelmatte for nedstøping,7071236001416,"TF Stretch 1360W/8m2 0,5x16m",TF Stretch, 1360,8,"0,5",16,170,230,TRUE,FALSE,1,3,1,2
-1011446,"TF Stretch 170W/9m2 0,5x18m Blå",Elastisk varmekabelmatte for nedstøping,7071236001423,"TF Stretch 1530W/9m2 0,5x18m",TF Stretch, 1530,9,"0,5",18,170,230,TRUE,FALSE,1,3,1,2
-1011448,"TF Stretch 170W/10m2 0,5x20m Blå",Elastisk varmekabelmatte for nedstøping,7071236001430,"TF Stretch 1700W/10m2 0,5x20m",TF Stretch, 1700,10,"0,5",20,170,230,TRUE,FALSE,1,3,1,2
-1001026,TF duggfritt speil 50x80cm 80W,Elektrisk matte for duggfritt speil,7071236009313,TF duggfritt speil 50x80cm 80W,TF duggfritt speil, 80,,50,80,,230,TRUE,FALSE,,5,1,3
-1001027,TF duggfritt speil 50x150cm 150W,Elektrisk matte for duggfritt speil,7071236009320,TF duggfritt speil 50x150cm 150W,TF duggfritt speil, 150,,50,150,,230,TRUE,FALSE,,5,1,3
-1001028,TF duggfritt speil 50x200cm 200W,Elektrisk matte for duggfritt speil,7071236009337,TF duggfritt speil 50x200cm 200W,TF duggfritt speil, 200,,50,200,,230,TRUE,FALSE,,5,1,3
-1001030,TF duggfritt speil 45x50cm 50W,Elektrisk matte for duggfritt speil,7071236000129,TF duggfritt speil 45x50cm 50W,TF duggfritt speil, 50,,45,50,,230,TRUE,FALSE,,5,1,3
-1001031,TF duggfritt speil 60x75cm 100W,Elektrisk matte for duggfritt speil,7071236000136,TF duggfritt speil 60x75cm 100W,TF duggfritt speil, 100,,60,75,,230,TRUE,FALSE,,5,1,3
-1011231,"TF SVK matte 300W/2,1m2",Varmekabelmatte for nedstøping,7071236009122,"TFSVK matte 300W/2,1m2",TF, 300,"2,1",,"2,1",,230,TRUE,FALSE,1,1,,1
-1011232,"TF SVK matte 400W/2,9m2",Varmekabelmatte for nedstøping,7071236009139,"TFSVK matte 400W/2,9m2",TF, 400,"2,9",,"2,9",,230,TRUE,FALSE,1,1,,1
-1011233,"TF SVK matte 500W/3,6m2",Varmekabelmatte for nedstøping,7071236009146,"TFSVK matte 500W/3,6m2",TF, 500,"3,6",,"3,6",,230,TRUE,FALSE,1,1,,1
-1011234,"TF SVK matte 600W/4,3m2",Varmekabelmatte for nedstøping,7071236009153,"TFSVK matte 600W/4,3m2",TF, 600,"4,3",,"4,3",,230,TRUE,FALSE,1,1,,1
-1011235,"TF SVK matte 700W/5,0m2",Varmekabelmatte for nedstøping,7071236009160,"TFSVK matte 700W/5,0m2",TF, 700,"5,0",,"5,0",,230,TRUE,FALSE,1,1,,1
-1011236,"TF SVK matte 850W/6,1m2",Varmekabelmatte for nedstøping,7071236009177,"TFSVK matte 850W/6,1m2",TF, 850,"6,1",,"6,1",,230,TRUE,FALSE,1,1,,1
-1011237,"TF SVK matte 1000W/7,1m2",Varmekabelmatte for nedstøping,7071236009184,"TFSVK matte 1000W/7,1m2",TF, 1000,"7,1",,"7,1",,230,TRUE,FALSE,1,1,,1
-1011238,"TF SVK matte 1250W/8,9m2",Varmekabelmatte for nedstøping,7071236009191,"TFSVK matte 1250W/8,9m2",TF, 1250,"8,9",,"8,9",,230,TRUE,FALSE,1,1,,1
-1011239,"TF SVK matte 1500W/10,7m2",Varmekabelmatte for nedstøping,7071236009207,"TFSVK matte 1500W/10,7m2",TF, 1500,"10,7",,"10,7",,230,TRUE,FALSE,1,1,,1
-1011240,"TF SVK matte 1700W/12,1m2",Varmekabelmatte for nedstøping,7071236009214,"TFSVK matte 1700W/12,1m2",TF, 1700,"12,1",,"12,1",,230,TRUE,FALSE,1,1,,1
-1011241,TF SVK matte 2100W/15m2,Varmekabelmatte for nedstøping,7071236009221,TFSVK matte 2100W/15m2,TF, 2100,15,,15,,230,TRUE,FALSE,1,1,,1
-1011242,"TF SVK matte 2600W/18,6m2",Varmekabelmatte for nedstøping,7071236009238,"TFSVK matte 2600W/18,6m2",TF, 2600,"18,6",,"18,6",,230,TRUE,FALSE,1,1,,1
-1011243,"TF SVK matte 2900W/20,7m2",Varmekabelmatte for nedstøping,7071236009245,"TFSVK matte 2900W/20,7m2",TF, 2900,"20,7",,"20,7",,230,TRUE,FALSE,1,1,,1
-1011244,"TF SVK matte 3300W/23,6m2",Varmekabelmatte for nedstøping,7071236009252,"TFSVK matte 3300W/23,6m2",TF, 3300,"23,6",,"23,6",,230,TRUE,FALSE,1,1,,1
-1011473,TF Stretch 300W/3m2 1x3m,Varmekabelmatte for nedstøping,7071236001539,TF Stretch 300W/3m2 1x3m,TF Stretch, 300,3,1,3,,230,TRUE,FALSE,1,5,1,2
-1011474,TF Stretch 400W/4m2 1x4m,Varmekabelmatte for nedstøping,7071236001546,TF Stretch 400W/4m2 1x4m,TF Stretch, 400,4,1,4,,230,TRUE,FALSE,1,5,1,2
-1011638,"TF SVK matte 2400W/8m2 0,5x16m",Utendørs varmekabelmatte,7071236009283,TF SVK matte 2400W/8m2,TF SVK, 2400,8,,,,230,TRUE,TRUE,1,1,1,2
-1011640,"TF SVK matte 3000W/10m2 0,5x20m",Utendørs varmekabelmatte,7071236009290,TF SVK matte 3000W/10m2,TF SVK, 3000,10,,,,230,TRUE,TRUE,1,1,1,2
-1011642,"TF SVK matte 3600W/12m2 0,5x24m",Utendørs varmekabelmatte,7071236009306,TF SVK matte 3600W/12m2,TF SVK, 3600,12,,,,230,TRUE,TRUE,1,1,1,2
-1011265,TF SVK 10 150W/15m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236012955,TF SVK 10 150W/15m 10W/m,TF SVK, 150,,,15,10,230,FALSE,FALSE,1,1,,2
-1011267,TF SVK 10 250W/25m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236012962,TF SVK 10 250W/25m 10W/m,TF SVK, 250,,,25,10,230,FALSE,FALSE,1,1,,2
-1011269,TF SVK 10 350W/35m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236012979,TF SVK 10 350W/35m10W/m,TF SVK, 350,,,35,10,230,FALSE,FALSE,1,1,,2
-1011270,TF SVK 10 450W/45m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236012986,TF SVK 10 450W/45m 10W/m,TF SVK, 450,,,45,10,230,FALSE,FALSE,1,1,,2
-1011271,TF SVK 10 100W/10m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236012993,TF SVK 10 100W/10m 10W/m,TF SVK, 100,,,10,10,230,FALSE,FALSE,1,1,,2
-1011272,TF SVK 10 200W/20m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236000976,TF SVK 10 200W/20m 10W/m,TF SVK, 200,,,20,10,230,FALSE,FALSE,1,1,,2
-1011273,TF SVK 10 300W/30m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236000983,TF SVK 10 300W/30m 10W/m,TF SVK, 300,,,30,10,230,FALSE,FALSE,1,1,,2
-1011274,TF SVK 10 400W/40m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236000990,TF SVK 10 400W/40m 10W/m,TF SVK, 400,,,40,10,230,FALSE,FALSE,1,1,,2
-1011275,TF SVK 10 500W/50m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236001003,TF SVK 10 500W/50m 10W/m,TF SVK, 500,,,50,10,230,FALSE,FALSE,1,1,,2
-1011276,TF SVK 10 600W/60m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236001010,TF SVK 10 600W/60m 10W/m,TF SVK, 600,,,60,10,230,FALSE,FALSE,1,1,,2
-1011278,TF SVK 10 800W/80m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236001027,TF SVK 10 800W/80m 10W/m,TF SVK, 800,,,80,10,230,FALSE,FALSE,1,1,,2
-1011280,TF SVK 10 1000W/100m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236001034,TF SVK 10 1000W/100m 10W/m,TF SVK, 1000,,,100,10,230,FALSE,FALSE,1,1,,2
-1011282,TF SVK 10 1200W/120m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236001041,TF SVK 10 1200W/120m 10W/m,TF SVK, 1200,,,120,10,230,FALSE,FALSE,1,1,,2
-1011283,TF SVK 10 1500W/150m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236010890,TF SVK 10 1500W/150m 10W/m,TF SVK, 1500,,,150,10,230,FALSE,FALSE,1,1,,2
-1011300,TF SBG PE 10W/m Blå,Frostsikring og gulvvarme,7071236009511,TF SBG PE 10W BLÅ pr m,TF SBG,,,,,10,230,FALSE,FALSE,,,,2
-1011302,TF SBG Blå 10W/2m 20W m/plugg,TF selvbegrensende varmekabel,7071236005872,TF SBG Blå 10W/2m 20W m/plug,TF SBG, 20,,,2,10,230,FALSE,FALSE,2,,,2
-1011303,TF SBG Blå 10W/3m 30W m/stikk,TF selvbegrensende varmekabel,7071236005889,TF SBG BLÅ 10W/3m 30W m/stikk,TF SBG, 30,,,3,10,230,FALSE,FALSE,2,,,2
-1011304,TF SBG Blå 10W/4m 40W m/plugg,TF selvbegrensende varmekabel,7071236005896,TF SBG Blå 10W/4m 40W m/plug,TF SBG, 40,,,4,10,230,FALSE,FALSE,2,,,2
-1011305,TF SBG Blå 10W/5m 50W m/stikk,TF selvbegrensende varmekabel,7071236005902,TF SBG BLÅ 10W/5m 50W m/stikk,TF SBG, 50,,,5,10,230,FALSE,FALSE,2,,,2
-1011306,TF SBG Blå 10W/6m 60W m/plugg,TF selvbegrensende varmekabel,7071236005919,TF SBG Blå 10W/6m 60W m/plug,TF SBG, 60,,,6,10,230,FALSE,FALSE,2,,,2
-1011308,TF SBG Blå 10W/8m 80W m/plugg,TF selvbegrensende varmekabel,7071236005926,TF SBG Blå 10W/8m 80W m/plug,TF SBG, 80,,,8,10,230,FALSE,FALSE,2,,,2
-1011310,TF SBG Blå 10W/10m 100W m/plugg,TF selvbegrensende varmekabel,7071236005933,TF SBG Blå 10W/10m 100W m/pl,TF SBG, 100,,,10,10,230,FALSE,FALSE,2,,,2
-1011313,TF SBG Blå 10W/13m 130W m/plugg,TF selvbegrensende varmekabel,7071236005940,TF SBG Blå 10W/13m 130W m/pl,TF SBG, 130,,,13,10,230,FALSE,FALSE,2,,,2
-1011320,TF SBG Blå 10W/20m 200W m/plugg,TF selvbegrensende varmekabel,7071236005957,TF SBG Blå 10W/20m 200W m/pl,TF SBG, 200,,,20,10,230,FALSE,FALSE,2,,,2
-1011325,nrk,TF selvbegrensende varmekabel,7071236005964,TF SBG Blå 10W/25m 250W m/pl,#N/A, 250,,,25,10,230,FALSE,FALSE,2,,,2
-1011331,TF SBG-H 10W/m max 200C Rød,TF SBG for ekstreme forhold,7071236005971,TF SBG-H 10W/m max 200C rød,TF SBG-H,,,,,10,230,FALSE,FALSE,,,,2
-1011340,TF parares vk 10W/m Blå PE,TF parallellresistiv varmekabel,7071236000914,TF Parares vk 10W/m Blå PE,TF parares,,,,,10,230,FALSE,FALSE,,,,2
-1011344,TF parares vk 10W/m Brun SR,TF parallellresistiv varmekabel,7071236000952,TF Parares vk 10W/m Brun SR,TF parares,,,,,10,230,FALSE,FALSE,,,,2
-1011350,TF SBG 10W/m Blå,SBG for frostsikring av vannrør,7071236001058,TF SBG 10W BLÅ pr m,TF SBG,,,,,10,230,FALSE,FALSE,,,,2
-1011390,TF SBG-SW 10W/m Rød,SBG for avløpsrør,7071236008019,TF SBG-SW 10W/m Rød,TF SBG-SW,,,,,10,230,FALSE,FALSE,,1,,2
-1011391,"TF SBG-SW 10W/3,5m 35W Rød",SBG varmekabel for avløpsrør,7071236008026,"TF SBG-SW 10W/3,5m 35W",TF SBG-SW, 35,,,"3,5",10,230,FALSE,FALSE,,2,,2
-1011400,TF SBG-FP blå 10W/m,SBG næringsmiddelgodkjent,7071236012733,TF SBG FP Blå 10W/m drikkevann,TF SBG-FP,,,,,10,230,FALSE,FALSE,,,,2
-1011612,TF BVK 10 200W/20m 10W/m,Elektrisk varmekabel for nedstøping,7071236008439,TF BVK 10 200W/20m 10W/m,TF BVK, 200,,,20,10,230,FALSE,FALSE,1,1,,2
-1011613,TF BVK 10 300W/30m 10W/m,Elektrisk varmekabel for nedstøping,7071236008446,TF BVK 10 300W/30m 10W/m,TF BVK, 300,,,30,10,230,FALSE,FALSE,1,1,,2
-1011614,TF BVK 10 400W/40m 10W/m,Elektrisk varmekabel for nedstøping,7071236008453,TF BVK 10 400W/40m 10W/m,TF BVK, 400,,,40,10,230,FALSE,FALSE,1,1,,2
-1011615,TF BVK 10 500W/50m 10W/m,Elektrisk varmekabel for nedstøping,7071236008460,TF BVK 10 500W/50m10W/m,TF BVK, 500,,,50,10,230,FALSE,FALSE,1,1,,2
-1011616,TF BVK 10 600W/60m 10W/m,Elektrisk varmekabel for nedstøping,7071236008477,TF BVK 10 600W/60m10W/m,TF BVK, 600,,,60,10,230,FALSE,FALSE,1,1,,2
-1011617,TF BVK 10 700W/70m 10W/m,Elektrisk varmekabel for nedstøping,7071236008484,TF BVK 10 700W/70m 10W/m,TF BVK, 700,,,70,10,230,FALSE,FALSE,1,1,,2
-1011618,TF BVK 10 800W/80m 10W/m,Elektrisk varmekabel for nedstøping,7071236008491,TF BVK 10 800W/80m10W/m,TF BVK, 800,,,80,10,230,FALSE,FALSE,1,1,,2
-1011619,TF BVK 10 900W/90m 10W/m,Elektrisk varmekabel for nedstøping,7071236008507,TF BVK 10 900W/90m10W/m,TF BVK, 900,,,90,10,230,FALSE,FALSE,1,1,,2
-1011620,TF BVK 10 1000W/100m 10W/m,Elektrisk varmekabel for nedstøping,7071236008514,TF BVK 10 1000W/100m10W/m,TF BVK, 1000,,,100,10,230,FALSE,FALSE,1,1,,2
-1011622,TF BVK 10 1200W/120m 10W/m,Elektrisk varmekabel for nedstøping,7071236008521,TF BVK 10 1200W/120m 10W/m,TF BVK, 1200,,,120,10,230,FALSE,FALSE,1,1,,2
-1011624,TF BVK 10 1400W/140m 10W/m,Elektrisk varmekabel for nedstøping,7071236008538,TF BVK 10 1400W/140m 10W/m,TF BVK, 1400,,,140,10,230,FALSE,FALSE,1,1,,2
-1011626,TF BVK 10 1600W/160m 10W/m,Elektrisk varmekabel for nedstøping,7071236008545,TF BVK 10 1600W/160m 10W/m,TF BVK, 1600,,,160,10,230,FALSE,FALSE,1,1,,2
-1011628,TF BVK 10 1800W/180m 10W/m,Elektrisk varmekabel for nedstøping,7071236008552,TF BVK 10 1800W/180m 10W/m,TF BVK, 1800,,,180,10,230,FALSE,FALSE,1,1,,2
-1011475,"TF Stretch 100W/5m2 0,5x10m Gul",Elastisk varmekabelmatte for nedstøping,7071236001553,"TF Stretch 100W/5m2 0,5x10m Gul",TF Stretch,500,5,"0,5",10,100,230,TRUE,FALSE,3,,1,2
-1011476,"TF Stretch 100W/6m2 0,5x12m Gul",Elastisk varmekabelmatte for nedstøping,7071236001560,"TF Stretch 100W/6m2 0,5x12m Gul",TF Stretch,600,6,"0,5",12,100,230,TRUE,FALSE,3,,1,2
-1011477,"TF Stretch 100W/7m2 0,5x14m Gul",Elastisk varmekabelmatte for nedstøping,7071236001577,"TF Stretch 100W/7m2 0,5x14m Gul",TF Stretch,700,7,"0,5",14,100,230,TRUE,FALSE,3,,1,2
-1011478,"TF Stretch 100W/8m2 0,5x16m Gul",Elastisk varmekabelmatte for nedstøping,7071236001584,"TF Stretch 100W/8m2 0,5x16m Gul",TF Stretch,800,8,"0,5",16,100,230,TRUE,FALSE,3,,1,2
-1011479,"TF Stretch 100W/9m2 0,5x18m Gul",Elastisk varmekabelmatte for nedstøping,7071236001591,"TF Stretch 100W/9m2 0,5x18m Gul",TF Stretch,900,9,"0,5",18,100,230,TRUE,FALSE,3,,1,2
-1011480,"TF Stretch 100W/10m2 0,5x20m Gul",Elastisk varmekabelmatte for nedstøping,7071236001607,"TF Stretch 100W/10m2 0,5x20m Gul",TF Stretch,1000,10,"0,5",20,100,230,TRUE,FALSE,3,,1,2
-1011482,"TF Stretch 100W/12m2 0,5x24m Gul",Elastisk varmekabelmatte for nedstøping,7071236001614,"TF Stretch 100W/12m2 0,5x24m Gul",TF Stretch,1200,12,"0,5",24,100,230,TRUE,FALSE,3,,1,2
-1011484,TF Stretch 100W/14m2 1x14m,Varmekabelmatte for nedstøping,7071236001621,TF Stretch 100W/14m2 1x14m,TF Stretch,1400,14,1,14,100,230,TRUE,FALSE,3,,1,2
-1011486,"TF Stretch 100W/16m2 0,5x32m Gul",Elastisk varmekabelmatte for nedstøping,7071236001638,"TF Stretch 100W/16m2 0,5x32m Gul",TF Stretch,1600,16,"0,5",32,100,230,TRUE,FALSE,3,,1,2
-1011513,TF Sticky Mat 100W/3m2 300W,Selvklebende varmekabelmatte,7071236001706,TF Sticky Mat 100W/3m2 300W,TF Sticky Mat, 300,3,,,100,230,TRUE,FALSE,,,1,3
-1011514,TF Sticky Mat 100W/4m2 400W,Selvklebende varmekabelmatte,7071236001713,TF Sticky Mat 100W/4m2 400W,TF Sticky Mat, 400,4,,,100,230,TRUE,FALSE,,,1,3
-1011515,TF Sticky Mat 100W/5m2 500W,Selvklebende varmekabelmatte,7071236001720,TF Sticky Mat 100W/5m2 500W,TF Sticky Mat, 500,5,,,100,230,TRUE,FALSE,,,1,3
-1011516,TF Sticky Mat 100W/6m2 600W,Selvklebende varmekabelmatte,7071236001737,TF Sticky Mat 100W/6m2 600W,TF Sticky Mat, 600,6,,,100,230,TRUE,FALSE,,,1,3
-1011517,TF Sticky Mat 100W/7m2 700W,Selvklebende varmekabelmatte,7071236001744,TF Sticky Mat 100W/7m2 700W,TF Sticky Mat, 700,7,,,100,230,TRUE,FALSE,,,1,3
-1011518,TF Sticky Mat 100W/8m2 800W,Selvklebende varmekabelmatte,7071236001751,TF Sticky Mat 100W/8m2 800W,TF Sticky Mat, 800,8,,,100,230,TRUE,FALSE,,,1,3
-1011519,TF Sticky Mat 100W/9m2 900W,Selvklebende varmekabelmatte,7071236001768,TF Sticky Mat 100W/9m2 900W,TF Sticky Mat, 900,9,,,100,230,TRUE,FALSE,,,1,3
-1011520,TF Sticky Mat 100W/10m2 1000W,Selvklebende varmekabelmatte,7071236005407,TF Sticky Mat 100W/10m2 1000,TF Sticky Mat,,10,,,100,230,TRUE,FALSE,,,1,3
-1011522,TF Sticky Mat 100W/12m2 1200W,Selvklebende varmekabelmatte,7071236005414,TF Sticky Mat 100W/12m2 1200,TF Sticky Mat,,12,,,100,230,TRUE,FALSE,,,1,3
-1011553,TF Sticky Mat,Selvklebende varmekabelmatte,7071236010968,TF Sticky Mat 100W/2m2 200W,TF Sticky Mat, 200,2,,,100,230,TRUE,FALSE,,,1,3
-1011554,TF Sticky Mat,Selvklebende varmekabelmatte,7071236010975,"TF Sticky Mat 100W/3,5m2 350W",TF Sticky Mat, 350,"3,5",,,100,230,TRUE,FALSE,,,1,3
-1021513,TF Sticky Pro 100W/3m2 300W,Selvklebende varmekabelmatte,7071236013006,TF Sticky Pro 100W/3m2 300W,TF Sticky Pro, 300,3,,,100,230,TRUE,FALSE,,,1,3
-1021514,TF Sticky Pro 100W/4m2 400W,Selvklebende varmekabelmatte,7071236013013,TF Sticky Pro 100W/4m2 400W,TF Sticky Pro, 400,4,,,100,230,TRUE,FALSE,,,1,3
-1021515,TF Sticky Pro 100W/5m2 500W,Selvklebende varmekabelmatte,7071236013020,TF Sticky Pro 100W/5m2 500W,TF Sticky Pro, 500,5,,,100,230,TRUE,FALSE,,,1,3
-1021516,TF Sticky Pro 100W/6m2 600W,Selvklebende varmekabelmatte,7071236013037,TF Sticky Pro 100W/6m2 600W,TF Sticky Pro, 600,6,,,100,230,TRUE,FALSE,,,1,3
-1021517,TF Sticky Pro 100W/7m2 700W,Selvklebende varmekabelmatte,7071236013044,TF Sticky Pro 100W/7m2 700W,TF Sticky Pro, 700,7,,,100,230,TRUE,FALSE,,,1,3
-1021518,TF Sticky Pro 100W/8m2 800W,Selvklebende varmekabelmatte,7071236013051,TF Sticky Pro 100W/8m2 800W,TF Sticky Pro, 800,8,,,100,230,TRUE,FALSE,,,1,3
-1021519,TF Sticky Pro 100W/9m2 900W,Selvklebende varmekabelmatte,7071236013068,TF Sticky Pro 100W/9m2 900W,TF Sticky Pro, 900,9,,,100,230,TRUE,FALSE,,,1,3
-1021520,TF Sticky Pro 100W/10m2 1000W,Selvklebende varmekabelmatte,7071236013075,TF Sticky Pro 100W/10m2 1000W,TF Sticky Pro, 1000,10,,,100,230,TRUE,FALSE,,,1,3
-1021522,TF Sticky Pro 100W/12m2 1200W,Selvklebende varmekabelmatte,7071236013082,TF Sticky Pro 100W/12m2 1200W,TF Sticky Pro, 1200,12,,,100,230,TRUE,FALSE,,,1,3
-1021525,TF Sticky Pro 100W/15m2 1500W,Selvklebende varmekabelmatte,7071236013099,TF Sticky Pro 100W/15m2 1500W,TF Sticky Pro, 1500,15,,,100,230,TRUE,FALSE,,,1,3
-5430420,TF varmefolie 50cm 100W/m2,Varmefolie som parkettunderlag 100m rull,7071236008415,TF varmefolie 100W/m2 50cm,TF varmefolie,,,50,,100,230,FALSE,FALSE,,,,2
-1011423,TF AIK Silikonkabel for avising 120W 3m,Varmekabler i faste lengder,7071236012474,TF AIK Silikonkabel for avising 120W 3m,TF AIK Silikonkabel, 120,,,3,120,230,FALSE,FALSE,1,,,3
-1011352,TF SBG 13W/2m 26W m/plugg,TF selvbegrensende varmekabel,7071236001065,TF SBG 13W/2m 26W m/plugg,TF SBG, 26,,,2,13,230,FALSE,FALSE,2,,,2
-1011353,TF SBG Oransje 13W/3m 39W m/stikk,TF selvbegrensende varmekabel,7071236001072,TF SBG 13W/3m 39W m/stikk,TF SBG, 39,,,3,13,230,FALSE,FALSE,2,,,2
-1011354,TF SBG 13W/4m 52W m/plugg,TF selvbegrensende varmekabel,7071236001089,TF SBG 13W/4m 52W m/plugg,TF SBG, 52,,,4,13,230,FALSE,FALSE,2,,,2
-1011355,TF SBG Oransje 13W/5m 65W m/stikk,TF selvbegrensende varmekabel,7071236001096,TF SBG 13W/5m 65W m/stikk,TF SBG, 65,,,5,13,230,FALSE,FALSE,2,,,2
-1011356,TF SBG 13W/6m 78W m/plugg,TF selvbegrensende varmekabel,7071236001102,TF SBG 13W/6m 78W m/plugg,TF SBG, 78,,,6,13,230,FALSE,FALSE,2,,,2
-1011358,TF SBG 13W/8m 104W m/plugg,TF selvbegrensende varmekabel,7071236001119,TF SBG 13W/8m 104W m/plugg,TF SBG, 104,,,8,13,230,FALSE,FALSE,2,,,2
-1011360,TF SBG 13W/10m 130W m/plugg,TF selvbegrensende varmekabel,7071236001126,TF SBG 13W/10m 130W m/plugg,TF SBG, 130,,,10,13,230,FALSE,FALSE,2,,,2
-1011363,TF SBG 13W/13m 169W m/plugg,TF selvbegrensende varmekabel,7071236001140,TF SBG 13W/13m 169W m/plugg,TF SBG, 169,,,13,13,230,FALSE,FALSE,2,,,2
-1011367,TF SBG 13W/20m 260W m/plugg,TF selvbegrensende varmekabel,7071236001171,TF SBG 13W/20m 260W m/plugg,TF SBG, 260,,,20,13,230,FALSE,FALSE,2,,,2
-1011368,TF SBG 13W/25m 325W m/plugg,TF selvbegrensende varmekabel,7071236005520,TF SBG 13W/25m 325W m/plugg,TF SBG, 325,,,25,13,230,FALSE,FALSE,2,,,2
-1001012,"TF 130W 3,1m2/0,5x6,3m 400W",Ultratynn varmekabelmatte for nedstøping,7071236000013,"TF130W/3,1m2 0,5x6,3m 400W",TF, 400,"3,1","0,5","3,1",130,230,TRUE,FALSE,,,,1
-1001013,"TF 130W 3,9m2/0,5x7,8m 500W",Ultratynn varmekabelmatte for nedstøping,7071236000020,"TF130W/3,9m2 0,5x7,8m 500W",TF, 500,"3,9","0,5","3,9",130,230,TRUE,FALSE,,,,1
-1001014,"TF 130W 4,7m2/0,5x9,4m 600W",Ultratynn varmekabelmatte for nedstøping,7071236000037,"TF130W/4,7m2 0,5x9,4m 600W",TF, 600,"4,7","0,5","4,7",130,230,TRUE,FALSE,,,,1
-1001015,"TF 130W 5,5m2/0,5x11m 710W",Ultratynn varmekabelmatte for nedstøping,7071236000044,"TF130W/5,5m2 0,5x11m 710W",TF, 710,"5,5","0,5","5,5",130,230,TRUE,FALSE,,,,1
-1011523,TF Sticky Mat 130W/3m2 390W,Selvklebende varmekabelmatte,7071236001775,TF Sticky Mat 130W/3m2 390W,TF Sticky Mat, 390,3,,,130,230,TRUE,FALSE,,,1,3
-1011524,TF Sticky Mat 130W/4m2 520W,Selvklebende varmekabelmatte,7071236001782,TF Sticky Mat 130W/4m2 520W,TF Sticky Mat, 520,4,,,130,230,TRUE,FALSE,,,1,3
-1011525,TF Sticky Mat 130W/5m2 650W,Selvklebende varmekabelmatte,7071236001799,TF Sticky Mat 130W/5m2 650W,TF Sticky Mat, 650,5,,,130,230,TRUE,FALSE,,,1,3
-1011526,TF Sticky Mat 130W/6m2 780W,Selvklebende varmekabelmatte,7071236001805,TF Sticky Mat 130W/6m2 780W,TF Sticky Mat, 780,6,,,130,230,TRUE,FALSE,,,1,3
-1011527,TF Sticky Mat 130W/7m2 910W,Selvklebende varmekabelmatte,7071236001812,TF Sticky Mat 130W/7m2 910W,TF Sticky Mat, 910,7,,,130,230,TRUE,FALSE,,,1,3
-1011528,TF Sticky Mat 130W/8m2 1040W,Selvklebende varmekabelmatte,7071236001829,TF Sticky Mat 130W/8m2 1040W,TF Sticky Mat, 1040,8,,,130,230,TRUE,FALSE,,,1,3
-1011529,TF Sticky Mat 130W/9m2 1170W,Selvklebende varmekabelmatte,7071236001836,TF Sticky Mat 130W/9m2 1170W,TF Sticky Mat, 1170,9,,,130,230,TRUE,FALSE,,,1,3
-1011550,TF Sticky Mat 130W/10m2 1300W,Selvklebende varmekabelmatte,7071236005421,TF Sticky Mat 130W/10m2 1300,TF Sticky Mat,,10,,,130,230,TRUE,FALSE,,,1,3
-1011552,TF Sticky Mat 130W/12m2 1560W,Selvklebende varmekabelmatte,7071236005438,TF Sticky Mat 130W/12m2 1560,TF Sticky Mat,,12,,,130,230,TRUE,FALSE,,,1,3
-1011341,TF parares vk 15W/m Blå PE,TF parallellresistiv varmekabel,7071236000921,TF Parares vk 15W/m Blå PE,TF parares,,,,,15,230,FALSE,FALSE,,,,2
-1011450,TF SBG-T 15W/m Sort,SBG for takrenner og nedløp,7071236001447,TF SBG-T 15W/m pr. m sort,TF SBG-T,,,,,15,230,FALSE,FALSE,,,,2
-1011230,"TF SVK matte 150W/1,1m2",Varmekabelmatte for nedstøping,7071236009115,"TFSVK matte 150W/1,1m2",TF, 150,"1,1",,"1,1",150,230,TRUE,FALSE,1,,,1
-1021530,TF Sticky Pro 150W/1m2 150W,Selvklebende varmekabelmatte,7071236013105,TF Sticky Pro 150W/1m2 150W,TF Sticky Pro, 150,1,,,150,230,TRUE,FALSE,,,1,3
-1021531,"TF Sticky Pro 150W/1,5m2 225W",Selvklebende varmekabelmatte,7071236013112,"TF Sticky Pro 150W/1,5m2 225W",TF Sticky Pro, 225,"1,5",,,150,230,TRUE,FALSE,,,1,3
-1021532,TF Sticky Pro 150W/2m2 300W,Selvklebende varmekabelmatte,7071236013129,TF Sticky Pro 150W/2m2 300W,TF Sticky Pro, 300,2,,,150,230,TRUE,FALSE,,,1,3
-1021533,"TF Sticky Pro 150W/2,5m2 375W",Selvklebende varmekabelmatte,7071236013136,"TF Sticky Pro 150W/2,5m2 375W",TF Sticky Pro, 375,"2,5",,,150,230,TRUE,FALSE,,,1,3
-1021534,TF Sticky Pro 150W/3m2 450W,Selvklebende varmekabelmatte,7071236013143,TF Sticky Pro 150W/3m2 450W,TF Sticky Pro, 450,3,,,150,230,TRUE,FALSE,,,1,3
-1021535,"TF Sticky Pro 150W/3,5m2 525W",Selvklebende varmekabelmatte,7071236013150,"TF Sticky Pro 150W/3,5m2 525W",TF Sticky Pro, 525,"3,5",,,150,230,TRUE,FALSE,,,1,3
-1021536,TF Sticky Pro 150W/4m2 600W,Selvklebende varmekabelmatte,7071236013167,TF Sticky Pro 150W/4m2 600W,TF Sticky Pro, 600,4,,,150,230,TRUE,FALSE,,,1,3
-1021537,"TF Sticky Pro 150W/4,5m2 675W",Selvklebende varmekabelmatte,7071236013174,"TF Sticky Pro 150W/4,5m2 675W",TF Sticky Pro, 675,"4,5",,,150,230,TRUE,FALSE,,,1,3
-1021538,TF Sticky Pro 150W/5m2 750W,Selvklebende varmekabelmatte,7071236013181,TF Sticky Pro 150W/5m2 750W,TF Sticky Pro, 750,5,,,150,230,TRUE,FALSE,,,1,3
-1021540,TF Sticky Pro 150W/6m2 900W,Selvklebende varmekabelmatte,7071236013198,TF Sticky Pro 150W/6m2 900W,TF Sticky Pro, 900,6,,,150,230,TRUE,FALSE,,,1,3
-1021542,TF Sticky Pro 150W/7m2 1050W,Selvklebende varmekabelmatte,7071236013204,TF Sticky Pro 150W/7m2 1050W,TF Sticky Pro, 1050,7,,,150,230,TRUE,FALSE,,,1,3
-1021544,TF Sticky Pro 150W/8m2 1200W,Selvklebende varmekabelmatte,7071236013211,TF Sticky Pro 150W/8m2 1200W,TF Sticky Pro, 1200,8,,,150,230,TRUE,FALSE,,,1,3
-1021546,TF Sticky Pro 150W/9m2 1350W,Selvklebende varmekabelmatte,7071236013228,TF Sticky Pro 150W/9m2 1350W,TF Sticky Pro, 1350,9,,,150,230,TRUE,FALSE,,,1,3
-1011326,TF parares vk 16W/m Brun FP,TF parallellresistiv varmekabel,7071236000860,TF Parares vk 16W/m Brun FP,TF parares,,,,,16,230,FALSE,FALSE,,,,2
-1001019,"TF 160W 0,5m2/0,6x0,8m 77W",Ultratynn varmekabelmatte for nedstøping,7071236000051,"TF160W/0,5m2 0,6x0,8m 77W",TF, 77,"0,5","0,6","0,5",160,230,TRUE,FALSE,,,,1
-1001020,"TF 160W 1,0m2/0,3x3,3m 160W",Ultratynn varmekabelmatte for nedstøping,7071236000068,"TF160W/1,0m2 0,3x3,3m 160W",TF, 160,"1,0","0,3","1,0",160,230,TRUE,FALSE,,,,1
-1001021,"TF 160W 1,5m2/0,3x5m2 40W",Ultratynn varmekabelmatte for nedstøping,7071236000075,"TF160W/1,5m2 0,3x5m 240W",TF, 240,"1,5","0,3","1,5",160,230,TRUE,FALSE,,,,1
-1001022,"TF 160W 2,0m2/0,3x6,6m 320W",Ultratynn varmekabelmatte for nedstøping,7071236000082,"TF160W/2,0m2 0,3x6,6m 320W",TF, 320,"2,0","0,3","2,0",160,230,TRUE,FALSE,,,,1
-1001023,"TF 160W 2,5m2/0,3x8,3m 400W",Ultratynn varmekabelmatte for nedstøping,7071236000099,"TF160W/2,5m2 0,3x8,3m 400W",TF, 400,"2,5","0,3","2,5",160,230,TRUE,FALSE,,,,1
-1001024,"TF 160W 3,0m2/0,3x10m 480W",Ultratynn varmekabelmatte for nedstøping,7071236000105,"TF160W/3,0m2 0,3x10m 480W",TF, 480,"3,0","0,3","3,0",160,230,TRUE,FALSE,,,,1
-1001025,"TF 160W 4,0m2/0,3x13,3m 640W",Ultratynn varmekabelmatte for nedstøping,7071236000112,"TF160W/4,0m2 0,3x13,3m 640W",TF, 640,"4,0","0,3","4,0",160,230,TRUE,FALSE,,,,1
-1011424,TF AIK Silikonkabel for avising 160W 4m,Varmekabler i faste lengder,7071236012481,TF AIK Silikonkabel for avising 160W 4m,TF AIK Silikonkabel, 160,,,4,160,230,FALSE,FALSE,1,,,3
-1011530,TF Sticky Mat 160W/1m2 160W,Selvklebende varmekabelmatte,7071236001843,TF Sticky Mat 160W/1m2 160W,TF Sticky Mat, 160,1,,,160,230,TRUE,FALSE,,,1,3
-1011531,"TF Sticky Mat 160W/1,5m2 240W",Selvklebende varmekabelmatte,7071236001850,"TF Sticky Mat 160W/1,5m2 240",TF Sticky Mat,,"1,5",,,160,230,TRUE,FALSE,,,1,3
-1011532,TF Sticky Mat 160W/2m2 320W,Selvklebende varmekabelmatte,7071236001867,TF Sticky Mat 160W/2m2 320W,TF Sticky Mat, 320,2,,,160,230,TRUE,FALSE,,,1,3
-1011533,"TF Sticky Mat 160W/2,5m2 400W",Selvklebende varmekabelmatte,7071236001874,"TF Sticky Mat 160W/2,5m2 400",TF Sticky Mat,,"2,5",,,160,230,TRUE,FALSE,,,1,3
-1011534,TF Sticky Mat 160W/3m2 480W,Selvklebende varmekabelmatte,7071236001881,TF Sticky Mat 160W/3m2 480W,TF Sticky Mat, 480,3,,,160,230,TRUE,FALSE,,,1,3
-1011535,"TF Sticky Mat 160W/3,5m2 560W",Selvklebende varmekabelmatte,7071236001898,"TF Sticky Mat 160W/3,5m2 560",TF Sticky Mat,,"3,5",,,160,230,TRUE,FALSE,,,1,3
-1011536,TF Sticky Mat 160W/4m2 640W,Selvklebende varmekabelmatte,7071236001904,TF Sticky Mat 160W/4m2 640W,TF Sticky Mat, 640,4,,,160,230,TRUE,FALSE,,,1,3
-1011537,"TF Sticky Mat 160W/4,5m2 720W",Selvklebende varmekabelmatte,7071236001911,"TF Sticky Mat 160W/4,5m2 720",TF Sticky Mat,,"4,5",,,160,230,TRUE,FALSE,,,1,3
-1011538,TF Sticky Mat 160W/5m2 800W,Selvklebende varmekabelmatte,7071236001928,TF Sticky Mat 160W/5m2 800W,TF Sticky Mat, 800,5,,,160,230,TRUE,FALSE,,,1,3
-1011540,TF Sticky Mat 160W/6m2 960W,Selvklebende varmekabelmatte,7071236001935,TF Sticky Mat 160W/6m2 960W,TF Sticky Mat, 960,6,,,160,230,TRUE,FALSE,,,1,3
-1011542,TF Sticky Mat 160W/7m2 1120W,Selvklebende varmekabelmatte,7071236001942,TF Sticky Mat 160W/7m2 1120W,TF Sticky Mat, 1120,7,,,160,230,TRUE,FALSE,,,1,3
-1011544,TF Sticky Mat 160W/8m2 1280W,Selvklebende varmekabelmatte,7071236001959,TF Sticky Mat 160W/8m2 1280W,TF Sticky Mat, 1280,8,,,160,230,TRUE,FALSE,,,1,3
-1011546,TF Sticky Mat 160W/9m2 1440W,Selvklebende varmekabelmatte,7071236001966,TF Sticky Mat 160W/9m2 1440W,TF Sticky Mat, 1440,9,,,160,230,TRUE,FALSE,,,1,3
-1011250,VK02 170W/10m 17W/m,Elektrisk varmekabel for nedstøping,,VK02 170W/10m v-kabel 17W/m,VK02, 170,,,10,17,230,FALSE,FALSE,1,1,,1
-1011251,VK02 255W/15m 17W/m,Elektrisk varmekabel for nedstøping,,VK02 255W/15m v-kabel 17W/m,VK02, 255,,,15,17,230,FALSE,FALSE,1,1,,1
-1011252,VK02 340W/20m 17W/m,Elektrisk varmekabel for nedstøping,,VK02 340W/20m v-kabel 17W/m,VK02, 340,,,20,17,230,FALSE,FALSE,1,1,,1
-1011253,VK02 425W/25m 17W/m,Elektrisk varmekabel for nedstøping,,VK02 425W/25m v-kabel 17W/m,VK02, 425,,,25,17,230,FALSE,FALSE,1,1,,1
-1011266,VK02 1700W/100m 17W/m,Elektrisk varmekabel for nedstøping,,VK02 1700W/100m v-kabel 17W/m,VK02, 1700,,,100,17,230,FALSE,FALSE,1,1,,1
-1011268,VK02 2040W/120m 17W/m,Elektrisk varmekabel for nedstøping,,VK02 2040W/120m v-kabel 17W/m,VK02, 2040,,,120,17,230,FALSE,FALSE,1,1,,1
-1011600,TF NSX 17 170W/10m 17W/m,Elektrisk varmekabel for nedstøping,7071236012795,TF NSX 17 170W/10m 17W/m,TF NSX, 170,,,10,17,230,FALSE,FALSE,1,1,,2
-1011601,TF NSX 17 255W/15m 17W/m,Elektrisk varmekabel for nedstøping,7071236012801,TF NSX 17 255W/15m 17W/m,TF NSX, 255,,,15,17,230,FALSE,FALSE,1,1,,2
-1011602,"TF NSX 17 300W/17,6m 17W/m",Elektrisk varmekabel for nedstøping,7071236012818,"TF NSX 17 300W/17,6m 17W/m",TF NSX, 300,,,"17,6",17,230,FALSE,FALSE,1,1,,2
-1011603,"TF NSX 17 400W/23,5m 17W/m",Elektrisk varmekabel for nedstøping,7071236012825,"TF NSX 17 400W/23,5m 17W/m",TF NSX, 400,,,"23,5",17,230,FALSE,FALSE,1,1,,2
-1011604,TF NSX 17 500W/30m 17W/m,Elektrisk varmekabel for nedstøping,7071236012832,TF NSX 17 500W/30m 17W/m,TF NSX, 500,,,30,17,230,FALSE,FALSE,1,1,,2
-1011605,TF NSX 17 600W/35m 17W/m,Elektrisk varmekabel for nedstøping,7071236012849,TF NSX 17 600W/35m 17W/m,TF NSX, 600,,,35,17,230,FALSE,FALSE,1,1,,2
-1011606,TF NSX 17 700W/41m 17W/m,Elektrisk varmekabel for nedstøping,7071236012856,TF NSX 17 700W/41m 17W/m,TF NSX, 700,,,41,17,230,FALSE,FALSE,1,1,,2
-1011607,TF NSX 17 850W/50m 17W/m,Elektrisk varmekabel for nedstøping,7071236012863,TF NSX 17 850W/50m 17W/m,TF NSX, 850,,,50,17,230,FALSE,FALSE,1,1,,2
-1011608,TF NSX 17 1000W/59m 17W/m,Elektrisk varmekabel for nedstøping,7071236012870,TF NSX 17 1000W/59m 17W/m,TF NSX, 1000,,,59,17,230,FALSE,FALSE,1,1,,2
-1011609,TF NSX 17 1250W/74m 17W/m,Elektrisk varmekabel for nedstøping,7071236012887,TF NSX 17 1250W/74m 17W/m,TF NSX, 1250,,,74,17,230,FALSE,FALSE,1,1,,2
-1011651,"TF SVK 17 150W/8,8m 17W/m",Varmekabel i ferdige elementer 17W/m,7071236008576,"TF SVK 17 150W/8,8m 17W/m",TF SVK, 150,,,,17,230,FALSE,FALSE,1,1,1,2
-1011653,"TF SVK 17 300W/17,6m 17W/m",Varmekabel i ferdige elementer 17W/m,7071236008583,"TF SVK 17 300W/17,6m 17W/m",TF SVK, 300,,,"17,6",17,230,FALSE,FALSE,1,1,,2
-1011654,"TF SVK 17 400W/23,5m 17W/m",Varmekabel i ferdige elementer 17W/m,7071236008590,"TF SVK 17 400W/23,5m 17W/m",TF SVK, 400,,,"23,5",17,230,FALSE,FALSE,1,1,,2
-1011655,TF SVK 17 500W/30m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008606,TF SVK 17 500W/30m 17W/m,TF SVK, 500,,,30,17,230,FALSE,FALSE,1,1,,2
-1011656,TF SVK 17 600W/35m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008613,TF SVK 17 600W/35m 17W/m,TF SVK, 600,,,35,17,230,FALSE,FALSE,1,1,,2
-1011657,TF SVK 17 700W/41m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008620,TF SVK 17 700W/41m 17W/m,TF SVK, 700,,,41,17,230,FALSE,FALSE,1,1,,2
-1011658,TF SVK 17 850W/50m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008637,TF SVK 17 850W/50m 17W/m,TF SVK, 850,,,50,17,230,FALSE,FALSE,1,1,,2
-1011660,TF SVK 17 1000W/59m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008644,TF SVK 17 1000W/59m 17W/m,TF SVK, 1000,,,59,17,230,FALSE,FALSE,1,1,,2
-1011662,TF SVK 17 1250W/74m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008651,TF SVK 17 1250W/74m 17W/m,TF SVK, 1250,,,74,17,230,FALSE,FALSE,1,1,,2
-1011665,TF SVK 17 1500W/88m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008668,TF SVK 17 1500W/88m 17W/m,TF SVK, 1500,,,88,17,230,FALSE,FALSE,1,1,,2
-1011667,TF SVK 17 1700W/100m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008675,TF SVK 17 1700W/100m 17W/m,TF SVK, 1700,,,100,17,230,FALSE,FALSE,1,1,,2
-1011668,TF SVK 17 2100W/123m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008682,TF SVK 17 2100W/123m 17W/m,TF SVK, 2100,,,123,17,230,FALSE,FALSE,1,1,,2
-1011669,TF SVK 17 2600W/153m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008699,TF SVK 17 2600W/153m 17W/m,TF SVK, 2600,,,153,17,230,FALSE,FALSE,1,1,,2
-1011670,TF SVK 17 2900W/171m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008705,TF SVK 17 2900W/171m 17W/m,TF SVK, 2900,,,171,17,230,FALSE,FALSE,1,1,,2
-1011672,TF SVK 17 3300W/194m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008712,TF SVK 17 3300W/194m 17W/m,TF SVK, 3300,,,194,17,230,FALSE,FALSE,1,1,,2
-1011332,TF SBG-H 20W/m max 200C Rød,TF SBG for ekstreme forhold,7071236005988,TF SBG-H 20W/m max 200C rød,TF SBG-H,,,,,20,230,FALSE,FALSE,,,,2
-1011342,TF parares vk 20W/m Blå PE,TF parallellresistiv varmekabel,7071236000938,TF Parares vk 20W/m Blå PE,TF parares,,,,,20,230,FALSE,FALSE,,,,2
-1011345,TF parares vk 20W/m Brun SR,TF parallellresistiv varmekabel,7071236000822,TF Parares vk 20W/m Brun SR,TF parares,,,,,20,230,FALSE,FALSE,,,,2
-1011425,TF AIK Silikonkabel for avising 200W 5m,Varmekabler i faste lengder,7071236012443,TF AIK Silikonkabel for avising 200W 5m,TF AIK Silikonkabel, 200,,,5,200,230,FALSE,FALSE,1,,,3
-1011461,TF SBG-W55 25W/m Grå,SBG for varmtvann,7071236005247,TF SBG-W55 21W/m pr. m grå,TF SBG-W55,,,,,21,230,FALSE,FALSE,,1,,2
-1011426,TF AIK Silikonkabel for avising 240W 6m,Varmekabler i faste lengder,7071236012498,TF AIK Silikonkabel for avising 240W 6m,TF AIK Silikonkabel, 240,,,6,240,230,FALSE,FALSE,1,,,3
-1011327,TF parares vk 25W/m Brun FP,TF parallellresistiv varmekabel,7071236000877,TF Parares vk 25W/m Brun FP,TF parares,,,,,25,230,FALSE,FALSE,,,,2
-1011460,TF SBG-T 25W/m Sort,SBG for takrenne og nedløp,7071236001492,TF SBG-T 25W/m pr. m sort,TF SBG-T,,,,,25,230,FALSE,FALSE,,,,2
-1011462,TF SBG-W65 28W/m Grå,SBG for varmtvann,7071236001508,TF SBG-W65 28W/m pr. m grå,TF SBG-W65,,,,,28,230,FALSE,FALSE,,1,,2
-1001101,"TFP 30W/1,0m2 0,5x2m 30W",Varmekabelmatte som parkettunderlag,7071236009528,"TFP 30W/1,0m2 0,5x2m 30W",TFP, 30,"1,0","0,5","1,0",30,230,TRUE,FALSE,,,,1
-1001102,"TFP 30W/2,0m2 0,5x4m 60W",Varmekabelmatte som parkettunderlag,7071236009535,"TFP 30W/2,0m2 0,5x4m 60W",TFP, 60,"2,0","0,5","2,0",30,230,TRUE,FALSE,,,,1
-1001103,"TFP 30W/3,0m2 0,5x6m 90W",Varmekabelmatte som parkettunderlag,7071236009542,"TFP 30W/3,0m2 0,5x6m 90W",TFP, 90,"3,0","0,5","3,0",30,230,TRUE,FALSE,,,,1
-1001104,"TFP 30W/4,0m2 0,5x8m 120W",Varmekabelmatte som parkettunderlag,7071236009559,"TFP 30W/4,0m2 0,5x8m 120W",TFP, 120,"4,0","0,5","4,0",30,230,TRUE,FALSE,,,,1
-1001105,"TFP 30W/5,0m2 0,5x10m 150W",Varmekabelmatte som parkettunderlag,7071236009566,"TFP 30W/5,0m2 0,5x10m 150W",TFP, 150,"5,0","0,5","5,0",30,230,TRUE,FALSE,,,,1
-1001106,"TFP 30W/6,0m2 0,5x12m 180W",Varmekabelmatte som parkettunderlag,7071236009573,"TFP 30W/6,0m2 0,5x12m 180W",TFP, 180,"6,0","0,5","6,0",30,230,TRUE,FALSE,,,,1
-1001107,"TFP 30W/7,0m2 0,5x14m 210W",Varmekabelmatte som parkettunderlag,7071236009580,"TFP 30W/7,0m2 0,5x14m 210W",TFP, 210,"7,0","0,5","7,0",30,230,TRUE,FALSE,,,,1
-1001108,"TFP 30W/8,0m2 0,5x16m 240W",Varmekabelmatte som parkettunderlag,7071236009597,"TFP 30W/8,0m2 0,5x16m 240W",TFP, 240,"8,0","0,5","8,0",30,230,TRUE,FALSE,,,,1
-1001109,"TFP 30W/9,0m2 0,5x18m 270W",Varmekabelmatte som parkettunderlag,7071236009603,"TFP 30W/9,0m2 0,5x18m 270W",TFP, 270,"9,0","0,5","9,0",30,230,TRUE,FALSE,,,,1
-1001110,"TFP 30W/10,0m2 0,5x20m 300W",Varmekabelmatte som parkettunderlag,7071236009610,"TFP 30W/10,0m2 0,5x20m 300W",TFP, 300,"10,0","0,5","10,0",30,230,TRUE,FALSE,,,,1
-1001112,"TFP 30W/12,0m2 0,5x24m 360W",Varmekabelmatte som parkettunderlag,7071236009627,"TFP 30W/12,0m2 0,5x24m 360W",TFP, 360,"12,0","0,5","12,0",30,230,TRUE,FALSE,,,,1
-1001121,"TFP 30W/10,5m2 0,5x21m 315W",Varmekabelmatte som parkettunderlag,7071236009870,"TFP 30W/10,5m2 0,5x21m 315W",TFP, 315,"10,5","0,5","10,5",30,230,TRUE,FALSE,,,,1
-1001122,"TFP 30W/5,5m2 0,5x11m 165W",Varmekabelmatte som parkettunderlag,7071236009849,"TFP 30W/5,5m2 0,5x11m 165W",TFP, 165,"5,5","0,5","5,5",30,230,TRUE,FALSE,,,,1
-1001123,"TFP 30W/6,5m2 0,5x13m 195W",Varmekabelmatte som parkettunderlag,7071236009634,"TFP 30W/6,5m2 0,5x13m 195W",TFP, 195,"6,5","0,5","6,5",30,230,TRUE,FALSE,,,,1
-1001124,"TFP 30W/6,75m2 0,5x13,5m 203W",Varmekabelmatte som parkettunderlag,7071236009832,"TFP 30W/6,75m2 0,5x13,5m 203W",TFP, 203,75,"0,5","6,75",30,230,TRUE,FALSE,,,,1
-1001128,"TFP 30W/8,5m2 0,5x17m 255W",Varmekabelmatte som parkettunderlag,7071236009856,"TFP 30W/8,5m2 0,5x17m 255W",TFP, 255,"8,5","0,5","8,5",30,230,TRUE,FALSE,,,,1
-1001129,"TFP 30W/11m2 0,5x22m 330W",Varmekabelmatte som parkettunderlag,7071236009863,"TFP 30W/11m2 0,5x22m 330W",TFP, 330,11,"0,5",11,30,230,TRUE,FALSE,,,,1
-1011333,TF SBG-H 30W/m max 200C Rød,TF SBG for ekstreme forhold,7071236005995,TF SBG-H 30W/m max 200C rød,TF SBG-H,,,,,30,230,FALSE,FALSE,,,,2
-1011343,TF parares vk 30W/m Sort PE,TF parallellresistiv varmekabel,7071236000945,TF Parares vk 30W/m Sort PE,TF parares,,,,,30,230,FALSE,FALSE,,,,2
-1011346,TF parares vk 30W/m Brun SR,TF parallellresistiv varmekabel,7071236000839,TF Parares vk 30W/m Brun SR,TF parares,,,,,30,230,FALSE,FALSE,,,,2
-1011561,VK02 450W/15m 30W/m,Elektrisk varmekabel for nedstøping,7071236001980,VK02 450W/15m v-kabel 30W/m,VK02, 450,,,15,30,230,FALSE,FALSE,1,1,,1
-1011564,VK02 900W/30m 30W/m,Elektrisk varmekabel for nedstøping,7071236002017,VK02 900W/30m v-kabel 30W/m,VK02, 900,,,30,30,230,FALSE,FALSE,1,1,,1
-1011565,VK02 1050W/35m 30W/m,Elektrisk varmekabel for nedstøping,7071236002024,VK02 1050W/35m v-kabel 30W/m,VK02, 1050,,,35,30,230,FALSE,FALSE,1,1,,1
-1011566,VK02 1200W/40m 30W/m,Elektrisk varmekabel for nedstøping,7071236002031,VK02 1200W/40m v-kabel 30W/m,VK02, 1200,,,40,30,230,FALSE,FALSE,1,1,,1
-1011567,VK02 1350W/45m 30W/m,Elektrisk varmekabel for nedstøping,7071236002048,VK02 1350W/45m v-kabel 30W/m,VK02, 1350,,,45,30,230,FALSE,FALSE,1,1,,1
-1011570,VK02 1800W/60m 30W/m,Elektrisk varmekabel for nedstøping,7071236002062,VK02 1800W/60m v-kabel 30W/m,VK02, 1800,,,60,30,230,FALSE,FALSE,1,1,,1
-1011680,TF SVK 30 300W/10m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008729,TF SVK 30 300W/10m 30W/m,TF SVK, 300,,,10,30,230,FALSE,TRUE,1,1,,2
-1011681,TF SVK 30 450W/15m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008736,TF SVK 30 450W/15m 30W/m,TF SVK, 450,,,15,30,230,FALSE,TRUE,1,1,,2
-1011682,TF SVK 30 600W/20m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008743,TF SVK 30 600W/20m 30W/m,TF SVK, 600,,,20,30,230,FALSE,TRUE,1,1,,2
-1011683,TF SVK 30 750W/25m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008750,TF SVK 30 750W/25m 30W/m,TF SVK, 750,,,25,30,230,FALSE,TRUE,1,1,,2
-1011684,TF SVK 30 900W/30m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008767,TF SVK 30 900W/30m 30W/m,TF SVK, 900,,,30,30,230,FALSE,TRUE,1,1,,2
-1011686,TF SVK 30 1200W/40m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008774,TF SVK 30 1200W/40m 30W/m,TF SVK, 1200,,,40,30,230,FALSE,TRUE,1,1,,2
-1011688,TF SVK 30 1500W/50m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008781,TF SVK 30 1500W/50m 30W/m,TF SVK, 1500,,,50,30,230,FALSE,TRUE,1,1,,2
-1011690,TF SVK 30 1800W/60m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008798,TF SVK 30 1800W/60m 30W/m,TF SVK, 1800,,,60,30,230,FALSE,TRUE,1,1,,2
-1011692,TF SVK 30 2100W/70m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008804,TF SVK 30 2100W/70m 30W/m,TF SVK, 2100,,,70,30,230,FALSE,TRUE,1,1,,2
-1011694,TF SVK 30 2400W/80m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008811,TF SVK 30 2400W/80m 30W/m,TF SVK, 2400,,,80,30,230,FALSE,TRUE,1,1,,2
-1011696,TF SVK 30 3000W/100m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008828,TF SVK 30 3000W/100m 30W/m,TF SVK, 3000,,,100,30,230,FALSE,TRUE,1,1,,2
-1011698,TF SVK 30 3600W/120m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008835,TF SVK 30 3600W/120m 30W/m,TF SVK, 3600,,,120,30,230,FALSE,TRUE,1,1,,2
-1001151,TFU 230V 300W/1m2 300W,Utendørs varmekabelmatte,7071236000655,TFU 230V 300W/1m2 300W,TFU, 300,1,,1,300,230,TRUE,TRUE,,,,1
-1001152,TFU 230V 300W/2m2 600W,Utendørs varmekabelmatte,7071236000662,TFU 230V 300W/2m2 600W,TFU, 600,2,,2,300,230,TRUE,TRUE,,,,1
-1001153,TFU 230V 300W/3m2 900W,Utendørs varmekabelmatte,7071236000679,TFU 230V 300W/3m2 900W,TFU, 900,3,,3,300,230,TRUE,TRUE,,,,1
-1001154,TFU 230V 300W/4m2 1200W,Utendørs varmekabelmatte,7071236000686,TFU 230V 300W/4m2 1200W,TFU, 1200,4,,4,300,230,TRUE,TRUE,,,,1
-1001155,TFU 230V 300W/5m2 1500W,Utendørs varmekabelmatte,7071236000693,TFU 230V 300W/5m2 1500W,TFU, 1500,5,,5,300,230,TRUE,TRUE,,,,1
-1001156,TFU 230V 300W/6m2 1800W,Utendørs varmekabelmatte,7071236000709,TFU 230V 300W/6m2 1800W,TFU, 1800,6,,6,300,230,TRUE,TRUE,,,,1
-1001157,TFU 230V 300W/7m2 2100W,Utendørs varmekabelmatte,7071236000716,TFU 230V 300W/7m2 2100W,TFU, 2100,7,,7,300,230,TRUE,TRUE,,,,1
-1001158,TFU 230V 300W/8m2 2400W,Utendørs varmekabelmatte,7071236000723,TFU 230V 300W/8m2 2400W,TFU, 2400,8,,8,300,230,TRUE,TRUE,,,,1
-1001160,TFU 230V 300W/10m2 3000W,Utendørs varmekabelmatte,7071236000730,TFU 230V 300W/10m2 3000W,TFU, 3000,10,,10,300,230,TRUE,TRUE,,,,1
-1001162,TFU 230V 300W/12m2 3600W,Utendørs varmekabelmatte,7071236000747,TFU 230V 300W/12m2 3600W,TFU, 3600,12,,12,300,230,TRUE,TRUE,,,,1
-1001164,TFU 230V 300W/14m2 4200W,Utendørs varmekabelmatte,7071236000754,TFU 230V 300W/14m2 4200W,TFU, 4200,14,,14,300,230,TRUE,TRUE,,,,1
-1001172,TFU 400V 300W/2m2 600W,Utendørs varmekabelmatte,7071236009047,TFU 400V 300W/2m2 600W,TFU, 600,2,,2,300,400,TRUE,TRUE,,,,1
-1001175,TFU 400V 300W/5m2 1500W,Utendørs varmekabelmatte,7071236009054,TFU 400V 300W/5m2 1500W,TFU, 1500,5,,5,300,400,TRUE,TRUE,,,,1
-1001180,TFU 400V 300W/10m2 3000W,Utendørs varmekabelmatte,7071236009061,TFU 400V 300W/10m2 3000W,TFU, 3000,10,,10,300,400,TRUE,TRUE,,,,1
-1001182,TFU 400V 300W/15m2 4500W,Utendørs varmekabelmatte,7071236009078,TFU 400V 300W/15m2 4500W,TFU, 4500,15,,15,300,400,TRUE,TRUE,,,,1
-1001183,TFU 400V 300W/20m2 6000W,Utendørs varmekabelmatte,7071236009085,TFU 400V 300W/20m2 6000W,TFU, 6000,20,,20,300,400,TRUE,TRUE,,,,1
-1011328,TF parares vk 33W/m Brun FP,TF parallellresistiv varmekabel,7071236000884,TF Parares vk 33W/m Brun FP,TF parares,,,,,33,230,FALSE,FALSE,,,,2
-1011395,TF SBG-BR 34W/m for støp,SBG til støpte konstruksjoner ute,7071236009344,TF SBG-BR 34W/m for STØP,TF SBG-BR,,,,,34,230,FALSE,FALSE,,,,2
-1011347,TF parares vk 40W/m Brun SR,TF parallellresistiv varmekabel,7071236000846,TF Parares vk 40W/m Brun SR,TF parares,,,,,40,230,FALSE,FALSE,,,,2
-1011421,TF AIK Silikonkabel for avising 40W 1m,Varmekabler i faste lengder,7071236012450,TF AIK Silikonkabel for avising 40W 1m,TF AIK Silikonkabel, 40,,,1,40,230,FALSE,FALSE,1,,,3
-1011452,"TF BHK 40W/m 3,3m 130W",Elektrisk varmekabel for betongherding,7071236001454,"TF BHK 40W/m 3,3m 130W",TF BHK, 130,,,"3,3",40,230,FALSE,FALSE,,,,2
-1011453,TF BHK 40W/m 10m 400W,Elektrisk varmekabel for betongherding,7071236001461,TF BHK 40W/m 10m 400W,TF BHK, 400,,,10,40,230,FALSE,FALSE,,,,2
-1011454,TF BHK 40W/m 20m 800W,Elektrisk varmekabel for betongherding,7071236001478,TF BHK 40W/m 20m 800W,TF BHK, 800,,,20,40,230,FALSE,FALSE,,,,2
-1011455,TF BHK 40W/m 35m 1400W,Elektrisk varmekabel for betongherding,7071236001485,TF BHK 40W/m 35m 1400W,TF BHK, 1400,,,35,40,230,FALSE,FALSE,,,,2
-1011456,TF BHK 40W/m 50m 2000W,Elektrisk varmekabel for betongherding,7071236009924,TF BHK 40W/m 50m 2000W,TF BHK, 2000,,,50,40,230,FALSE,FALSE,,,,2
-1011458,TF BHK 40W/m 85m 3500W,Elektrisk varmekabel for betongherding,7071236005230,TF BHK 40W/m 85m 3500W,TF BHK, 3500,,,85,40,230,FALSE,FALSE,,,,2
-1011329,TF parares vk 45W/m Brun FP,TF parallellresistiv varmekabel,7071236000891,TF Parares vk 45W/m Brun FP,TF parares,,,,,45,230,FALSE,FALSE,,,,2
-1011334,TF SBG-H 45W/m max 200C Rød,TF SBG for ekstreme forhold,7071236006008,TF SBG-H 45W/m max 200C rød,TF SBG-H,,,,,45,230,FALSE,FALSE,,,,2
-1011301,TF Pexguard 5W/m Rør i rør,Frostsikring av Pex-vannrør,7071236001188,TF PEXGUARD 5W pr m rør i rør,TF Pexguard,,,,,5,230,FALSE,FALSE,,,,2
-1011330,TF parares vk 54W/m Brun FP,TF parallellresistiv varmekabel,7071236000907,TF Parares vk 54W/m Klar FP,TF parares,,,,,54,230,FALSE,FALSE,,,,2
-1001051,"TFP 60W/1,0m2 0,5x2m 60W",Varmekabelmatte som parkettunderlag,7071236009962,"TFP 60W/1,0m2 0,5x2m 60W",TFP, 60,"1,0","0,5","1,0",60,230,TRUE,FALSE,,,,1
-1001052,"TFP 60W/2,0m2 0,5x4m 120W",Varmekabelmatte som parkettunderlag,7071236009979,"TFP 60W/2,0m2 0,5x4m 120W",TFP, 120,"2,0","0,5","2,0",60,230,TRUE,FALSE,,,,1
-1001053,"TFP 60W/3,0m2 0,5x6m 180W",Varmekabelmatte som parkettunderlag,7071236009986,"TFP 60W/3,0m2 0,5x6m 180W",TFP, 180,"3,0","0,5","3,0",60,230,TRUE,FALSE,,,,1
-1001054,"TFP 60W/4,0m2 0,5x8m 240W",Varmekabelmatte som parkettunderlag,7071236009993,"TFP 60W/4,0m2 0,5x8m 240W",TFP, 240,"4,0","0,5","4,0",60,230,TRUE,FALSE,,,,1
-1001055,"TFP 60W/5,0m2 0,5x10m 300W",Varmekabelmatte som parkettunderlag,7071236010005,"TFP 60W/5,0m2 0,5x10m 300W",TFP, 300,"5,0","0,5","5,0",60,230,TRUE,FALSE,,,,1
-1001056,"TFP 60W/6,0m2 0,5x12m 360W",Varmekabelmatte som parkettunderlag,7071236010012,"TFP 60W/6,0m2 0,5x12m 360W",TFP, 360,"6,0","0,5","6,0",60,230,TRUE,FALSE,,,,1
-1001057,"TFP 60W/7,0m2 0,5x14m 420W",Varmekabelmatte som parkettunderlag,7071236010029,"TFP 60W/7,0m2 0,5x14m 420W",TFP, 420,"7,0","0,5","7,0",60,230,TRUE,FALSE,,,,1
-1001058,"TFP 60W/8,0m2 0,5x16m 480W",Varmekabelmatte som parkettunderlag,7071236010036,"TFP 60W/8,0m2 0,5x16m 480W",TFP, 480,"8,0","0,5","8,0",60,230,TRUE,FALSE,,,,1
-1001059,"TFP 60W/9,0m2 0,5x18m 540W",Varmekabelmatte som parkettunderlag,7071236010043,"TFP 60W/9,0m2 0,5x18m 540W",TFP, 540,"9,0","0,5","9,0",60,230,TRUE,FALSE,,,,1
-1001060,"TFP 60W/10,0m2 0,5x20m 600W",Varmekabelmatte som parkettunderlag,7071236010050,"TFP 60W/10,0m2 0,5x20m 600W",TFP, 600,"10,0","0,5","10,0",60,230,TRUE,FALSE,,,,1
-1001062,"TFP 60W/12,0m2 0,5x24m 720W",Varmekabelmatte som parkettunderlag,7071236010067,"TFP 60W/12,0m2 0,5x24m 720W",TFP, 720,"12,0","0,5","12,0",60,230,TRUE,FALSE,,,,1
-1001065,"TFP 60W/15,0m2 0,5x30m 900W",Varmekabelmatte som parkettunderlag,7071236009917,"TFP 60W/15,0m2 0,5x30m 900W",TFP, 900,"15,0","0,5","15,0",60,230,TRUE,FALSE,,,,1
-1001131,"TFP 60W/1,0m2 0,5x2m 60W",Varmekabelmatte som parkettunderlag,7071236000549,"TFP60W/1,0m2 0,5x2m 60W",TFP, 60,"1,0","0,5","1,0",60,230,TRUE,FALSE,,,,1
-1001132,"TFP 60W/2,0m2 0,5x4m 120W",Varmekabelmatte som parkettunderlag,7071236000556,"TFP60W/2,0m2 0,5x4m 120W",TFP, 120,"2,0","0,5","2,0",60,230,TRUE,FALSE,,,,1
-1001133,"TFP 60W/3,0m2 0,5x6m 180W",Varmekabelmatte som parkettunderlag,7071236000563,"TFP60W/3,0m2 0,5x6m 180W",TFP, 180,"3,0","0,5","3,0",60,230,TRUE,FALSE,,,,1
-1001134,"TFP 60W/4,0m2 0,5x8m 240W",Varmekabelmatte som parkettunderlag,7071236000570,"TFP60W/4,0m2 0,5x8m 240W",TFP, 240,"4,0","0,5","4,0",60,230,TRUE,FALSE,,,,1
-1001135,"TFP 60W/5,0m2 0,5x10m 300W",Varmekabelmatte som parkettunderlag,7071236000587,"TFP60W/5,0m2 0,5x10m 300W",TFP, 300,"5,0","0,5","5,0",60,230,TRUE,FALSE,,,,1
-1001136,"TFP 60W/6,0m2 0,5x12m 360W",Varmekabelmatte som parkettunderlag,7071236000594,"TFP60W/6,0m2 0,5x12m 360W",TFP, 360,"6,0","0,5","6,0",60,230,TRUE,FALSE,,,,1
-1001137,"TFP 60W/7,0m2 0,5x14m 420W",Varmekabelmatte som parkettunderlag,7071236000600,"TFP60W/7,0m2 0,5x14m 420W",TFP, 420,"7,0","0,5","7,0",60,230,TRUE,FALSE,,,,1
-1001138,"TFP 60W/8,0m2 0,5x16m 480W",Varmekabelmatte som parkettunderlag,7071236000617,"TFP60W/8,0m2 0,5x16m 480W",TFP, 480,"8,0","0,5","8,0",60,230,TRUE,FALSE,,,,1
-1001139,"TFP 60W/9,0m2 0,5x18m 540W",Varmekabelmatte som parkettunderlag,7071236008422,"TFP60W/9,0m2 0,5x18m 540W",TFP, 540,"9,0","0,5","9,0",60,230,TRUE,FALSE,,,,1
-1001140,"TFP 60W/10,0m2 0,5x20m 600W",Varmekabelmatte som parkettunderlag,7071236005148,"TFP60W/10,0m2 0,5x20m 600W",TFP, 600,"10,0","0,5","10,0",60,230,TRUE,FALSE,,,,1
-1001142,"TFP 60W/12,0m2 0,5x24m 720W",Varmekabelmatte som parkettunderlag,7071236005155,"TFP60W/12,0m2 0,5x24m 720W",TFP, 720,"12,0","0,5","12,0",60,230,TRUE,FALSE,,,,1
-1011336,TF SBG-H 60W/m max 200C Rød,TF SBG for ekstreme forhold,7071236006015,TF SBG-H 60W/m max 200C rød,TF SBG-H,,,,,60,230,FALSE,FALSE,,,,2
-1011503,TF Sticky Mat,Selvklebende varmekabelmatte,7071236009481,TF Sticky Mat 60W/3m2 180W,TF Sticky Mat, 180,3,,,60,230,TRUE,FALSE,,,1,3
-1011504,TF Sticky Mat 60W/4m2 240W,Selvklebende varmekabelmatte,7071236001645,TF Sticky Mat 60W/4m2 240W,TF Sticky Mat, 240,4,,,60,230,TRUE,FALSE,,,1,3
-1011505,TF Sticky Mat 60W/5m2 300W,Selvklebende varmekabelmatte,7071236001652,TF Sticky Mat 60W/5m2 300W,TF Sticky Mat, 300,5,,,60,230,TRUE,FALSE,,,1,3
-1011506,TF Sticky Mat 60W/6m2 360W,Selvklebende varmekabelmatte,7071236001669,TF Sticky Mat 60W/6m2 360W,TF Sticky Mat, 360,6,,,60,230,TRUE,FALSE,,,1,3
-1011507,TF Sticky Mat 60W/7m2 420W,Selvklebende varmekabelmatte,7071236001676,TF Sticky Mat 60W/7m2 420W,TF Sticky Mat, 420,7,,,60,230,TRUE,FALSE,,,1,3
-1011508,TF Sticky Mat 60W/8m2 480W,Selvklebende varmekabelmatte,7071236001683,TF Sticky Mat 60W/8m2 480W,TF Sticky Mat, 480,8,,,60,230,TRUE,FALSE,,,1,3
-1011509,TF Sticky Mat 60W/9m2 540W,Selvklebende varmekabelmatte,7071236001690,TF Sticky Mat 60W/9m2 540W,TF Sticky Mat, 540,9,,,60,230,TRUE,FALSE,,,1,3
-1011510,TF Sticky Mat 60W/10m2 600W,Selvklebende varmekabelmatte,7071236009498,TF Sticky Mat 60W/10m2 600W,TF Sticky Mat, 600,10,,,60,230,TRUE,FALSE,,,1,3
-1011512,TF Sticky Mat 60W/12m2 720W,Selvklebende varmekabelmatte,7071236009504,TF Sticky Mat 60W/12m2 720W,TF Sticky Mat, 720,12,,,60,230,TRUE,FALSE,,,1,3
-5430403,TF varmefolie 30cm 60W/m2,Varmefolie som parkettunderlag 50m rull,7071236008330,TF varmefolie 60W/m2 30cm,TF varmefolie,,,30,,60,230,FALSE,FALSE,,,,2
-5430405,TF varmefolie 50cm 60W/m2,Varmefolie som parkettunderlag 100m rull,7071236008347,TF varmefolie 60W/m2 50cm,TF varmefolie,,,50,,60,230,FALSE,FALSE,,,,2
-5430407,TF varmefolie 80cm 60W/m2,Varmefolie som parkettunderlag -70m rull,7071236011910,TF varmefolie 80cm 60W/m2,TF varmefolie,,,80,,60,230,FALSE,FALSE,,,,2
-5430410,TF varmefolie 100cm 60W/m2,Varmefolie som parkettunderlag 70m rull,7071236008378,TF varmefolie 60W/m2 100cm,TF varmefolie,,,100,,60,230,FALSE,FALSE,,,,2
-1011422,TF AIK Silikonkabel for avising 80W 2m,Varmekabler i faste lengder,7071236012467,TF AIK Silikonkabel for avising 80W 2m,TF AIK Silikonkabel, 80,,,2,80,230,FALSE,FALSE,1,,,3
+El-number,tags,Name,Description,Art_nr,EAN_Tekst,Type,Effect,Area,Width,Length,MainSpec,Voltage,isMat,outside,effekt_mod,wm_mod,lengde_mod,type_mod
+1001012,"mat, concrete, inside, outside","130W 3,1m2/0,5x6,3m 400W",Ultratynn varmekabelmatte for nedstøping,7071236000013,"TF130W/3,1m2 0,5x6,3m 400W",TF 130W, 400,"3,1","0,5","3,1",130,230,TRUE,FALSE,,,,1
+1001013,"mat, concrete, inside, outside","130W 3,9m2/0,5x7,8m 500W",Ultratynn varmekabelmatte for nedstøping,7071236000020,"TF130W/3,9m2 0,5x7,8m 500W",TF 130W, 500,"3,9","0,5","3,9",130,230,TRUE,FALSE,,,,1
+1001014,"mat, concrete, inside, outside","130W 4,7m2/0,5x9,4m 600W",Ultratynn varmekabelmatte for nedstøping,7071236000037,"TF130W/4,7m2 0,5x9,4m 600W",TF 130W, 600,"4,7","0,5","4,7",130,230,TRUE,FALSE,,,,1
+1001015,"mat, concrete, inside, outside","130W 5,5m2/0,5x11m 710W",Ultratynn varmekabelmatte for nedstøping,7071236000044,"TF130W/5,5m2 0,5x11m 710W",TF 130W, 710,"5,5","0,5","5,5",130,230,TRUE,FALSE,,,,1
+1001019,"mat, concrete, inside, outside","160W 0,5m2/0,6x0,8m 77W",Ultratynn varmekabelmatte for nedstøping,7071236000051,"TF160W/0,5m2 0,6x0,8m 77W",TF 160W, 77,"0,5","0,6","0,5",160,230,TRUE,FALSE,,,,1
+1001020,"mat, concrete, inside, outside","160W 1,0m2/0,3x3,3m 160W",Ultratynn varmekabelmatte for nedstøping,7071236000068,"TF160W/1,0m2 0,3x3,3m 160W",TF 160W, 160,"1,0","0,3","1,0",160,230,TRUE,FALSE,,,,1
+1001021,"mat, concrete, inside, outside","160W 1,5m2/0,3x5m2 40W",Ultratynn varmekabelmatte for nedstøping,7071236000075,"TF160W/1,5m2 0,3x5m 240W",TF 160W, 240,"1,5","0,3","1,5",160,230,TRUE,FALSE,,,,1
+1001022,"mat, concrete, inside, outside","160W 2,0m2/0,3x6,6m 320W",Ultratynn varmekabelmatte for nedstøping,7071236000082,"TF160W/2,0m2 0,3x6,6m 320W",TF 160W, 320,"2,0","0,3","2,0",160,230,TRUE,FALSE,,,,1
+1001023,"mat, concrete, inside, outside","160W 2,5m2/0,3x8,3m 400W",Ultratynn varmekabelmatte for nedstøping,7071236000099,"TF160W/2,5m2 0,3x8,3m 400W",TF 160W, 400,"2,5","0,3","2,5",160,230,TRUE,FALSE,,,,1
+1001024,"mat, concrete, inside, outside","160W 3,0m2/0,3x10m 480W",Ultratynn varmekabelmatte for nedstøping,7071236000105,"TF160W/3,0m2 0,3x10m 480W",TF 160W, 480,"3,0","0,3","3,0",160,230,TRUE,FALSE,,,,1
+1001025,"mat, concrete, inside, outside","160W 4,0m2/0,3x13,3m 640W",Ultratynn varmekabelmatte for nedstøping,7071236000112,"TF160W/4,0m2 0,3x13,3m 640W",TF 160W, 640,"4,0","0,3","4,0",160,230,TRUE,FALSE,,,,1
+1001026,"mat, mirror, inside, wetroom",Duggfritt speil 50x80cm 80W,Elektrisk matte for duggfritt speil,7071236009313,TF duggfritt speil 50x80cm 80W,Duggfritt speil 50x80cm, 80,,50,80,,230,TRUE,FALSE,,5,1,3
+1001027,"mat, mirror, inside, wetroom",Duggfritt speil 50x150cm 150W,Elektrisk matte for duggfritt speil,7071236009320,TF duggfritt speil 50x150cm 150W,Duggfritt speil 50x150cm, 150,,50,150,,230,TRUE,FALSE,,5,1,3
+1001028,"mat, mirror, inside, wetroom",Duggfritt speil 50x200cm 200W,Elektrisk matte for duggfritt speil,7071236009337,TF duggfritt speil 50x200cm 200W,Duggfritt speil 50x200cm, 200,,50,200,,230,TRUE,FALSE,,5,1,3
+1001030,"mat, mirror, inside, wetroom",Duggfritt speil 45x50cm 50W,Elektrisk matte for duggfritt speil,7071236000129,TF duggfritt speil 45x50cm 50W,Duggfritt speil 45x50cm, 50,,45,50,,230,TRUE,FALSE,,5,1,3
+1001031,"mat, mirror, inside, wetroom",Duggfritt speil 60x75cm 100W,Elektrisk matte for duggfritt speil,7071236000136,TF duggfritt speil 60x75cm 100W,Duggfritt speil 60x75cm, 100,,60,75,,230,TRUE,FALSE,,5,1,3
+1001051,"mat, inside, parquet","P 60W/1,0m2 0,5x2m 60W",Varmekabelmatte som parkettunderlag,7071236009962,"TFP 60W/1,0m2 0,5x2m 60W",P, 60,"1,0","0,5","1,0",60,230,TRUE,FALSE,,,,1
+1001052,"mat, inside, parquet","P 60W/2,0m2 0,5x4m 120W",Varmekabelmatte som parkettunderlag,7071236009979,"TFP 60W/2,0m2 0,5x4m 120W",P, 120,"2,0","0,5","2,0",60,230,TRUE,FALSE,,,,1
+1001053,"mat, inside, parquet","P 60W/3,0m2 0,5x6m 180W",Varmekabelmatte som parkettunderlag,7071236009986,"TFP 60W/3,0m2 0,5x6m 180W",P, 180,"3,0","0,5","3,0",60,230,TRUE,FALSE,,,,1
+1001054,"mat, inside, parquet","P 60W/4,0m2 0,5x8m 240W",Varmekabelmatte som parkettunderlag,7071236009993,"TFP 60W/4,0m2 0,5x8m 240W",P, 240,"4,0","0,5","4,0",60,230,TRUE,FALSE,,,,1
+1001055,"mat, inside, parquet","P 60W/5,0m2 0,5x10m 300W",Varmekabelmatte som parkettunderlag,7071236010005,"TFP 60W/5,0m2 0,5x10m 300W",P, 300,"5,0","0,5","5,0",60,230,TRUE,FALSE,,,,1
+1001056,"mat, inside, parquet","P 60W/6,0m2 0,5x12m 360W",Varmekabelmatte som parkettunderlag,7071236010012,"TFP 60W/6,0m2 0,5x12m 360W",P, 360,"6,0","0,5","6,0",60,230,TRUE,FALSE,,,,1
+1001057,"mat, inside, parquet","P 60W/7,0m2 0,5x14m 420W",Varmekabelmatte som parkettunderlag,7071236010029,"TFP 60W/7,0m2 0,5x14m 420W",P, 420,"7,0","0,5","7,0",60,230,TRUE,FALSE,,,,1
+1001058,"mat, inside, parquet","P 60W/8,0m2 0,5x16m 480W",Varmekabelmatte som parkettunderlag,7071236010036,"TFP 60W/8,0m2 0,5x16m 480W",P, 480,"8,0","0,5","8,0",60,230,TRUE,FALSE,,,,1
+1001059,"mat, inside, parquet","P 60W/9,0m2 0,5x18m 540W",Varmekabelmatte som parkettunderlag,7071236010043,"TFP 60W/9,0m2 0,5x18m 540W",P, 540,"9,0","0,5","9,0",60,230,TRUE,FALSE,,,,1
+1001060,"mat, inside, parquet","P 60W/10,0m2 0,5x20m 600W",Varmekabelmatte som parkettunderlag,7071236010050,"TFP 60W/10,0m2 0,5x20m 600W",P, 600,"10,0","0,5","10,0",60,230,TRUE,FALSE,,,,1
+1001062,"mat, inside, parquet","P 60W/12,0m2 0,5x24m 720W",Varmekabelmatte som parkettunderlag,7071236010067,"TFP 60W/12,0m2 0,5x24m 720W",P, 720,"12,0","0,5","12,0",60,230,TRUE,FALSE,,,,1
+1001065,"mat, inside, parquet","P 60W/15,0m2 0,5x30m 900W",Varmekabelmatte som parkettunderlag,7071236009917,"TFP 60W/15,0m2 0,5x30m 900W",P, 900,"15,0","0,5","15,0",60,230,TRUE,FALSE,,,,1
+1001101,"mat, inside, parquet","P 30W/1,0m2 0,5x2m 30W",Varmekabelmatte som parkettunderlag,7071236009528,"TFP 30W/1,0m2 0,5x2m 30W",P, 30,"1,0","0,5","1,0",30,230,TRUE,FALSE,,,,1
+1001102,"mat, inside, parquet","P 30W/2,0m2 0,5x4m 60W",Varmekabelmatte som parkettunderlag,7071236009535,"TFP 30W/2,0m2 0,5x4m 60W",P, 60,"2,0","0,5","2,0",30,230,TRUE,FALSE,,,,1
+1001103,"mat, inside, parquet","P 30W/3,0m2 0,5x6m 90W",Varmekabelmatte som parkettunderlag,7071236009542,"TFP 30W/3,0m2 0,5x6m 90W",P, 90,"3,0","0,5","3,0",30,230,TRUE,FALSE,,,,1
+1001104,"mat, inside, parquet","P 30W/4,0m2 0,5x8m 120W",Varmekabelmatte som parkettunderlag,7071236009559,"TFP 30W/4,0m2 0,5x8m 120W",P, 120,"4,0","0,5","4,0",30,230,TRUE,FALSE,,,,1
+1001105,"mat, inside, parquet","P 30W/5,0m2 0,5x10m 150W",Varmekabelmatte som parkettunderlag,7071236009566,"TFP 30W/5,0m2 0,5x10m 150W",P, 150,"5,0","0,5","5,0",30,230,TRUE,FALSE,,,,1
+1001106,"mat, inside, parquet","P 30W/6,0m2 0,5x12m 180W",Varmekabelmatte som parkettunderlag,7071236009573,"TFP 30W/6,0m2 0,5x12m 180W",P, 180,"6,0","0,5","6,0",30,230,TRUE,FALSE,,,,1
+1001107,"mat, inside, parquet","P 30W/7,0m2 0,5x14m 210W",Varmekabelmatte som parkettunderlag,7071236009580,"TFP 30W/7,0m2 0,5x14m 210W",P, 210,"7,0","0,5","7,0",30,230,TRUE,FALSE,,,,1
+1001108,"mat, inside, parquet","P 30W/8,0m2 0,5x16m 240W",Varmekabelmatte som parkettunderlag,7071236009597,"TFP 30W/8,0m2 0,5x16m 240W",P, 240,"8,0","0,5","8,0",30,230,TRUE,FALSE,,,,1
+1001109,"mat, inside, parquet","P 30W/9,0m2 0,5x18m 270W",Varmekabelmatte som parkettunderlag,7071236009603,"TFP 30W/9,0m2 0,5x18m 270W",P, 270,"9,0","0,5","9,0",30,230,TRUE,FALSE,,,,1
+1001110,"mat, inside, parquet","P 30W/10,0m2 0,5x20m 300W",Varmekabelmatte som parkettunderlag,7071236009610,"TFP 30W/10,0m2 0,5x20m 300W",P, 300,"10,0","0,5","10,0",30,230,TRUE,FALSE,,,,1
+1001112,"mat, inside, parquet","P 30W/12,0m2 0,5x24m 360W",Varmekabelmatte som parkettunderlag,7071236009627,"TFP 30W/12,0m2 0,5x24m 360W",P, 360,"12,0","0,5","12,0",30,230,TRUE,FALSE,,,,1
+1001121,"mat, inside, parquet","P 30W/10,5m2 0,5x21m 315W",Varmekabelmatte som parkettunderlag,7071236009870,"TFP 30W/10,5m2 0,5x21m 315W",P, 315,"10,5","0,5","10,5",30,230,TRUE,FALSE,,,,1
+1001122,"mat, inside, parquet","P 30W/5,5m2 0,5x11m 165W",Varmekabelmatte som parkettunderlag,7071236009849,"TFP 30W/5,5m2 0,5x11m 165W",P, 165,"5,5","0,5","5,5",30,230,TRUE,FALSE,,,,1
+1001123,"mat, inside, parquet","P 30W/6,5m2 0,5x13m 195W",Varmekabelmatte som parkettunderlag,7071236009634,"TFP 30W/6,5m2 0,5x13m 195W",P, 195,"6,5","0,5","6,5",30,230,TRUE,FALSE,,,,1
+1001124,"mat, inside, parquet","P 30W/6,75m2 0,5x13,5m 203W",Varmekabelmatte som parkettunderlag,7071236009832,"TFP 30W/6,75m2 0,5x13,5m 203W",P, 203,75,"0,5","6,75",30,230,TRUE,FALSE,,,,1
+1001128,"mat, inside, parquet","P 30W/8,5m2 0,5x17m 255W",Varmekabelmatte som parkettunderlag,7071236009856,"TFP 30W/8,5m2 0,5x17m 255W",P, 255,"8,5","0,5","8,5",30,230,TRUE,FALSE,,,,1
+1001129,"mat, inside, parquet","P 30W/11m2 0,5x22m 330W",Varmekabelmatte som parkettunderlag,7071236009863,"TFP 30W/11m2 0,5x22m 330W",P, 330,11,"0,5",11,30,230,TRUE,FALSE,,,,1
+1001131,"mat, inside, parquet","P 60W/1,0m2 0,5x2m 60W",Varmekabelmatte som parkettunderlag,7071236000549,"TFP60W/1,0m2 0,5x2m 60W",P, 60,"1,0","0,5","1,0",60,230,TRUE,FALSE,,,,1
+1001132,"mat, inside, parquet","P 60W/2,0m2 0,5x4m 120W",Varmekabelmatte som parkettunderlag,7071236000556,"TFP60W/2,0m2 0,5x4m 120W",P, 120,"2,0","0,5","2,0",60,230,TRUE,FALSE,,,,1
+1001133,"mat, inside, parquet","P 60W/3,0m2 0,5x6m 180W",Varmekabelmatte som parkettunderlag,7071236000563,"TFP60W/3,0m2 0,5x6m 180W",P, 180,"3,0","0,5","3,0",60,230,TRUE,FALSE,,,,1
+1001134,"mat, inside, parquet","P 60W/4,0m2 0,5x8m 240W",Varmekabelmatte som parkettunderlag,7071236000570,"TFP60W/4,0m2 0,5x8m 240W",P, 240,"4,0","0,5","4,0",60,230,TRUE,FALSE,,,,1
+1001135,"mat, inside, parquet","P 60W/5,0m2 0,5x10m 300W",Varmekabelmatte som parkettunderlag,7071236000587,"TFP60W/5,0m2 0,5x10m 300W",P, 300,"5,0","0,5","5,0",60,230,TRUE,FALSE,,,,1
+1001136,"mat, inside, parquet","P 60W/6,0m2 0,5x12m 360W",Varmekabelmatte som parkettunderlag,7071236000594,"TFP60W/6,0m2 0,5x12m 360W",P, 360,"6,0","0,5","6,0",60,230,TRUE,FALSE,,,,1
+1001137,"mat, inside, parquet","P 60W/7,0m2 0,5x14m 420W",Varmekabelmatte som parkettunderlag,7071236000600,"TFP60W/7,0m2 0,5x14m 420W",P, 420,"7,0","0,5","7,0",60,230,TRUE,FALSE,,,,1
+1001138,"mat, inside, parquet","P 60W/8,0m2 0,5x16m 480W",Varmekabelmatte som parkettunderlag,7071236000617,"TFP60W/8,0m2 0,5x16m 480W",P, 480,"8,0","0,5","8,0",60,230,TRUE,FALSE,,,,1
+1001139,"mat, inside, parquet","P 60W/9,0m2 0,5x18m 540W",Varmekabelmatte som parkettunderlag,7071236008422,"TFP60W/9,0m2 0,5x18m 540W",P, 540,"9,0","0,5","9,0",60,230,TRUE,FALSE,,,,1
+1001140,"mat, inside, parquet","P 60W/10,0m2 0,5x20m 600W",Varmekabelmatte som parkettunderlag,7071236005148,"TFP60W/10,0m2 0,5x20m 600W",P, 600,"10,0","0,5","10,0",60,230,TRUE,FALSE,,,,1
+1001142,"mat, inside, parquet","P 60W/12,0m2 0,5x24m 720W",Varmekabelmatte som parkettunderlag,7071236005155,"TFP60W/12,0m2 0,5x24m 720W",P, 720,"12,0","0,5","12,0",60,230,TRUE,FALSE,,,,1
+1001151,"mat, outside, snowmelt, ramps",U 230V 300W/1m2 300W,Utendørs varmekabelmatte,7071236000655,TFU 230V 300W/1m2 300W,U, 300,1,,1,300,230,TRUE,TRUE,,,,1
+1001152,"mat, outside, snowmelt, ramps",U 230V 300W/2m2 600W,Utendørs varmekabelmatte,7071236000662,TFU 230V 300W/2m2 600W,U, 600,2,,2,300,230,TRUE,TRUE,,,,1
+1001153,"mat, outside, snowmelt, ramps",U 230V 300W/3m2 900W,Utendørs varmekabelmatte,7071236000679,TFU 230V 300W/3m2 900W,U, 900,3,,3,300,230,TRUE,TRUE,,,,1
+1001154,"mat, outside, snowmelt, ramps",U 230V 300W/4m2 1200W,Utendørs varmekabelmatte,7071236000686,TFU 230V 300W/4m2 1200W,U, 1200,4,,4,300,230,TRUE,TRUE,,,,1
+1001155,"mat, outside, snowmelt, ramps",U 230V 300W/5m2 1500W,Utendørs varmekabelmatte,7071236000693,TFU 230V 300W/5m2 1500W,U, 1500,5,,5,300,230,TRUE,TRUE,,,,1
+1001156,"mat, outside, snowmelt, ramps",U 230V 300W/6m2 1800W,Utendørs varmekabelmatte,7071236000709,TFU 230V 300W/6m2 1800W,U, 1800,6,,6,300,230,TRUE,TRUE,,,,1
+1001157,"mat, outside, snowmelt, ramps",U 230V 300W/7m2 2100W,Utendørs varmekabelmatte,7071236000716,TFU 230V 300W/7m2 2100W,U, 2100,7,,7,300,230,TRUE,TRUE,,,,1
+1001158,"mat, outside, snowmelt, ramps",U 230V 300W/8m2 2400W,Utendørs varmekabelmatte,7071236000723,TFU 230V 300W/8m2 2400W,U, 2400,8,,8,300,230,TRUE,TRUE,,,,1
+1001160,"mat, outside, snowmelt, ramps",U 230V 300W/10m2 3000W,Utendørs varmekabelmatte,7071236000730,TFU 230V 300W/10m2 3000W,U, 3000,10,,10,300,230,TRUE,TRUE,,,,1
+1001162,"mat, outside, snowmelt, ramps",U 230V 300W/12m2 3600W,Utendørs varmekabelmatte,7071236000747,TFU 230V 300W/12m2 3600W,U, 3600,12,,12,300,230,TRUE,TRUE,,,,1
+1001164,"mat, outside, snowmelt, ramps",U 230V 300W/14m2 4200W,Utendørs varmekabelmatte,7071236000754,TFU 230V 300W/14m2 4200W,U, 4200,14,,14,300,230,TRUE,TRUE,,,,1
+1001172,"mat, outside, snowmelt, ramps",U 400V 300W/2m2 600W,Utendørs varmekabelmatte,7071236009047,TFU 400V 300W/2m2 600W,U, 600,2,,2,300,400,TRUE,TRUE,,,,1
+1001175,"mat, outside, snowmelt, ramps",U 400V 300W/5m2 1500W,Utendørs varmekabelmatte,7071236009054,TFU 400V 300W/5m2 1500W,U, 1500,5,,5,300,400,TRUE,TRUE,,,,1
+1001180,"mat, outside, snowmelt, ramps",U 400V 300W/10m2 3000W,Utendørs varmekabelmatte,7071236009061,TFU 400V 300W/10m2 3000W,U, 3000,10,,10,300,400,TRUE,TRUE,,,,1
+1001182,"mat, outside, snowmelt, ramps",U 400V 300W/15m2 4500W,Utendørs varmekabelmatte,7071236009078,TFU 400V 300W/15m2 4500W,U, 4500,15,,15,300,400,TRUE,TRUE,,,,1
+1001183,"mat, outside, snowmelt, ramps",U 400V 300W/20m2 6000W,Utendørs varmekabelmatte,7071236009085,TFU 400V 300W/20m2 6000W,U, 6000,20,,20,300,400,TRUE,TRUE,,,,1
+1011230,"mat, outside, ramps, concrete","SVK matte 150W/1,1m2",Varmekabelmatte for nedstøping,7071236009115,"TFSVK matte 150W/1,1m2",SVK, 150,"1,1",,"1,1",150,230,TRUE,FALSE,1,,,1
+1011231,"mat, outside, ramps, concrete","SVK matte 300W/2,1m2",Varmekabelmatte for nedstøping,7071236009122,"TFSVK matte 300W/2,1m2",SVK, 300,"2,1",,"2,1",,230,TRUE,FALSE,1,1,,1
+1011232,"mat, outside, ramps, concrete","SVK matte 400W/2,9m2",Varmekabelmatte for nedstøping,7071236009139,"TFSVK matte 400W/2,9m2",SVK, 400,"2,9",,"2,9",,230,TRUE,FALSE,1,1,,1
+1011233,"mat, outside, ramps, concrete","SVK matte 500W/3,6m2",Varmekabelmatte for nedstøping,7071236009146,"TFSVK matte 500W/3,6m2",SVK, 500,"3,6",,"3,6",,230,TRUE,FALSE,1,1,,1
+1011234,"mat, outside, ramps, concrete","SVK matte 600W/4,3m2",Varmekabelmatte for nedstøping,7071236009153,"TFSVK matte 600W/4,3m2",SVK, 600,"4,3",,"4,3",,230,TRUE,FALSE,1,1,,1
+1011235,"mat, outside, ramps, concrete","SVK matte 700W/5,0m2",Varmekabelmatte for nedstøping,7071236009160,"TFSVK matte 700W/5,0m2",SVK, 700,"5,0",,"5,0",,230,TRUE,FALSE,1,1,,1
+1011236,"mat, outside, ramps, concrete","SVK matte 850W/6,1m2",Varmekabelmatte for nedstøping,7071236009177,"TFSVK matte 850W/6,1m2",SVK, 850,"6,1",,"6,1",,230,TRUE,FALSE,1,1,,1
+1011237,"mat, outside, ramps, concrete","SVK matte 1000W/7,1m2",Varmekabelmatte for nedstøping,7071236009184,"TFSVK matte 1000W/7,1m2",SVK, 1000,"7,1",,"7,1",,230,TRUE,FALSE,1,1,,1
+1011238,"mat, outside, ramps, concrete","SVK matte 1250W/8,9m2",Varmekabelmatte for nedstøping,7071236009191,"TFSVK matte 1250W/8,9m2",SVK, 1250,"8,9",,"8,9",,230,TRUE,FALSE,1,1,,1
+1011239,"mat, outside, ramps, concrete","SVK matte 1500W/10,7m2",Varmekabelmatte for nedstøping,7071236009207,"TFSVK matte 1500W/10,7m2",SVK, 1500,"10,7",,"10,7",,230,TRUE,FALSE,1,1,,1
+1011240,"mat, outside, ramps, concrete","SVK matte 1700W/12,1m2",Varmekabelmatte for nedstøping,7071236009214,"TFSVK matte 1700W/12,1m2",SVK, 1700,"12,1",,"12,1",,230,TRUE,FALSE,1,1,,1
+1011241,"mat, outside, ramps, concrete",SVK matte 2100W/15m2,Varmekabelmatte for nedstøping,7071236009221,TFSVK matte 2100W/15m2,SVK, 2100,15,,15,,230,TRUE,FALSE,1,1,,1
+1011242,"mat, outside, ramps, concrete","SVK matte 2600W/18,6m2",Varmekabelmatte for nedstøping,7071236009238,"TFSVK matte 2600W/18,6m2",SVK, 2600,"18,6",,"18,6",,230,TRUE,FALSE,1,1,,1
+1011243,"mat, outside, ramps, concrete","SVK matte 2900W/20,7m2",Varmekabelmatte for nedstøping,7071236009245,"TFSVK matte 2900W/20,7m2",SVK, 2900,"20,7",,"20,7",,230,TRUE,FALSE,1,1,,1
+1011244,"mat, outside, ramps, concrete","SVK matte 3300W/23,6m2",Varmekabelmatte for nedstøping,7071236009252,"TFSVK matte 3300W/23,6m2",SVK, 3300,"23,6",,"23,6",,230,TRUE,FALSE,1,1,,1
+1011250,"cable, inside, outside, concrete",VK02 170W/10m 17W/m,Elektrisk varmekabel for nedstøping,,VK02 170W/10m v-kabel 17W/m,VK02, 170,,,10,17,230,FALSE,FALSE,1,1,,1
+1011251,"cable, inside, outside, concrete",VK02 255W/15m 17W/m,Elektrisk varmekabel for nedstøping,,VK02 255W/15m v-kabel 17W/m,VK02, 255,,,15,17,230,FALSE,FALSE,1,1,,1
+1011252,"cable, inside, outside, concrete",VK02 340W/20m 17W/m,Elektrisk varmekabel for nedstøping,,VK02 340W/20m v-kabel 17W/m,VK02, 340,,,20,17,230,FALSE,FALSE,1,1,,1
+1011253,"cable, inside, outside, concrete",VK02 425W/25m 17W/m,Elektrisk varmekabel for nedstøping,,VK02 425W/25m v-kabel 17W/m,VK02, 425,,,25,17,230,FALSE,FALSE,1,1,,1
+1011265,"cable, inside, outside, concrete",SVK 10 150W/15m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236012955,TF SVK 10 150W/15m 10W/m,SVK 10, 150,,,15,10,230,FALSE,FALSE,1,1,,2
+1011266,,VK02 1700W/100m 17W/m,Elektrisk varmekabel for nedstøping,,VK02 1700W/100m v-kabel 17W/m,VK02, 1700,,,100,17,230,FALSE,FALSE,1,1,,1
+1011267,,SVK 10 250W/25m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236012962,TF SVK 10 250W/25m 10W/m,SVK 10, 250,,,25,10,230,FALSE,FALSE,1,1,,2
+1011268,,VK02 2040W/120m 17W/m,Elektrisk varmekabel for nedstøping,,VK02 2040W/120m v-kabel 17W/m,VK02, 2040,,,120,17,230,FALSE,FALSE,1,1,,1
+1011269,,SVK 10 350W/35m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236012979,TF SVK 10 350W/35m10W/m,SVK 10, 350,,,35,10,230,FALSE,FALSE,1,1,,2
+1011270,,SVK 10 450W/45m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236012986,TF SVK 10 450W/45m 10W/m,SVK 10, 450,,,45,10,230,FALSE,FALSE,1,1,,2
+1011271,,SVK 10 100W/10m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236012993,TF SVK 10 100W/10m 10W/m,SVK 10, 100,,,10,10,230,FALSE,FALSE,1,1,,2
+1011272,,SVK 10 200W/20m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236000976,TF SVK 10 200W/20m 10W/m,SVK 10, 200,,,20,10,230,FALSE,FALSE,1,1,,2
+1011273,,SVK 10 300W/30m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236000983,TF SVK 10 300W/30m 10W/m,SVK 10, 300,,,30,10,230,FALSE,FALSE,1,1,,2
+1011274,,SVK 10 400W/40m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236000990,TF SVK 10 400W/40m 10W/m,SVK 10, 400,,,40,10,230,FALSE,FALSE,1,1,,2
+1011275,,SVK 10 500W/50m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236001003,TF SVK 10 500W/50m 10W/m,SVK 10, 500,,,50,10,230,FALSE,FALSE,1,1,,2
+1011276,,SVK 10 600W/60m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236001010,TF SVK 10 600W/60m 10W/m,SVK 10, 600,,,60,10,230,FALSE,FALSE,1,1,,2
+1011278,,SVK 10 800W/80m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236001027,TF SVK 10 800W/80m 10W/m,SVK 10, 800,,,80,10,230,FALSE,FALSE,1,1,,2
+1011280,,SVK 10 1000W/100m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236001034,TF SVK 10 1000W/100m 10W/m,SVK 10, 1000,,,100,10,230,FALSE,FALSE,1,1,,2
+1011282,,SVK 10 1200W/120m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236001041,TF SVK 10 1200W/120m 10W/m,SVK 10, 1200,,,120,10,230,FALSE,FALSE,1,1,,2
+1011283,,SVK 10 1500W/150m 10W/m,Varmekabel i ferdige elementer 10W/m,7071236010890,TF SVK 10 1500W/150m 10W/m,SVK 10, 1500,,,150,10,230,FALSE,FALSE,1,1,,2
+1011300,,SBG PE 10W/m Blå,Frostsikring og gulvvarme,7071236009511,TF SBG PE 10W BLÅ pr m,SBG PE,,,,,10,230,FALSE,FALSE,,,,2
+1011301,,Pexguard 5W/m Rør i rør,Frostsikring av Pex-vannrør,7071236001188,TF PEXGUARD 5W pr m rør i rør,Pexguard 5W,,,,,5,230,FALSE,FALSE,,,,2
+1011302,,SBG Blå 10W/2m 20W m/plugg,Selvbegrensende varmekabel,7071236005872,TF SBG Blå 10W/2m 20W m/plug,SBG Blå, 20,,,2,10,230,FALSE,FALSE,2,,,2
+1011303,,SBG Blå 10W/3m 30W m/stikk,Selvbegrensende varmekabel,7071236005889,TF SBG BLÅ 10W/3m 30W m/stikk,SBG Blå, 30,,,3,10,230,FALSE,FALSE,2,,,2
+1011304,,SBG Blå 10W/4m 40W m/plugg,Selvbegrensende varmekabel,7071236005896,TF SBG Blå 10W/4m 40W m/plug,SBG Blå, 40,,,4,10,230,FALSE,FALSE,2,,,2
+1011305,,SBG Blå 10W/5m 50W m/stikk,Selvbegrensende varmekabel,7071236005902,TF SBG BLÅ 10W/5m 50W m/stikk,SBG Blå, 50,,,5,10,230,FALSE,FALSE,2,,,2
+1011306,,SBG Blå 10W/6m 60W m/plugg,Selvbegrensende varmekabel,7071236005919,TF SBG Blå 10W/6m 60W m/plug,SBG Blå, 60,,,6,10,230,FALSE,FALSE,2,,,2
+1011308,,SBG Blå 10W/8m 80W m/plugg,Selvbegrensende varmekabel,7071236005926,TF SBG Blå 10W/8m 80W m/plug,SBG Blå, 80,,,8,10,230,FALSE,FALSE,2,,,2
+1011310,,SBG Blå 10W/10m 100W m/plugg,Selvbegrensende varmekabel,7071236005933,TF SBG Blå 10W/10m 100W m/pl,SBG Blå, 100,,,10,10,230,FALSE,FALSE,2,,,2
+1011313,,SBG Blå 10W/13m 130W m/plugg,Selvbegrensende varmekabel,7071236005940,TF SBG Blå 10W/13m 130W m/pl,SBG Blå, 130,,,13,10,230,FALSE,FALSE,2,,,2
+1011320,,SBG Blå 10W/20m 200W m/plugg,Selvbegrensende varmekabel,7071236005957,TF SBG Blå 10W/20m 200W m/pl,SBG Blå, 200,,,20,10,230,FALSE,FALSE,2,,,2
+1011325,,SBG Blå 10W/25m 250W m/pl,Selvbegrensende varmekabel,7071236005964,TF SBG Blå 10W/25m 250W m/pl,SBG Blå, 250,,,25,10,230,FALSE,FALSE,2,,,2
+1011326,,Parares vk 16W/m Brun FP,Parallellresistiv varmekabel,7071236000860,TF Parares vk 16W/m Brun FP,Parares vk,,,,,16,230,FALSE,FALSE,,,,2
+1011327,,Parares vk 25W/m Brun FP,Parallellresistiv varmekabel,7071236000877,TF Parares vk 25W/m Brun FP,Parares vk,,,,,25,230,FALSE,FALSE,,,,2
+1011328,,Parares vk 33W/m Brun FP,Parallellresistiv varmekabel,7071236000884,TF Parares vk 33W/m Brun FP,Parares vk,,,,,33,230,FALSE,FALSE,,,,2
+1011329,,Parares vk 45W/m Brun FP,Parallellresistiv varmekabel,7071236000891,TF Parares vk 45W/m Brun FP,Parares vk,,,,,45,230,FALSE,FALSE,,,,2
+1011330,,Parares vk 54W/m Brun FP,Parallellresistiv varmekabel,7071236000907,TF Parares vk 54W/m Klar FP,Parares vk,,,,,54,230,FALSE,FALSE,,,,2
+1011331,,SBG-H 10W/m max 200C Rød,SBG for ekstreme forhold,7071236005971,TF SBG-H 10W/m max 200C rød,SBG-H 10W,,,,,10,230,FALSE,FALSE,,,,2
+1011332,,SBG-H 20W/m max 200C Rød,SBG for ekstreme forhold,7071236005988,TF SBG-H 20W/m max 200C rød,SBG-H 20W,,,,,20,230,FALSE,FALSE,,,,2
+1011333,,SBG-H 30W/m max 200C Rød,SBG for ekstreme forhold,7071236005995,TF SBG-H 30W/m max 200C rød,SBG-H 30W,,,,,30,230,FALSE,FALSE,,,,2
+1011334,,SBG-H 45W/m max 200C Rød,SBG for ekstreme forhold,7071236006008,TF SBG-H 45W/m max 200C rød,SBG-H 45W,,,,,45,230,FALSE,FALSE,,,,2
+1011336,,SBG-H 60W/m max 200C Rød,SBG for ekstreme forhold,7071236006015,TF SBG-H 60W/m max 200C rød,SBG-H 60W,,,,,60,230,FALSE,FALSE,,,,2
+1011340,,Parares vk 10W/m Blå PE,Parallellresistiv varmekabel,7071236000914,TF Parares vk 10W/m Blå PE,Parares vk,,,,,10,230,FALSE,FALSE,,,,2
+1011341,,Parares vk 15W/m Blå PE,Parallellresistiv varmekabel,7071236000921,TF Parares vk 15W/m Blå PE,Parares vk,,,,,15,230,FALSE,FALSE,,,,2
+1011342,,Parares vk 20W/m Blå PE,Parallellresistiv varmekabel,7071236000938,TF Parares vk 20W/m Blå PE,Parares vk,,,,,20,230,FALSE,FALSE,,,,2
+1011343,,Parares vk 30W/m Sort PE,Parallellresistiv varmekabel,7071236000945,TF Parares vk 30W/m Sort PE,Parares vk,,,,,30,230,FALSE,FALSE,,,,2
+1011344,,Parares vk 10W/m Brun SR,Parallellresistiv varmekabel,7071236000952,TF Parares vk 10W/m Brun SR,Parares vk,,,,,10,230,FALSE,FALSE,,,,2
+1011345,,Parares vk 20W/m Brun SR,Parallellresistiv varmekabel,7071236000822,TF Parares vk 20W/m Brun SR,Parares vk,,,,,20,230,FALSE,FALSE,,,,2
+1011346,,Parares vk 30W/m Brun SR,Parallellresistiv varmekabel,7071236000839,TF Parares vk 30W/m Brun SR,Parares vk,,,,,30,230,FALSE,FALSE,,,,2
+1011347,,Parares vk 40W/m Brun SR,Parallellresistiv varmekabel,7071236000846,TF Parares vk 40W/m Brun SR,Parares vk,,,,,40,230,FALSE,FALSE,,,,2
+1011350,,SBG 10W/m Blå,SBG for frostsikring av vannrør,7071236001058,TF SBG 10W BLÅ pr m,SBG 10W,,,,,10,230,FALSE,FALSE,,,,2
+1011352,,SBG 13W/2m 26W m/plugg,Selvbegrensende varmekabel,7071236001065,TF SBG 13W/2m 26W m/plugg,SBG 13W, 26,,,2,13,230,FALSE,FALSE,2,,,2
+1011353,,SBG Oransje 13W/3m 39W m/stikk,Selvbegrensende varmekabel,7071236001072,TF SBG 13W/3m 39W m/stikk,SBG Oransje, 39,,,3,13,230,FALSE,FALSE,2,,,2
+1011354,,SBG 13W/4m 52W m/plugg,Selvbegrensende varmekabel,7071236001089,TF SBG 13W/4m 52W m/plugg,SBG 13W, 52,,,4,13,230,FALSE,FALSE,2,,,2
+1011355,,SBG Oransje 13W/5m 65W m/stikk,Selvbegrensende varmekabel,7071236001096,TF SBG 13W/5m 65W m/stikk,SBG Oransje, 65,,,5,13,230,FALSE,FALSE,2,,,2
+1011356,,SBG 13W/6m 78W m/plugg,Selvbegrensende varmekabel,7071236001102,TF SBG 13W/6m 78W m/plugg,SBG 13W, 78,,,6,13,230,FALSE,FALSE,2,,,2
+1011358,,SBG 13W/8m 104W m/plugg,Selvbegrensende varmekabel,7071236001119,TF SBG 13W/8m 104W m/plugg,SBG 13W, 104,,,8,13,230,FALSE,FALSE,2,,,2
+1011360,,SBG 13W/10m 130W m/plugg,Selvbegrensende varmekabel,7071236001126,TF SBG 13W/10m 130W m/plugg,SBG 13W, 130,,,10,13,230,FALSE,FALSE,2,,,2
+1011363,,SBG 13W/13m 169W m/plugg,Selvbegrensende varmekabel,7071236001140,TF SBG 13W/13m 169W m/plugg,SBG 13W, 169,,,13,13,230,FALSE,FALSE,2,,,2
+1011367,,SBG 13W/20m 260W m/plugg,Selvbegrensende varmekabel,7071236001171,TF SBG 13W/20m 260W m/plugg,SBG 13W, 260,,,20,13,230,FALSE,FALSE,2,,,2
+1011368,,SBG 13W/25m 325W m/plugg,Selvbegrensende varmekabel,7071236005520,TF SBG 13W/25m 325W m/plugg,SBG 13W, 325,,,25,13,230,FALSE,FALSE,2,,,2
+1011390,,SBG-SW 10W/m Rød,SBG for avløpsrør,7071236008019,TF SBG-SW 10W/m Rød,SBG-SW 10W,,,,,10,230,FALSE,FALSE,,1,,2
+1011391,,"SBG-SW 10W/3,5m 35W Rød",SBG varmekabel for avløpsrør,7071236008026,"TF SBG-SW 10W/3,5m 35W",SBG-SW 10W, 35,,,"3,5",10,230,FALSE,FALSE,,2,,2
+1011395,,SBG-BR 34W/m for støp,SBG til støpte konstruksjoner ute,7071236009344,TF SBG-BR 34W/m for STØP,SBG-BR 34W,,,,,34,230,FALSE,FALSE,,,,2
+1011400,,SBG-FP blå 10W/m,SBG næringsmiddelgodkjent,7071236012733,TF SBG FP Blå 10W/m drikkevann,SBG-FP blå,,,,,10,230,FALSE,FALSE,,,,2
+1011421,,AIK Silikonkabel for avising 40W 1m,Varmekabler i faste lengder,7071236012450,AIK Silikonkabel for avising 40W 1m,AIK Silikonkabel for, 40,,,1,40,230,FALSE,FALSE,1,,,3
+1011422,,AIK Silikonkabel for avising 80W 2m,Varmekabler i faste lengder,7071236012467,AIK Silikonkabel for avising 80W 2m,AIK Silikonkabel for, 80,,,2,80,230,FALSE,FALSE,1,,,3
+1011423,,AIK Silikonkabel for avising 120W 3m,Varmekabler i faste lengder,7071236012474,AIK Silikonkabel for avising 120W 3m,AIK Silikonkabel for, 120,,,3,120,230,FALSE,FALSE,1,,,3
+1011424,,AIK Silikonkabel for avising 160W 4m,Varmekabler i faste lengder,7071236012481,AIK Silikonkabel for avising 160W 4m,AIK Silikonkabel for, 160,,,4,160,230,FALSE,FALSE,1,,,3
+1011425,,AIK Silikonkabel for avising 200W 5m,Varmekabler i faste lengder,7071236012443,AIK Silikonkabel for avising 200W 5m,AIK Silikonkabel for, 200,,,5,200,230,FALSE,FALSE,1,,,3
+1011426,,AIK Silikonkabel for avising 240W 6m,Varmekabler i faste lengder,7071236012498,AIK Silikonkabel for avising 240W 6m,AIK Silikonkabel for, 240,,,6,240,230,FALSE,FALSE,1,,,3
+1011430,,"Stretch 170W/1,0m2 0,5x2m Blå",Elastisk varmekabelmatte for nedstøping,7071236001300,"TF Stretch 170W/1,0m2 0,5x2m",Stretch 170W, 170,"1,0","0,5",2,170,230,TRUE,FALSE,1,3,1,2
+1011431,,"Stretch 170W/1,5m2 0,5x3m Blå",Elastisk varmekabelmatte for nedstøping,7071236001317,"TF Stretch 255W/1,5m2 0,5x3m",Stretch 170W, 255,"1,5","0,5",3,170,230,TRUE,FALSE,1,3,1,2
+1011432,,"Stretch 170W/2m2 0,5x4m Blå",Elastisk varmekabelmatte for nedstøping,7071236001324,"TF Stretch 340W/2m2 0,5x4m",Stretch 170W, 340,2,"0,5",4,170,230,TRUE,FALSE,1,3,1,2
+1011433,,"Stretch 170W/2,5m2 0,5x5m Blå",Elastisk varmekabelmatte for nedstøping,7071236001331,"TF Stretch 425W/2,5m2 0,5x5m",Stretch 170W, 425,"2,5","0,5",5,170,230,TRUE,FALSE,1,3,1,2
+1011434,,"Stretch 170W/3m2 0,5x6m Blå",Elastisk varmekabelmatte for nedstøping,7071236001348,"TF Stretch 510W/3m2 0,5x6m",Stretch 170W, 510,3,"0,5",6,170,230,TRUE,FALSE,1,3,1,2
+1011435,,"Stretch 170W/3,5m2 0,5x7m Blå",Elastisk varmekabelmatte for nedstøping,7071236001355,"TF Stretch 595W/3,5m2 0,5x7m",Stretch 170W, 595,"3,5","0,5",7,170,230,TRUE,FALSE,1,3,1,2
+1011436,,"Stretch 170W/4m2 0,5x8m Blå",Elastisk varmekabelmatte for nedstøping,7071236001362,"TF Stretch 680W/4m2 0,5x8m",Stretch 170W, 680,4,"0,5",8,170,230,TRUE,FALSE,1,3,1,2
+1011437,,"Stretch 765W/4,5m2 0,5x9m",Varmekabelmatte for nedstøping,7071236001379,"TF Stretch 765W/4,5m2 0,5x9m",Stretch 765W, 765,"4,5","0,5",9,170,230,TRUE,FALSE,1,3,1,2
+1011438,,"Stretch 170W/5m2 0,5x10m Blå",Elastisk varmekabelmatte for nedstøping,7071236001386,"TF Stretch 850W/5m2 0,5x10m",Stretch 170W, 850,5,"0,5",10,170,230,TRUE,FALSE,1,3,1,2
+1011440,,"Stretch 170W/6m2 0,5x12m Blå",Elastisk varmekabelmatte for nedstøping,7071236001393,"TF Stretch 1020W/6m2 0,5x12m",Stretch 170W, 1020,6,"0,5",12,170,230,TRUE,FALSE,1,3,1,2
+1011442,,"Stretch 170W/7m2 0,5x14m Blå",Elastisk varmekabelmatte for nedstøping,7071236001409,"TF Stretch 1190W/7m2 0,5x14m",Stretch 170W, 1190,7,"0,5",14,170,230,TRUE,FALSE,1,3,1,2
+1011444,,"Stretch 170W/8m2 0,5x16m Blå",Elastisk varmekabelmatte for nedstøping,7071236001416,"TF Stretch 1360W/8m2 0,5x16m",Stretch 170W, 1360,8,"0,5",16,170,230,TRUE,FALSE,1,3,1,2
+1011446,,"Stretch 170W/9m2 0,5x18m Blå",Elastisk varmekabelmatte for nedstøping,7071236001423,"TF Stretch 1530W/9m2 0,5x18m",Stretch 170W, 1530,9,"0,5",18,170,230,TRUE,FALSE,1,3,1,2
+1011448,,"Stretch 170W/10m2 0,5x20m Blå",Elastisk varmekabelmatte for nedstøping,7071236001430,"TF Stretch 1700W/10m2 0,5x20m",Stretch 170W, 1700,10,"0,5",20,170,230,TRUE,FALSE,1,3,1,2
+1011450,,SBG-T 15W/m Sort,SBG for takrenner og nedløp,7071236001447,TF SBG-T 15W/m pr. m sort,SBG-T 15W,,,,,15,230,FALSE,FALSE,,,,2
+1011452,,"BHK 40W/m 3,3m 130W",Elektrisk varmekabel for betongherding,7071236001454,"TF BHK 40W/m 3,3m 130W",BHK 40W, 130,,,"3,3",40,230,FALSE,FALSE,,,,2
+1011453,,BHK 40W/m 10m 400W,Elektrisk varmekabel for betongherding,7071236001461,TF BHK 40W/m 10m 400W,BHK 40W, 400,,,10,40,230,FALSE,FALSE,,,,2
+1011454,,BHK 40W/m 20m 800W,Elektrisk varmekabel for betongherding,7071236001478,TF BHK 40W/m 20m 800W,BHK 40W, 800,,,20,40,230,FALSE,FALSE,,,,2
+1011455,,BHK 40W/m 35m 1400W,Elektrisk varmekabel for betongherding,7071236001485,TF BHK 40W/m 35m 1400W,BHK 40W, 1400,,,35,40,230,FALSE,FALSE,,,,2
+1011456,,BHK 40W/m 50m 2000W,Elektrisk varmekabel for betongherding,7071236009924,TF BHK 40W/m 50m 2000W,BHK 40W, 2000,,,50,40,230,FALSE,FALSE,,,,2
+1011458,,BHK 40W/m 85m 3500W,Elektrisk varmekabel for betongherding,7071236005230,TF BHK 40W/m 85m 3500W,BHK 40W, 3500,,,85,40,230,FALSE,FALSE,,,,2
+1011460,,SBG-T 25W/m Sort,SBG for takrenne og nedløp,7071236001492,TF SBG-T 25W/m pr. m sort,SBG-T 25W,,,,,25,230,FALSE,FALSE,,,,2
+1011461,,SBG-W55 25W/m Grå,SBG for varmtvann,7071236005247,TF SBG-W55 21W/m pr. m grå,SBG-W55 25W,,,,,21,230,FALSE,FALSE,,1,,2
+1011462,,SBG-W65 28W/m Grå,SBG for varmtvann,7071236001508,TF SBG-W65 28W/m pr. m grå,SBG-W65 28W,,,,,28,230,FALSE,FALSE,,1,,2
+1011473,,Stretch 300W/3m2 1x3m,Varmekabelmatte for nedstøping,7071236001539,TF Stretch 300W/3m2 1x3m,Stretch 300W, 300,3,1,3,,230,TRUE,FALSE,1,5,1,2
+1011474,,Stretch 400W/4m2 1x4m,Varmekabelmatte for nedstøping,7071236001546,TF Stretch 400W/4m2 1x4m,Stretch 400W, 400,4,1,4,,230,TRUE,FALSE,1,5,1,2
+1011475,,"Stretch 100W/5m2 0,5x10m Gul",Elastisk varmekabelmatte for nedstøping,7071236001553,"Stretch 100W/5m2 0,5x10m Gul",Stretch 100W,500,5,"0,5",10,100,230,TRUE,FALSE,3,,1,2
+1011476,,"Stretch 100W/6m2 0,5x12m Gul",Elastisk varmekabelmatte for nedstøping,7071236001560,"Stretch 100W/6m2 0,5x12m Gul",Stretch 100W,600,6,"0,5",12,100,230,TRUE,FALSE,3,,1,2
+1011477,,"Stretch 100W/7m2 0,5x14m Gul",Elastisk varmekabelmatte for nedstøping,7071236001577,"Stretch 100W/7m2 0,5x14m Gul",Stretch 100W,700,7,"0,5",14,100,230,TRUE,FALSE,3,,1,2
+1011478,,"Stretch 100W/8m2 0,5x16m Gul",Elastisk varmekabelmatte for nedstøping,7071236001584,"Stretch 100W/8m2 0,5x16m Gul",Stretch 100W,800,8,"0,5",16,100,230,TRUE,FALSE,3,,1,2
+1011479,,"Stretch 100W/9m2 0,5x18m Gul",Elastisk varmekabelmatte for nedstøping,7071236001591,"Stretch 100W/9m2 0,5x18m Gul",Stretch 100W,900,9,"0,5",18,100,230,TRUE,FALSE,3,,1,2
+1011480,,"Stretch 100W/10m2 0,5x20m Gul",Elastisk varmekabelmatte for nedstøping,7071236001607,"Stretch 100W/10m2 0,5x20m Gul",Stretch 100W,1000,10,"0,5",20,100,230,TRUE,FALSE,3,,1,2
+1011482,,"Stretch 100W/12m2 0,5x24m Gul",Elastisk varmekabelmatte for nedstøping,7071236001614,"Stretch 100W/12m2 0,5x24m Gul",Stretch 100W,1200,12,"0,5",24,100,230,TRUE,FALSE,3,,1,2
+1011484,,Stretch 100W/14m2 1x14m,Varmekabelmatte for nedstøping,7071236001621,Stretch 100W/14m2 1x14m,Stretch 100W,1400,14,1,14,100,230,TRUE,FALSE,3,,1,2
+1011486,,"Stretch 100W/16m2 0,5x32m Gul",Elastisk varmekabelmatte for nedstøping,7071236001638,"Stretch 100W/16m2 0,5x32m Gul",Stretch 100W,1600,16,"0,5",32,100,230,TRUE,FALSE,3,,1,2
+1011503,,Sticky Mat 60W/3m2 180W,Selvklebende varmekabelmatte,7071236009481,TF Sticky Mat 60W/3m2 180W,Sticky Mat 60W, 180,3,,,60,230,TRUE,FALSE,,,1,3
+1011504,,Sticky Mat 60W/4m2 240W,Selvklebende varmekabelmatte,7071236001645,TF Sticky Mat 60W/4m2 240W,Sticky Mat 60W, 240,4,,,60,230,TRUE,FALSE,,,1,3
+1011505,,Sticky Mat 60W/5m2 300W,Selvklebende varmekabelmatte,7071236001652,TF Sticky Mat 60W/5m2 300W,Sticky Mat 60W, 300,5,,,60,230,TRUE,FALSE,,,1,3
+1011506,,Sticky Mat 60W/6m2 360W,Selvklebende varmekabelmatte,7071236001669,TF Sticky Mat 60W/6m2 360W,Sticky Mat 60W, 360,6,,,60,230,TRUE,FALSE,,,1,3
+1011507,,Sticky Mat 60W/7m2 420W,Selvklebende varmekabelmatte,7071236001676,TF Sticky Mat 60W/7m2 420W,Sticky Mat 60W, 420,7,,,60,230,TRUE,FALSE,,,1,3
+1011508,,Sticky Mat 60W/8m2 480W,Selvklebende varmekabelmatte,7071236001683,TF Sticky Mat 60W/8m2 480W,Sticky Mat 60W, 480,8,,,60,230,TRUE,FALSE,,,1,3
+1011509,,Sticky Mat 60W/9m2 540W,Selvklebende varmekabelmatte,7071236001690,TF Sticky Mat 60W/9m2 540W,Sticky Mat 60W, 540,9,,,60,230,TRUE,FALSE,,,1,3
+1011510,,Sticky Mat 60W/10m2 600W,Selvklebende varmekabelmatte,7071236009498,TF Sticky Mat 60W/10m2 600W,Sticky Mat 60W, 600,10,,,60,230,TRUE,FALSE,,,1,3
+1011512,,Sticky Mat 60W/12m2 720W,Selvklebende varmekabelmatte,7071236009504,TF Sticky Mat 60W/12m2 720W,Sticky Mat 60W, 720,12,,,60,230,TRUE,FALSE,,,1,3
+1011513,,Sticky Mat 100W/3m2 300W,Selvklebende varmekabelmatte,7071236001706,TF Sticky Mat 100W/3m2 300W,Sticky Mat 100W, 300,3,,,100,230,TRUE,FALSE,,,1,3
+1011514,,Sticky Mat 100W/4m2 400W,Selvklebende varmekabelmatte,7071236001713,TF Sticky Mat 100W/4m2 400W,Sticky Mat 100W, 400,4,,,100,230,TRUE,FALSE,,,1,3
+1011515,,Sticky Mat 100W/5m2 500W,Selvklebende varmekabelmatte,7071236001720,TF Sticky Mat 100W/5m2 500W,Sticky Mat 100W, 500,5,,,100,230,TRUE,FALSE,,,1,3
+1011516,,Sticky Mat 100W/6m2 600W,Selvklebende varmekabelmatte,7071236001737,TF Sticky Mat 100W/6m2 600W,Sticky Mat 100W, 600,6,,,100,230,TRUE,FALSE,,,1,3
+1011517,,Sticky Mat 100W/7m2 700W,Selvklebende varmekabelmatte,7071236001744,TF Sticky Mat 100W/7m2 700W,Sticky Mat 100W, 700,7,,,100,230,TRUE,FALSE,,,1,3
+1011518,,Sticky Mat 100W/8m2 800W,Selvklebende varmekabelmatte,7071236001751,TF Sticky Mat 100W/8m2 800W,Sticky Mat 100W, 800,8,,,100,230,TRUE,FALSE,,,1,3
+1011519,,Sticky Mat 100W/9m2 900W,Selvklebende varmekabelmatte,7071236001768,TF Sticky Mat 100W/9m2 900W,Sticky Mat 100W, 900,9,,,100,230,TRUE,FALSE,,,1,3
+1011520,,Sticky Mat 100W/10m2 1000W,Selvklebende varmekabelmatte,7071236005407,TF Sticky Mat 100W/10m2 1000,Sticky Mat 100W,,10,,,100,230,TRUE,FALSE,,,1,3
+1011522,,Sticky Mat 100W/12m2 1200W,Selvklebende varmekabelmatte,7071236005414,TF Sticky Mat 100W/12m2 1200,Sticky Mat 100W,,12,,,100,230,TRUE,FALSE,,,1,3
+1011523,,Sticky Mat 130W/3m2 390W,Selvklebende varmekabelmatte,7071236001775,TF Sticky Mat 130W/3m2 390W,Sticky Mat 130W, 390,3,,,130,230,TRUE,FALSE,,,1,3
+1011524,,Sticky Mat 130W/4m2 520W,Selvklebende varmekabelmatte,7071236001782,TF Sticky Mat 130W/4m2 520W,Sticky Mat 130W, 520,4,,,130,230,TRUE,FALSE,,,1,3
+1011525,,Sticky Mat 130W/5m2 650W,Selvklebende varmekabelmatte,7071236001799,TF Sticky Mat 130W/5m2 650W,Sticky Mat 130W, 650,5,,,130,230,TRUE,FALSE,,,1,3
+1011526,,Sticky Mat 130W/6m2 780W,Selvklebende varmekabelmatte,7071236001805,TF Sticky Mat 130W/6m2 780W,Sticky Mat 130W, 780,6,,,130,230,TRUE,FALSE,,,1,3
+1011527,,Sticky Mat 130W/7m2 910W,Selvklebende varmekabelmatte,7071236001812,TF Sticky Mat 130W/7m2 910W,Sticky Mat 130W, 910,7,,,130,230,TRUE,FALSE,,,1,3
+1011528,,Sticky Mat 130W/8m2 1040W,Selvklebende varmekabelmatte,7071236001829,TF Sticky Mat 130W/8m2 1040W,Sticky Mat 130W, 1040,8,,,130,230,TRUE,FALSE,,,1,3
+1011529,,Sticky Mat 130W/9m2 1170W,Selvklebende varmekabelmatte,7071236001836,TF Sticky Mat 130W/9m2 1170W,Sticky Mat 130W, 1170,9,,,130,230,TRUE,FALSE,,,1,3
+1011530,,Sticky Mat 160W/1m2 160W,Selvklebende varmekabelmatte,7071236001843,TF Sticky Mat 160W/1m2 160W,Sticky Mat 160W, 160,1,,,160,230,TRUE,FALSE,,,1,3
+1011531,,"Sticky Mat 160W/1,5m2 240W",Selvklebende varmekabelmatte,7071236001850,"TF Sticky Mat 160W/1,5m2 240",Sticky Mat 160W,,"1,5",,,160,230,TRUE,FALSE,,,1,3
+1011532,,Sticky Mat 160W/2m2 320W,Selvklebende varmekabelmatte,7071236001867,TF Sticky Mat 160W/2m2 320W,Sticky Mat 160W, 320,2,,,160,230,TRUE,FALSE,,,1,3
+1011533,,"Sticky Mat 160W/2,5m2 400W",Selvklebende varmekabelmatte,7071236001874,"TF Sticky Mat 160W/2,5m2 400",Sticky Mat 160W,,"2,5",,,160,230,TRUE,FALSE,,,1,3
+1011534,,Sticky Mat 160W/3m2 480W,Selvklebende varmekabelmatte,7071236001881,TF Sticky Mat 160W/3m2 480W,Sticky Mat 160W, 480,3,,,160,230,TRUE,FALSE,,,1,3
+1011535,,"Sticky Mat 160W/3,5m2 560W",Selvklebende varmekabelmatte,7071236001898,"TF Sticky Mat 160W/3,5m2 560",Sticky Mat 160W,,"3,5",,,160,230,TRUE,FALSE,,,1,3
+1011536,,Sticky Mat 160W/4m2 640W,Selvklebende varmekabelmatte,7071236001904,TF Sticky Mat 160W/4m2 640W,Sticky Mat 160W, 640,4,,,160,230,TRUE,FALSE,,,1,3
+1011537,,"Sticky Mat 160W/4,5m2 720W",Selvklebende varmekabelmatte,7071236001911,"TF Sticky Mat 160W/4,5m2 720",Sticky Mat 160W,,"4,5",,,160,230,TRUE,FALSE,,,1,3
+1011538,,Sticky Mat 160W/5m2 800W,Selvklebende varmekabelmatte,7071236001928,TF Sticky Mat 160W/5m2 800W,Sticky Mat 160W, 800,5,,,160,230,TRUE,FALSE,,,1,3
+1011540,,Sticky Mat 160W/6m2 960W,Selvklebende varmekabelmatte,7071236001935,TF Sticky Mat 160W/6m2 960W,Sticky Mat 160W, 960,6,,,160,230,TRUE,FALSE,,,1,3
+1011542,,Sticky Mat 160W/7m2 1120W,Selvklebende varmekabelmatte,7071236001942,TF Sticky Mat 160W/7m2 1120W,Sticky Mat 160W, 1120,7,,,160,230,TRUE,FALSE,,,1,3
+1011544,,Sticky Mat 160W/8m2 1280W,Selvklebende varmekabelmatte,7071236001959,TF Sticky Mat 160W/8m2 1280W,Sticky Mat 160W, 1280,8,,,160,230,TRUE,FALSE,,,1,3
+1011546,,Sticky Mat 160W/9m2 1440W,Selvklebende varmekabelmatte,7071236001966,TF Sticky Mat 160W/9m2 1440W,Sticky Mat 160W, 1440,9,,,160,230,TRUE,FALSE,,,1,3
+1011550,,Sticky Mat 130W/10m2 1300W,Selvklebende varmekabelmatte,7071236005421,TF Sticky Mat 130W/10m2 1300,Sticky Mat 130W,,10,,,130,230,TRUE,FALSE,,,1,3
+1011552,,Sticky Mat 130W/12m2 1560W,Selvklebende varmekabelmatte,7071236005438,TF Sticky Mat 130W/12m2 1560,Sticky Mat 130W,,12,,,130,230,TRUE,FALSE,,,1,3
+1011553,,Sticky Mat,Selvklebende varmekabelmatte,7071236010968,TF Sticky Mat 100W/2m2 200W,Sticky Mat, 200,2,,,100,230,TRUE,FALSE,,,1,2
+1011554,,Sticky Mat,Selvklebende varmekabelmatte,7071236010975,"TF Sticky Mat 100W/3,5m2 350W",Sticky Mat, 350,"3,5",,,100,230,TRUE,FALSE,,,1,2
+1011561,,VK02 450W/15m 30W/m,Elektrisk varmekabel for nedstøping,7071236001980,VK02 450W/15m v-kabel 30W/m,VK02, 450,,,15,30,230,FALSE,FALSE,1,1,,1
+1011564,,VK02 900W/30m 30W/m,Elektrisk varmekabel for nedstøping,7071236002017,VK02 900W/30m v-kabel 30W/m,VK02, 900,,,30,30,230,FALSE,FALSE,1,1,,1
+1011565,,VK02 1050W/35m 30W/m,Elektrisk varmekabel for nedstøping,7071236002024,VK02 1050W/35m v-kabel 30W/m,VK02, 1050,,,35,30,230,FALSE,FALSE,1,1,,1
+1011566,,VK02 1200W/40m 30W/m,Elektrisk varmekabel for nedstøping,7071236002031,VK02 1200W/40m v-kabel 30W/m,VK02, 1200,,,40,30,230,FALSE,FALSE,1,1,,1
+1011567,,VK02 1350W/45m 30W/m,Elektrisk varmekabel for nedstøping,7071236002048,VK02 1350W/45m v-kabel 30W/m,VK02, 1350,,,45,30,230,FALSE,FALSE,1,1,,1
+1011570,,VK02 1800W/60m 30W/m,Elektrisk varmekabel for nedstøping,7071236002062,VK02 1800W/60m v-kabel 30W/m,VK02, 1800,,,60,30,230,FALSE,FALSE,1,1,,1
+1011600,,NSX 17 170W/10m 17W/m,Elektrisk varmekabel for nedstøping,7071236012795,NSX 17 170W/10m 17W/m,NSX 17, 170,,,10,17,230,FALSE,FALSE,1,1,,2
+1011601,,NSX 17 255W/15m 17W/m,Elektrisk varmekabel for nedstøping,7071236012801,NSX 17 255W/15m 17W/m,NSX 17, 255,,,15,17,230,FALSE,FALSE,1,1,,2
+1011602,,"NSX 17 300W/17,6m 17W/m",Elektrisk varmekabel for nedstøping,7071236012818,"NSX 17 300W/17,6m 17W/m",NSX 17, 300,,,"17,6",17,230,FALSE,FALSE,1,1,,2
+1011603,,"NSX 17 400W/23,5m 17W/m",Elektrisk varmekabel for nedstøping,7071236012825,"NSX 17 400W/23,5m 17W/m",NSX 17, 400,,,"23,5",17,230,FALSE,FALSE,1,1,,2
+1011604,,NSX 17 500W/30m 17W/m,Elektrisk varmekabel for nedstøping,7071236012832,NSX 17 500W/30m 17W/m,NSX 17, 500,,,30,17,230,FALSE,FALSE,1,1,,2
+1011605,,NSX 17 600W/35m 17W/m,Elektrisk varmekabel for nedstøping,7071236012849,NSX 17 600W/35m 17W/m,NSX 17, 600,,,35,17,230,FALSE,FALSE,1,1,,2
+1011606,,NSX 17 700W/41m 17W/m,Elektrisk varmekabel for nedstøping,7071236012856,NSX 17 700W/41m 17W/m,NSX 17, 700,,,41,17,230,FALSE,FALSE,1,1,,2
+1011607,,NSX 17 850W/50m 17W/m,Elektrisk varmekabel for nedstøping,7071236012863,NSX 17 850W/50m 17W/m,NSX 17, 850,,,50,17,230,FALSE,FALSE,1,1,,2
+1011608,,NSX 17 1000W/59m 17W/m,Elektrisk varmekabel for nedstøping,7071236012870,NSX 17 1000W/59m 17W/m,NSX 17, 1000,,,59,17,230,FALSE,FALSE,1,1,,2
+1011609,,NSX 17 1250W/74m 17W/m,Elektrisk varmekabel for nedstøping,7071236012887,NSX 17 1250W/74m 17W/m,NSX 17, 1250,,,74,17,230,FALSE,FALSE,1,1,,2
+1011612,,BVK 10 200W/20m 10W/m,Elektrisk varmekabel for nedstøping,7071236008439,TF BVK 10 200W/20m 10W/m,BVK 10, 200,,,20,10,230,FALSE,FALSE,1,1,,2
+1011613,,BVK 10 300W/30m 10W/m,Elektrisk varmekabel for nedstøping,7071236008446,TF BVK 10 300W/30m 10W/m,BVK 10, 300,,,30,10,230,FALSE,FALSE,1,1,,2
+1011614,,BVK 10 400W/40m 10W/m,Elektrisk varmekabel for nedstøping,7071236008453,TF BVK 10 400W/40m 10W/m,BVK 10, 400,,,40,10,230,FALSE,FALSE,1,1,,2
+1011615,,BVK 10 500W/50m 10W/m,Elektrisk varmekabel for nedstøping,7071236008460,TF BVK 10 500W/50m10W/m,BVK 10, 500,,,50,10,230,FALSE,FALSE,1,1,,2
+1011616,,BVK 10 600W/60m 10W/m,Elektrisk varmekabel for nedstøping,7071236008477,TF BVK 10 600W/60m10W/m,BVK 10, 600,,,60,10,230,FALSE,FALSE,1,1,,2
+1011617,,BVK 10 700W/70m 10W/m,Elektrisk varmekabel for nedstøping,7071236008484,TF BVK 10 700W/70m 10W/m,BVK 10, 700,,,70,10,230,FALSE,FALSE,1,1,,2
+1011618,,BVK 10 800W/80m 10W/m,Elektrisk varmekabel for nedstøping,7071236008491,TF BVK 10 800W/80m10W/m,BVK 10, 800,,,80,10,230,FALSE,FALSE,1,1,,2
+1011619,,BVK 10 900W/90m 10W/m,Elektrisk varmekabel for nedstøping,7071236008507,TF BVK 10 900W/90m10W/m,BVK 10, 900,,,90,10,230,FALSE,FALSE,1,1,,2
+1011620,,BVK 10 1000W/100m 10W/m,Elektrisk varmekabel for nedstøping,7071236008514,TF BVK 10 1000W/100m10W/m,BVK 10, 1000,,,100,10,230,FALSE,FALSE,1,1,,2
+1011622,,BVK 10 1200W/120m 10W/m,Elektrisk varmekabel for nedstøping,7071236008521,TF BVK 10 1200W/120m 10W/m,BVK 10, 1200,,,120,10,230,FALSE,FALSE,1,1,,2
+1011624,,BVK 10 1400W/140m 10W/m,Elektrisk varmekabel for nedstøping,7071236008538,TF BVK 10 1400W/140m 10W/m,BVK 10, 1400,,,140,10,230,FALSE,FALSE,1,1,,2
+1011626,,BVK 10 1600W/160m 10W/m,Elektrisk varmekabel for nedstøping,7071236008545,TF BVK 10 1600W/160m 10W/m,BVK 10, 1600,,,160,10,230,FALSE,FALSE,1,1,,2
+1011628,,BVK 10 1800W/180m 10W/m,Elektrisk varmekabel for nedstøping,7071236008552,TF BVK 10 1800W/180m 10W/m,BVK 10, 1800,,,180,10,230,FALSE,FALSE,1,1,,2
+1011638,,"SVK matte 2400W/8m2 0,5x16m",Utendørs varmekabelmatte,7071236009283,TF SVK matte 2400W/8m2,SVK matte, 2400,8,,,,230,TRUE,TRUE,1,1,1,2
+1011640,,"SVK matte 3000W/10m2 0,5x20m",Utendørs varmekabelmatte,7071236009290,TF SVK matte 3000W/10m2,SVK matte, 3000,10,,,,230,TRUE,TRUE,1,1,1,2
+1011642,,"SVK matte 3600W/12m2 0,5x24m",Utendørs varmekabelmatte,7071236009306,TF SVK matte 3600W/12m2,SVK matte, 3600,12,,,,230,TRUE,TRUE,1,1,1,2
+1011651,,"SVK 17 150W/8,8m 17W/m",Varmekabel i ferdige elementer 17W/m,7071236008576,"TF SVK 17 150W/8,8m 17W/m",SVK 17, 150,,,,17,230,FALSE,FALSE,1,1,1,2
+1011653,,"SVK 17 300W/17,6m 17W/m",Varmekabel i ferdige elementer 17W/m,7071236008583,"TF SVK 17 300W/17,6m 17W/m",SVK 17, 300,,,"17,6",17,230,FALSE,FALSE,1,1,,2
+1011654,,"SVK 17 400W/23,5m 17W/m",Varmekabel i ferdige elementer 17W/m,7071236008590,"TF SVK 17 400W/23,5m 17W/m",SVK 17, 400,,,"23,5",17,230,FALSE,FALSE,1,1,,2
+1011655,,SVK 17 500W/30m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008606,TF SVK 17 500W/30m 17W/m,SVK 17, 500,,,30,17,230,FALSE,FALSE,1,1,,2
+1011656,,SVK 17 600W/35m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008613,TF SVK 17 600W/35m 17W/m,SVK 17, 600,,,35,17,230,FALSE,FALSE,1,1,,2
+1011657,,SVK 17 700W/41m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008620,TF SVK 17 700W/41m 17W/m,SVK 17, 700,,,41,17,230,FALSE,FALSE,1,1,,2
+1011658,,SVK 17 850W/50m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008637,TF SVK 17 850W/50m 17W/m,SVK 17, 850,,,50,17,230,FALSE,FALSE,1,1,,2
+1011660,,SVK 17 1000W/59m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008644,TF SVK 17 1000W/59m 17W/m,SVK 17, 1000,,,59,17,230,FALSE,FALSE,1,1,,2
+1011662,,SVK 17 1250W/74m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008651,TF SVK 17 1250W/74m 17W/m,SVK 17, 1250,,,74,17,230,FALSE,FALSE,1,1,,2
+1011665,,SVK 17 1500W/88m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008668,TF SVK 17 1500W/88m 17W/m,SVK 17, 1500,,,88,17,230,FALSE,FALSE,1,1,,2
+1011667,,SVK 17 1700W/100m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008675,TF SVK 17 1700W/100m 17W/m,SVK 17, 1700,,,100,17,230,FALSE,FALSE,1,1,,2
+1011668,,SVK 17 2100W/123m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008682,TF SVK 17 2100W/123m 17W/m,SVK 17, 2100,,,123,17,230,FALSE,FALSE,1,1,,2
+1011669,,SVK 17 2600W/153m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008699,TF SVK 17 2600W/153m 17W/m,SVK 17, 2600,,,153,17,230,FALSE,FALSE,1,1,,2
+1011670,,SVK 17 2900W/171m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008705,TF SVK 17 2900W/171m 17W/m,SVK 17, 2900,,,171,17,230,FALSE,FALSE,1,1,,2
+1011672,,SVK 17 3300W/194m 17W/m,Varmekabel i ferdige elementer 17W/m,7071236008712,TF SVK 17 3300W/194m 17W/m,SVK 17, 3300,,,194,17,230,FALSE,FALSE,1,1,,2
+1011680,,SVK 30 300W/10m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008729,TF SVK 30 300W/10m 30W/m,SVK 30, 300,,,10,30,230,FALSE,TRUE,1,1,,2
+1011681,,SVK 30 450W/15m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008736,TF SVK 30 450W/15m 30W/m,SVK 30, 450,,,15,30,230,FALSE,TRUE,1,1,,2
+1011682,,SVK 30 600W/20m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008743,TF SVK 30 600W/20m 30W/m,SVK 30, 600,,,20,30,230,FALSE,TRUE,1,1,,2
+1011683,,SVK 30 750W/25m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008750,TF SVK 30 750W/25m 30W/m,SVK 30, 750,,,25,30,230,FALSE,TRUE,1,1,,2
+1011684,,SVK 30 900W/30m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008767,TF SVK 30 900W/30m 30W/m,SVK 30, 900,,,30,30,230,FALSE,TRUE,1,1,,2
+1011686,,SVK 30 1200W/40m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008774,TF SVK 30 1200W/40m 30W/m,SVK 30, 1200,,,40,30,230,FALSE,TRUE,1,1,,2
+1011688,,SVK 30 1500W/50m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008781,TF SVK 30 1500W/50m 30W/m,SVK 30, 1500,,,50,30,230,FALSE,TRUE,1,1,,2
+1011690,,SVK 30 1800W/60m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008798,TF SVK 30 1800W/60m 30W/m,SVK 30, 1800,,,60,30,230,FALSE,TRUE,1,1,,2
+1011692,,SVK 30 2100W/70m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008804,TF SVK 30 2100W/70m 30W/m,SVK 30, 2100,,,70,30,230,FALSE,TRUE,1,1,,2
+1011694,,SVK 30 2400W/80m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008811,TF SVK 30 2400W/80m 30W/m,SVK 30, 2400,,,80,30,230,FALSE,TRUE,1,1,,2
+1011696,,SVK 30 3000W/100m 30W/m,Varmekabel utendørs bruk 30W/m,7071236008828,TF SVK 30 3000W/100m 30W/m,SVK 30, 3000,,,100,30,230,FALSE,TRUE,1,1,,2
+1011698,,SVK 30 3600W/120m 30W/mTF,Varmekabel utendørs bruk 30W/m,7071236008835,TF SVK 30 3600W/120m 30W/m,SVK 30, 3600,,,120,30,230,FALSE,TRUE,1,1,,2
+1021513,,Sticky Pro 100W/3m2 300W,Selvklebende varmekabelmatte,7071236013006,TF Sticky Pro 100W/3m2 300W,Sticky Pro 100W, 300,3,,,100,230,TRUE,FALSE,,,1,3
+1021514,,Sticky Pro 100W/4m2 400W,Selvklebende varmekabelmatte,7071236013013,TF Sticky Pro 100W/4m2 400W,Sticky Pro 100W, 400,4,,,100,230,TRUE,FALSE,,,1,3
+1021515,,Sticky Pro 100W/5m2 500W,Selvklebende varmekabelmatte,7071236013020,TF Sticky Pro 100W/5m2 500W,Sticky Pro 100W, 500,5,,,100,230,TRUE,FALSE,,,1,3
+1021516,,Sticky Pro 100W/6m2 600W,Selvklebende varmekabelmatte,7071236013037,TF Sticky Pro 100W/6m2 600W,Sticky Pro 100W, 600,6,,,100,230,TRUE,FALSE,,,1,3
+1021517,,Sticky Pro 100W/7m2 700W,Selvklebende varmekabelmatte,7071236013044,TF Sticky Pro 100W/7m2 700W,Sticky Pro 100W, 700,7,,,100,230,TRUE,FALSE,,,1,3
+1021518,,Sticky Pro 100W/8m2 800W,Selvklebende varmekabelmatte,7071236013051,TF Sticky Pro 100W/8m2 800W,Sticky Pro 100W, 800,8,,,100,230,TRUE,FALSE,,,1,3
+1021519,,Sticky Pro 100W/9m2 900W,Selvklebende varmekabelmatte,7071236013068,TF Sticky Pro 100W/9m2 900W,Sticky Pro 100W, 900,9,,,100,230,TRUE,FALSE,,,1,3
+1021520,,Sticky Pro 100W/10m2 1000W,Selvklebende varmekabelmatte,7071236013075,TF Sticky Pro 100W/10m2 1000W,Sticky Pro 100W, 1000,10,,,100,230,TRUE,FALSE,,,1,3
+1021522,,Sticky Pro 100W/12m2 1200W,Selvklebende varmekabelmatte,7071236013082,TF Sticky Pro 100W/12m2 1200W,Sticky Pro 100W, 1200,12,,,100,230,TRUE,FALSE,,,1,3
+1021525,,Sticky Pro 100W/15m2 1500W,Selvklebende varmekabelmatte,7071236013099,TF Sticky Pro 100W/15m2 1500W,Sticky Pro 100W, 1500,15,,,100,230,TRUE,FALSE,,,1,3
+1021530,,Sticky Pro 150W/1m2 150W,Selvklebende varmekabelmatte,7071236013105,TF Sticky Pro 150W/1m2 150W,Sticky Pro 150W, 150,1,,,150,230,TRUE,FALSE,,,1,3
+1021531,,"Sticky Pro 150W/1,5m2 225W",Selvklebende varmekabelmatte,7071236013112,"TF Sticky Pro 150W/1,5m2 225W",Sticky Pro 150W, 225,"1,5",,,150,230,TRUE,FALSE,,,1,3
+1021532,,Sticky Pro 150W/2m2 300W,Selvklebende varmekabelmatte,7071236013129,TF Sticky Pro 150W/2m2 300W,Sticky Pro 150W, 300,2,,,150,230,TRUE,FALSE,,,1,3
+1021533,,"Sticky Pro 150W/2,5m2 375W",Selvklebende varmekabelmatte,7071236013136,"TF Sticky Pro 150W/2,5m2 375W",Sticky Pro 150W, 375,"2,5",,,150,230,TRUE,FALSE,,,1,3
+1021534,,Sticky Pro 150W/3m2 450W,Selvklebende varmekabelmatte,7071236013143,TF Sticky Pro 150W/3m2 450W,Sticky Pro 150W, 450,3,,,150,230,TRUE,FALSE,,,1,3
+1021535,,"Sticky Pro 150W/3,5m2 525W",Selvklebende varmekabelmatte,7071236013150,"TF Sticky Pro 150W/3,5m2 525W",Sticky Pro 150W, 525,"3,5",,,150,230,TRUE,FALSE,,,1,3
+1021536,,Sticky Pro 150W/4m2 600W,Selvklebende varmekabelmatte,7071236013167,TF Sticky Pro 150W/4m2 600W,Sticky Pro 150W, 600,4,,,150,230,TRUE,FALSE,,,1,3
+1021537,,"Sticky Pro 150W/4,5m2 675W",Selvklebende varmekabelmatte,7071236013174,"TF Sticky Pro 150W/4,5m2 675W",Sticky Pro 150W, 675,"4,5",,,150,230,TRUE,FALSE,,,1,3
+1021538,,Sticky Pro 150W/5m2 750W,Selvklebende varmekabelmatte,7071236013181,TF Sticky Pro 150W/5m2 750W,Sticky Pro 150W, 750,5,,,150,230,TRUE,FALSE,,,1,3
+1021540,,Sticky Pro 150W/6m2 900W,Selvklebende varmekabelmatte,7071236013198,TF Sticky Pro 150W/6m2 900W,Sticky Pro 150W, 900,6,,,150,230,TRUE,FALSE,,,1,3
+1021542,,Sticky Pro 150W/7m2 1050W,Selvklebende varmekabelmatte,7071236013204,TF Sticky Pro 150W/7m2 1050W,Sticky Pro 150W, 1050,7,,,150,230,TRUE,FALSE,,,1,3
+1021544,,Sticky Pro 150W/8m2 1200W,Selvklebende varmekabelmatte,7071236013211,TF Sticky Pro 150W/8m2 1200W,Sticky Pro 150W, 1200,8,,,150,230,TRUE,FALSE,,,1,3
+1021546,,Sticky Pro 150W/9m2 1350W,Selvklebende varmekabelmatte,7071236013228,TF Sticky Pro 150W/9m2 1350W,Sticky Pro 150W, 1350,9,,,150,230,TRUE,FALSE,,,1,3
+5430403,,Varmefolie 30cm 60W/m2,Varmefolie som parkettunderlag 50m rull,7071236008330,TF varmefolie 60W/m2 30cm,Varmefolie 30cm,,,"0,3",,60,230,FALSE,FALSE,,,,2
+5430405,,Varmefolie 50cm 60W/m2,Varmefolie som parkettunderlag 100m rull,7071236008347,TF varmefolie 60W/m2 50cm,Varmefolie 50cm,,,"0,5",,60,230,FALSE,FALSE,,,,2
+5430407,,Varmefolie 80cm 60W/m2,Varmefolie som parkettunderlag 70m rull,7071236011910,TF varmefolie 80cm 60W/m2,Varmefolie 80cm,,,"0,8",,60,230,FALSE,FALSE,,,,2
+5430410,,Varmefolie 100cm 60W/m2,Varmefolie som parkettunderlag 70m rull,7071236008378,TF varmefolie 60W/m2 100cm,Varmefolie 100cm,,,1,,60,230,FALSE,FALSE,,,,2
+5430420,,Varmefolie 50cm 100W/m2,Varmefolie som parkettunderlag 100m rull,7071236008415,TF varmefolie 100W/m2 50cm,Varmefolie 50cm,,,"0,5",,100,230,FALSE,FALSE,,,,2
