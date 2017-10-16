@@ -15,7 +15,6 @@ from models_product import (
     Manufacturor,
     Product,
     ProductType,
-    ProductCatagory
 )
 from models_credentials import (
     Company,
@@ -83,12 +82,20 @@ def setup_products(dictionary, ledere, manufacturor):
     """Fill the database with products, types and specs from a dictionary."""
     for name, val in dictionary.items():
         # Create a ProductType
+        try:
+            val['inside']
+        except KeyError:
+            print('MISSING', val, val.get('Type'))
         pt = ProductType(
             name=val.get('Type'),
             description=val.get('Description'),
             mainSpec=val.get('MainSpec'),
             secondarySpec=val['Voltage'],
-            catagory=val['catagory'],
+            isMat=val['isMat'],
+            self_limiting=val.get('self_limiting', False),
+            per_meter=val.get('per_meter', False),
+            outside=val['outside'],
+            inside=val['inside'],
             manufacturor=manufacturor
         )
         # Create products with this product_type
@@ -111,18 +118,6 @@ def csv_reader(file_name, **kwargs):
         for csv_row in data:
             data_list.append(csv_row)
     return data_list
-
-
-def get_product_catagory(outside, mat):
-    """Return the correct product_type."""
-    if mat and outside:
-        return ProductCatagory.mat_outside
-    if not mat and outside:
-        return ProductCatagory.cable_outside
-    if mat and not outside:
-        return ProductCatagory.mat_inside
-    if not mat and not outside:
-        return ProductCatagory.cable_inside
 
 
 def csv_parse_multiple_files(path, **kwargs):
@@ -171,12 +166,12 @@ def csv_parse_multiple_files(path, **kwargs):
                     'ArtNr',
                     'Area',
                     'Width',
-                    'Length',
                 }))
-            data[this_name]['catagory'] = get_product_catagory(
-                row['outside'] == 'FALSE',
-                row['isMat'] == 'TRUE'
-            )
+            data[this_name]['outside'] = row['outside']
+            data[this_name]['inside'] = row['inside']
+            data[this_name]['self_limiting'] = row['self_limiting']
+            data[this_name]['per_meter'] = row['per_meter']
+            data[this_name]['isMat'] = row['isMat']
     return data
 
 
@@ -282,7 +277,6 @@ def create_rooms():
             print('Table is not empty., quitting. Append "empty" to empty it.')
             return
         for room in rooom_info_list:
-            print(room)
             db.session.add(RoomTypeInfo(
                 names=room['names'],
                 maxEffect=room['maxEffect'],
