@@ -100,37 +100,37 @@ El nummer,ArtNr,Name,Voltage,Effect,MainSpec,Length,Area,Width,Weight,R_min,R_ma
 10 365 31,10224792,Millimat/150 1200W 8m² (HS),230,1200,150,16,8,"0,5","5,9",,,"44,1",,1036531,Millimat,low_profile,TRUE,FALSE,FALSE,TRUE,FALSE
 10 081 67,10224793,"Millimat/150 1500W 10,0m² (HS)",230,1500,150,20,10,"0,5",7,,,"35,3",,1008167,Millimat,low_profile,TRUE,FALSE,FALSE,TRUE,FALSE
 10 081 68,10224794,"Millimat/150 1800W 12,0m² (HS)",230,1800,150,24,12,"0,5",9,,,"29,4",,1008168,Millimat,low_profile,TRUE,FALSE,FALSE,TRUE,FALSE
-1008196,10264907,Defrost Flex 7-12W/m 230-500V,230,7,7,,,,"0,73",,"7103,714286","7557,142857","4628,75",1008196,Defrost Flex,frost_protection_pipe,FALSE,FALSE,TRUE,TRUE,TRUE
+1008196,10264907,Defrost Flex 7-12W/m 230-500V,230,,7,,,,"0,73",,"7103,714286","7557,142857","4628,75",1008196,Defrost Flex,frost_protection_pipe,FALSE,FALSE,TRUE,TRUE,TRUE
 1008197,10229832,Timematte 1x3m 1000W/230V,230,1000,,3,3,"1,00",11,,,"52,9",,1008197,Timematte,"Schuco, defrost",TRUE,FALSE,FALSE,FALSE,TRUE
-10022318,1036125,"TKXP 1-Leder 0,05 Ohm/m",500,,,,,"0,67","13,6",,,"0,05",,10022318,TKXP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10022316,1036126,"TKXP 1-Leder 0,07 Ohm/m",500,,,,,"0,64","12,5",,,"0,07",,10022316,TKXP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10022319,1036124,"TKXP 1-Leder 0,09 Ohm/m",500,,,,,"0,63","12,3",,,"0,09",,10022319,TKXP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10022321,1036115,"TKXP 1-Leder 0,13 Ohm/m",500,,,,,"0,67","12,9",,,"0,13",,10022321,TKXP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10022313,1036123,"TKXP 1-Leder 0,2 Ohm/m",500,,,,,"0,63","12,2",,,"0,2",,10022313,TKXP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10022314,1036130,"TKXP 1-Leder 0,3 Ohm/m",500,,,,,"0,64","12,1",,,"0,3",,10022314,TKXP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10022315,1036122,"TKXP 1-Leder 0,49 Ohm/m",500,,,,,"0,64","12,5",,,"0,49",,10022315,TKXP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10022317,1036118,"TKXP 1-Leder 0,7 Ohm/m",500,,,,,"0,64","11,8",,,"0,7",,10022317,TKXP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10022320,1036114,"TKXP 1-Leder 1,0 Ohm/m",500,,,,,"0,63","12,1",,,1,,10022320,TKXP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10022322,1036110,"TKXP 1-Leder 1,4 Ohm/m",500,,,,,"0,67","11,5",,,"1,41",,10022322,TKXP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10156607,1008180,"TXLP 1-Leder 0,05 Ohm/m",500,,,,,"0,63","5,8",,,"0,05",,10156607,TXLP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10156608,1008181,"TXLP 1-Leder 0,07 Ohm/m",500,,,,,"0,61","5,3",,,"0,07",,10156608,TXLP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10156609,1008182,"TXLP 1-Leder 0,09 Ohm/m",500,,,,,"0,63","5,3",,,"0,09",,10156609,TXLP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10156610,1008183,"TXLP 1-Leder 0,13 Ohm/m",500,,,,,"0,65","5,6",,,"0,13",,10156610,TXLP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10156611,1008184,"TXLP 1-Leder 0,2 Ohm/m",500,,,,,"0,61","5,3",,,"0,2",,10156611,TXLP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10156612,1008185,"TXLP 1-Leder 0,3 Ohm/m",500,,,,,"0,60","5,3",,,"0,3",,10156612,TXLP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10156613,1008186,"TXLP 1-Leder 0,49 Ohm/m",500,,,,,"0,60","5,3",,,"0,49",,10156613,TXLP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10156644,1008187,"TXLP 1-Leder 0,7 Ohm/m",500,,,,,"0,69","5,1",,,"0,7",,10156644,TXLP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10156645,1008188,"TXLP 1-Leder 1,0 Ohm/m",500,,,,,"0,63","5,2",,,1,,10156645,TXLP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10156646,1008189,"TXLP 1-Leder 1,4 Ohm/m",500,,,,,"0,63",5,,,"1,4",,10156646,TXLP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10156647,1008190,"TXLP 1-Leder 2,5 Ohm/m",500,,,,,"0,61","5,1",,,"2,5",,10156647,TXLP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10156648,1008191,"TXLP 1-Leder 3,5 Ohm/m",500,,,,,"0,61","4,9",,,"3,5",,10156648,TXLP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10156649,1008192,"TXLP 1-Leder 5,35 Ohm/m",500,,,,,"0,61","4,6",,,"5,35",,10156649,TXLP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10156650,1008193,"TXLP 1-Leder 7,7 Ohm/m",500,,,,,"0,60","4,6",,,"7,7",,10156650,TXLP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10156651,1008194,"TXLP 1-Leder 12,7 Ohm/m",500,,,,,"0,63","4,6",,,"12,7",,10156651,TXLP 1,"low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
-10182113,1037300,DEFROST PIPE 10,230,,,,,,"9,1",,,,,10182113,Defrost Pipe 10,"frost_protection_pipe, self_limiting",FALSE,TRUE,TRUE,TRUE,TRUE
-10174809,1037301,DEFROST PIPE 15 - AO,230,,,,,,"5,3",,,,,10174809,Defrost Pipe 15 - AO,"frost_protection_pipe, self_limiting",FALSE,TRUE,TRUE,TRUE,TRUE
-10174810,1037303,DEFROST PIPE 20 / GUTTER,230,,,,,,"9,1",,,,,10174810,Defrost Pipe 20 / Gutter,"frost_protection_pipe, self_limiting",FALSE,TRUE,TRUE,TRUE,TRUE
-10174811,1037305,DEFROST PIPE 30,230,,,,,,"9,1",,,,,10174811,Defrost Pipe 30,"frost_protection_pipe, self_limiting",FALSE,TRUE,TRUE,TRUE,TRUE
+1036125,10022318,"TKXP 1-Leder 0,05 Ohm/m",500,,,,,"0,67","13,6",,,"0,05",,1036125,"TKXP 1-Leder 0,05 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1036126,10022316,"TKXP 1-Leder 0,07 Ohm/m",500,,,,,"0,64","12,5",,,"0,07",,1036126,"TKXP 1-Leder 0,07 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1036124,10022319,"TKXP 1-Leder 0,09 Ohm/m",500,,,,,"0,63","12,3",,,"0,09",,1036124,"TKXP 1-Leder 0,09 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1036115,10022321,"TKXP 1-Leder 0,13 Ohm/m",500,,,,,"0,67","12,9",,,"0,13",,1036115,"TKXP 1-Leder 0,13 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1036123,10022313,"TKXP 1-Leder 0,2 Ohm/m",500,,,,,"0,63","12,2",,,"0,2",,1036123,"TKXP 1-Leder 0,2 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1036130,10022314,"TKXP 1-Leder 0,3 Ohm/m",500,,,,,"0,64","12,1",,,"0,3",,1036130,"TKXP 1-Leder 0,3 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1036122,10022315,"TKXP 1-Leder 0,49 Ohm/m",500,,,,,"0,64","12,5",,,"0,49",,1036122,"TKXP 1-Leder 0,49 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1036118,10022317,"TKXP 1-Leder 0,7 Ohm/m",500,,,,,"0,64","11,8",,,"0,7",,1036118,"TKXP 1-Leder 0,7 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1036114,10022320,"TKXP 1-Leder 1,0 Ohm/m",500,,,,,"0,63","12,1",,,1,,1036114,"TKXP 1-Leder 1,0 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1036110,10022322,"TKXP 1-Leder 1,4 Ohm/m",500,,,,,"0,67","11,5",,,"1,41",,1036110,"TKXP 1-Leder 1,4 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1008180,10156607,"TXLP 1-Leder 0,05 Ohm/m",500,,,,,"0,63","5,8",,,"0,05",,1008180,"TXLP 1-Leder 0,05 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1008181,10156608,"TXLP 1-Leder 0,07 Ohm/m",500,,,,,"0,61","5,3",,,"0,07",,1008181,"TXLP 1-Leder 0,07 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1008182,10156609,"TXLP 1-Leder 0,09 Ohm/m",500,,,,,"0,63","5,3",,,"0,09",,1008182,"TXLP 1-Leder 0,09 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1008183,10156610,"TXLP 1-Leder 0,13 Ohm/m",500,,,,,"0,65","5,6",,,"0,13",,1008183,"TXLP 1-Leder 0,13 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1008184,10156611,"TXLP 1-Leder 0,2 Ohm/m",500,,,,,"0,61","5,3",,,"0,2",,1008184,"TXLP 1-Leder 0,2 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1008185,10156612,"TXLP 1-Leder 0,3 Ohm/m",500,,,,,"0,60","5,3",,,"0,3",,1008185,"TXLP 1-Leder 0,3 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1008186,10156613,"TXLP 1-Leder 0,49 Ohm/m",500,,,,,"0,60","5,3",,,"0,49",,1008186,"TXLP 1-Leder 0,49 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1008187,10156644,"TXLP 1-Leder 0,7 Ohm/m",500,,,,,"0,69","5,1",,,"0,7",,1008187,"TXLP 1-Leder 0,7 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1008188,10156645,"TXLP 1-Leder 1,0 Ohm/m",500,,,,,"0,63","5,2",,,1,,1008188,"TXLP 1-Leder 1,0 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1008189,10156646,"TXLP 1-Leder 1,4 Ohm/m",500,,,,,"0,63",5,,,"1,4",,1008189,"TXLP 1-Leder 1,4 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1008190,10156647,"TXLP 1-Leder 2,5 Ohm/m",500,,,,,"0,61","5,1",,,"2,5",,1008190,"TXLP 1-Leder 2,5 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1008191,10156648,"TXLP 1-Leder 3,5 Ohm/m",500,,,,,"0,61","4,9",,,"3,5",,1008191,"TXLP 1-Leder 3,5 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1008192,10156649,"TXLP 1-Leder 5,35 Ohm/m",500,,,,,"0,61","4,6",,,"5,35",,1008192,"TXLP 1-Leder 5,35 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1008193,10156650,"TXLP 1-Leder 7,7 Ohm/m",500,,,,,"0,60","4,6",,,"7,7",,1008193,"TXLP 1-Leder 7,7 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1008194,10156651,"TXLP 1-Leder 12,7 Ohm/m",500,,,,,"0,63","4,6",,,"12,7",,1008194,"TXLP 1-Leder 12,7 Ohm/m","low_profile, frost_protection, frost_protection_pipe",FALSE,FALSE,TRUE,TRUE,TRUE
+1037300,10182113,DEFROST PIPE 10,230,,,,,,"9,1",,,,,1037300,Defrost Pipe 10,"frost_protection_pipe, self_limiting",FALSE,TRUE,TRUE,TRUE,TRUE
+1037301,10174809,DEFROST PIPE 15 - AO,230,,,,,,"5,3",,,,,1037301,Defrost Pipe 15 - AO,"frost_protection_pipe, self_limiting",FALSE,TRUE,TRUE,TRUE,TRUE
+1037303,10174810,DEFROST PIPE 20 / GUTTER,230,,,,,,"9,1",,,,,1037303,Defrost Pipe 20 / Gutter,"frost_protection_pipe, self_limiting",FALSE,TRUE,TRUE,TRUE,TRUE
+1037305,10174811,DEFROST PIPE 30,230,,,,,,"9,1",,,,,1037305,Defrost Pipe 30,"frost_protection_pipe, self_limiting",FALSE,TRUE,TRUE,TRUE,TRUE
 1037313,10254904,DEFROST WATER KIT 10m,230,,,10,,,,,,,,1037313,Defrost Water Kit 10m,"frost_protection_pipe, self_limiting, schuco",FALSE,TRUE,FALSE,TRUE,TRUE
 1037314,10254905,DEFROST WATER KIT 15m,230,,,15,,,,,,,,1037314,Defrost Water Kit 15m,"frost_protection_pipe, self_limiting, schuco",FALSE,TRUE,FALSE,TRUE,TRUE
 1037315,10254906,DEFROST WATER KIT 20m,230,,,20,,,,,,,,1037315,Defrost Water Kit 20m,"frost_protection_pipe, self_limiting, schuco",FALSE,TRUE,FALSE,TRUE,TRUE
