@@ -166,6 +166,7 @@ def csv_parse_multiple_files(path, **kwargs):
                     'ArtNr',
                     'Area',
                     'Width',
+                    'Length',
                 }))
             data[this_name]['outside'] = row['outside']
             data[this_name]['inside'] = row['inside']
